@@ -1,0 +1,47 @@
+@media only screen and (max-width: 1400px) {
+  .subheading {
+    font-size: 12px;
+  }
+
+  .portfolio-slider .swiper-slide {
+    width: 250px !important;
+  }
+
+  h1 {
+    font-size: 32px !important;
+  }
+
+  h2 {
+    font-size: 30px !important;
+  }
+  h3 {
+    font-size: 22px !important;
+  }
+  h4 {
+    font-size: 22px !important;
+  }
+  p,
+  .nav-item,
+  li {
+    font-size: 12px !important;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+  .container {
+    max-width: 100% !important;
+  }
+
+  .navbar .container {
+    border: none !important;
+  }
+}
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 480px) {
+}
