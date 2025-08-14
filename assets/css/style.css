@@ -483,12 +483,106 @@ section {
   }
 }
 
-.genreSwiper .swiper-slide {
+/* .genreSwiper .swiper-slide {
   width: 300px !important;
+} */
+
+.genre-section {
+  background: url(/assets/images/bg-pano.png) no-repeat bottom;
+  background-size: contain;
+}
+
+.genre-section h1 {
+  font-size: 180px;
+  opacity: 0.1;
+  font-weight: bolder;
 }
 
 .genreSwiper .swiper-slide img {
-  width: 100%;
-  height: 100%;
+  width: 300px !important;
   object-fit: cover !important;
+}
+
+
+.faq-section .accordion-item {
+  
+  border: none !important;
+  border-bottom: 1px solid #a09e9e !important;
+}
+
+.faq-section .accordion-header {
+  font-family: sans-serif;
+  font-size: 32px !important;
+}
+
+.faq-section .accordion-button {
+  box-shadow: none;
+}
+
+.faq-section .accordion-button:not(.collapsed) {
+  background-color: #1f2937 !important;
+  color: white !important;
+  
+}
+
+.faq-section .accordion-button::after {
+  background-image: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  content: "\2b";
+  font-size: 12px;
+  font-family: "fontawesome";
+  border: 1px solid black;
+  border-radius: 50px;
+  transform: none;
+}
+
+.faq-section .accordion-button:not(.collapsed)::after {
+  color: white !important;
+  border: 1px solid white !important;
+}
+
+.footer {
+  background-color: #1d1d1f;
+  font-family: "luxury-regular", sans-serif;
+  color: white;
+}
+
+.newsletter {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  max-width: 500px;
+  height: 100%;
+  border-radius: 50px;
+
+}
+
+.newsletter .inp {
+  padding: 20px;
+  width: 100%;
+  outline: none;
+  border: none;
+  border-radius: 50px !important;
+}
+
+.newsletter .btn {
+  position: absolute;
+  right: 0px;
+  box-shadow: none !important;
+  border: none !important;
+  background: var(--primary-dark) !important;
+  padding: 20px 40px;
+  font-weight: normal;
+}
+
+.social-box .icon {
+  background-color: #3e3e3e;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
 }

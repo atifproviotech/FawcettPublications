@@ -403,49 +403,134 @@
 
     <section class="genre-section">
         <div class="container">
-            <div class="row">
-                <h1 class="">Genres</h1>
-                <div class="col-6 text-center">
+            <h1 class="text-center">Genres</h1>
+            <div class="row justify-content-center h-100 pb-5 text-center align-items-center">
+                <div class="col-10 text-center">
                     <div class="swiper genreSwiper w-100">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <h3></h3>
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Action</h3>
                                 <img class="w-100" src="/assets/images/action.webp" alt="action">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Comics</h3>
                                 <img class="w-100" src="/assets/images/comics.webp" alt="comics">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Fiction</h3>
                                 <img class="w-100" src="/assets/images/fiction.png" alt="fiction">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Children</h3>
                                 <img class="w-100" src="/assets/images/childrens.webp" alt="children">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Romance</h3>
                                 <img class="w-100" src="/assets/images/romance.png" alt="romance">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Sci-Fi</h3>
                                 <img class="w-100" src="/assets/images/sci-fi.png" alt="sci-fi">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Mystery</h3>
                                 <img class="w-100" src="/assets/images/mystery.png" alt="mystery">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Thriller</h3>
                                 <img class="w-100" src="/assets/images/thriller.png" alt="thriller">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Non-fiction</h3>
                                 <img class="w-100" src="/assets/images/non-fiction.webp" alt="non-fiction">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Adult Books</h3>
                                 <img class="w-100" src="/assets/images/adult-books.webp" alt="adult-book">
                             </div>
                         </div>
-                        <div class="swiper-pagination"></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+
+    <!-- Scroll Section -->
+
+
+
+    <section class="faq-section py-5">
+        <div class="container">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-10">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What types of book publishing services do you offer?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    We provide comprehensive services including manuscript editing, cover design, book printing, e-book publishing, and post-publishing support to ensure your book reaches its full potential.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How do you handle cover design?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Our cover design process involves working closely with authors to understand the essence of their book. We then create a visually compelling cover that appeals to the target audience and enhances marketability.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                   What kind of marketing support do you provide after publishing?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Post-publishing, we offer marketing services that include creating detailed summaries, managing social media campaigns, arranging book signings, and securing spots in bookstores to maximize your book’s reach and impact.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                   How long does the publishing process take from manuscript submission to final product?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    The timeline can vary based on several factors, including the length of the manuscript and the specific services required. Generally, the process takes anywhere from three to six months from manuscript submission to having a fully published book ready for distribution.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <?php include "./includes/footer.php" ?>
 
     <?php include "./includes/scripts.php" ?>
 </body>
