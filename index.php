@@ -4,15 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Brand | Home</title>
 
     <?php include "./includes/meta.php" ?>
 </head>
 
 <body>
     <?php include "./includes/header.php" ?>
-
-    <?php include "./includes/mouse-follower.php" ?>
+    
 
     <section class="home-hero">
         <div class="row h-100 justify-content-center align-items-center mt-5">
@@ -241,10 +240,10 @@
 
             <div class="col-12">
                 <div class="row service-box-main justify-content-center align-items-center">
-                    <div class="col-2 d-lg-inline-block d-none">
+                    <div class="col-2">
                         <div class="service-box-dis"></div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2">
                         <div class="service-box">
                             <h4 class="mb-4">Book Writing</h4>
                             <p class="mb-4">Can't get a clever book idea out of your head but also can't find the time
@@ -255,7 +254,7 @@
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 ">
                         <div class="service-box">
                             <h4 class="mb-4">Book Publishing</h4>
                             <p class="mb-4">Have a rough manuscript at hand? Don't worry, our in-house pros will polish
@@ -265,7 +264,7 @@
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2">
                         <div class="service-box">
                             <h4 class="mb-4">Book Cover Design</h4>
                             <p class="mb-4">Nobody will be turning the pages if your book can't turn their heads. Hire
@@ -275,7 +274,7 @@
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2">
                         <div class="service-box">
                             <h4 class="mb-4">Book Marketing</h4>
                             <p class="mb-4">Is your book's release date nearby or is it sitting in a corner collecting
@@ -285,7 +284,7 @@
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-2 d-lg-inline-block d-none">
+                    <div class="col-2">
                         <div class="service-box-dis"></div>
                     </div>
 
@@ -403,49 +402,127 @@
 
     <section class="genre-section">
         <div class="container">
-            <div class="row">
-                <h1 class="">Genres</h1>
-                <div class="col-6 text-center">
+            <h1 class="text-center">Genres</h1>
+            <div class="row justify-content-center h-100 pb-5 text-center align-items-center">
+                <div class="col-10 text-center">
                     <div class="swiper genreSwiper w-100">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
-                                <h3></h3>
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Action</h3>
                                 <img class="w-100" src="/assets/images/action.webp" alt="action">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Comics</h3>
                                 <img class="w-100" src="/assets/images/comics.webp" alt="comics">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Fiction</h3>
                                 <img class="w-100" src="/assets/images/fiction.png" alt="fiction">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Children</h3>
                                 <img class="w-100" src="/assets/images/childrens.webp" alt="children">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Romance</h3>
                                 <img class="w-100" src="/assets/images/romance.png" alt="romance">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Sci-Fi</h3>
                                 <img class="w-100" src="/assets/images/sci-fi.png" alt="sci-fi">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Mystery</h3>
                                 <img class="w-100" src="/assets/images/mystery.png" alt="mystery">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Thriller</h3>
                                 <img class="w-100" src="/assets/images/thriller.png" alt="thriller">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Non-fiction</h3>
                                 <img class="w-100" src="/assets/images/non-fiction.webp" alt="non-fiction">
                             </div>
                             <div class="swiper-slide">
+                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Adult Books</h3>
                                 <img class="w-100" src="/assets/images/adult-books.webp" alt="adult-book">
                             </div>
                         </div>
-                        <div class="swiper-pagination"></div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+
+    <!-- Scroll Section -->
+
+    <section class="step-section position">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 01.</h1>
+                            <h3>Order Confimation</h3>
+                            <p class="mb-4">Within the first 24 hours, your dedicated project manager will contact you
+                                to
+                                kick
+                                things in motion
+                                and keep you updated.</p>
+                            <img src="/assets/images/howitworks-one.png" width="70%" class="object-fit-contain"
+                                alt="step-img">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 02.</h1>
+                            <h3>Our Pros Get to Work</h3>
+                            <p class="mb-4">Depending on the services you choose, our experts will get started. We
+                                follow your instructions to the dot to ensure 100% satisfaction.</p>
+                            <img src="/assets/images/howitworks-two.png" width="70%" class="object-fit-contain"
+                                alt="step-img">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 03.</h1>
+                            <h3>Your Feedback is a Must</h3>
+                            <p class="mb-4">The only way we are going to achieve the results you envisioned is if you
+                                give your honest feedback about everything. So do just that!</p>
+                            <img src="/assets/images/howitworks-three.png" width="100%" class="object-fit-contain"
+                                alt="step-img">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 04.</h1>
+                            <h3>Final Delivery</h3>
+                            <p class="mb-4">Once everything is ready and finalized all according to your requirements,
+                                we deliver the final results as promised.</p>
+                            <img src="/assets/images/howitworks-four.png" width="100%" class="object-fit-contain"
+                                alt="step-img">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="progress"></div>
+    </section>
+
+
+
+    <?php include "./includes/faq.php" ?>
+
+    <?php include "./includes/footer.php" ?>
 
     <?php include "./includes/scripts.php" ?>
 </body>
