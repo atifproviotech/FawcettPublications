@@ -4,15 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Brand | Home</title>
 
     <?php include "./includes/meta.php" ?>
 </head>
 
 <body>
     <?php include "./includes/header.php" ?>
-
-    <?php include "./includes/mouse-follower.php" ?>
+    
 
     <section class="home-hero">
         <div class="row h-100 justify-content-center align-items-center mt-5">
@@ -241,10 +240,10 @@
 
             <div class="col-12">
                 <div class="row service-box-main justify-content-center align-items-center">
-                    <div class="col-2 d-lg-inline-block d-none">
+                    <div class="col-2">
                         <div class="service-box-dis"></div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2">
                         <div class="service-box">
                             <h4 class="mb-4">Book Writing</h4>
                             <p class="mb-4">Can't get a clever book idea out of your head but also can't find the time
@@ -255,7 +254,7 @@
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 ">
                         <div class="service-box">
                             <h4 class="mb-4">Book Publishing</h4>
                             <p class="mb-4">Have a rough manuscript at hand? Don't worry, our in-house pros will polish
@@ -265,7 +264,7 @@
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2">
                         <div class="service-box">
                             <h4 class="mb-4">Book Cover Design</h4>
                             <p class="mb-4">Nobody will be turning the pages if your book can't turn their heads. Hire
@@ -275,7 +274,7 @@
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2">
                         <div class="service-box">
                             <h4 class="mb-4">Book Marketing</h4>
                             <p class="mb-4">Is your book's release date nearby or is it sitting in a corner collecting
@@ -285,7 +284,7 @@
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-2 d-lg-inline-block d-none">
+                    <div class="col-2">
                         <div class="service-box-dis"></div>
                     </div>
 
@@ -458,77 +457,70 @@
 
     <!-- Scroll Section -->
 
+    <section class="step-section position">
 
-
-    <section class="faq-section py-5">
         <div class="container">
-            <h1 class="fw-normal text-center mb-4">FAQs</h1>
-            <div class="row justify-content-center">
-                <div class="col-10">
-                    <div class="accordion" id="accordionExample">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What types of book publishing services do you offer?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    We provide comprehensive services including manuscript editing, cover design, book printing, e-book publishing, and post-publishing support to ensure your book reaches its full potential.
-                                </div>
-                            </div>
+            <div class="row">
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 01.</h1>
+                            <h3>Order Confimation</h3>
+                            <p class="mb-4">Within the first 24 hours, your dedicated project manager will contact you
+                                to
+                                kick
+                                things in motion
+                                and keep you updated.</p>
+                            <img src="/assets/images/howitworks-one.png" width="70%" class="object-fit-contain"
+                                alt="step-img">
                         </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How do you handle cover design?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Our cover design process involves working closely with authors to understand the essence of their book. We then create a visually compelling cover that appeals to the target audience and enhances marketability.
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 02.</h1>
+                            <h3>Our Pros Get to Work</h3>
+                            <p class="mb-4">Depending on the services you choose, our experts will get started. We
+                                follow your instructions to the dot to ensure 100% satisfaction.</p>
+                            <img src="/assets/images/howitworks-two.png" width="70%" class="object-fit-contain"
+                                alt="step-img">
                         </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                   What kind of marketing support do you provide after publishing?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Post-publishing, we offer marketing services that include creating detailed summaries, managing social media campaigns, arranging book signings, and securing spots in bookstores to maximize your book’s reach and impact.
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 03.</h1>
+                            <h3>Your Feedback is a Must</h3>
+                            <p class="mb-4">The only way we are going to achieve the results you envisioned is if you
+                                give your honest feedback about everything. So do just that!</p>
+                            <img src="/assets/images/howitworks-three.png" width="100%" class="object-fit-contain"
+                                alt="step-img">
                         </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                   How long does the publishing process take from manuscript submission to final product?
-                                </button>
-                            </h2>
-                            <div id="collapseFour" class="accordion-collapse collapse"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    The timeline can vary based on several factors, including the length of the manuscript and the specific services required. Generally, the process takes anywhere from three to six months from manuscript submission to having a fully published book ready for distribution.
-                                </div>
-                            </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 04.</h1>
+                            <h3>Final Delivery</h3>
+                            <p class="mb-4">Once everything is ready and finalized all according to your requirements,
+                                we deliver the final results as promised.</p>
+                            <img src="/assets/images/howitworks-four.png" width="100%" class="object-fit-contain"
+                                alt="step-img">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
+        <div class="progress"></div>
     </section>
+
+
+
+    <?php include "./includes/faq.php" ?>
 
     <?php include "./includes/footer.php" ?>
 

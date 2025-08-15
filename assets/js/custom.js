@@ -1,4 +1,21 @@
+import {
+  animate,
+  scroll,
+} from "https://cdn.jsdelivr.net/npm/motion@12.23.12/+esm";
+
+// Progress bar representing gallery scroll
+scroll(animate(".progress", { scaleX: [0, 1] }, { ease: "linear" }));
+
+document.querySelectorAll(".img-container").forEach((section) => {
+  const header = section.querySelector("h2");
+  scroll(animate(header, { y: [-400, 400] }, { ease: "linear" }), {
+    target: header,
+  });
+});
+
 //  Swipers
+
+console.log("hello");
 
 if (document.querySelector(".verticalSwiper")) {
   var swiper = new Swiper(".verticalSwiper", {
@@ -11,16 +28,32 @@ if (document.querySelector(".verticalSwiper")) {
 }
 
 if (document.querySelector(".genreSwiper")) {
-   var swiper = new Swiper(".genreSwiper", {
-      slidesPerView: 1,
-      spaceBetween: 100,
-      centeredSlides: true,
+  var swiper = new Swiper(".genreSwiper", {
+    slidesPerView: 1,
+    spaceBetween: 100,
+    centeredSlides: true,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+  });
+}
+
+
+if (document.querySelector(".reviewSwiper")) {
+  var swiper = new Swiper(".reviewSwiper", {
+      slidesPerView: 4,
+      spaceBetween: 30,
+      loop: true,
       pagination: {
         el: ".swiper-pagination",
         clickable: true,
       },
-  });
+    });
 }
+
+
+
 
 if (document.querySelector(".portfolioSwiper")) {
   let obj = {
@@ -43,13 +76,13 @@ if (document.querySelector(".portfolioSwiper")) {
       title: "Black Tides",
       desc: "Dive into a gripping thriller where dark secrets and relentless waves collide. Discover betrayal and redemption in the shadows of a coastal town.",
       img: "/assets/images/blacktides.png",
-    }, 
-  }
+    },
+  };
 
   let heading = document.querySelector("#portfolio-heading");
   let para = document.querySelector("#portfolio-para");
   let circle = document.querySelector(".portfolio-circle");
-  
+
   var swiper = new Swiper(".portfolioSwiper", {
     slidesPerView: 1,
     spaceBetween: 30,
@@ -76,11 +109,6 @@ if (document.querySelector(".portfolioSwiper")) {
     },
   });
 }
-
-
-
-
-
 
 //   Counter Animation
 
@@ -109,31 +137,33 @@ counters &&
 //   3D Card Effect
 
 const target = document.querySelector(".container-3d");
-const targetWidth = target.offsetWidth;
-const targetHeight = target.offsetHeight;
-const img = document.querySelector(".card-3d");
+if (target) {
+  const targetWidth = target.offsetWidth;
+  const targetHeight = target.offsetHeight;
+  const img = document.querySelector(".card-3d");
 
-target.addEventListener("mousemove", _3DEffect);
-
-target.addEventListener("mouseleave", () => {
-  target.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
-  img.style.clipPath = "inset(0 0 0 0)";
-});
-
-function _3DEffect(e) {
-  const percentX = (e.offsetX * 100) / targetWidth;
-  const percentY = (e.offsetY * 100) / targetHeight;
-  const degX = percentX / 2.5 - 20;
-  const degY = percentY / 2.5 - 20;
-  const transform = `perspective(1000px) rotateX(${degY}deg) rotateY(${degX}deg)`;
-  target.style.transform = transform;
-}
-
-// ========================
-document.querySelector(".card-3d").addEventListener("change", () => {
-  target.removeEventListener("mousemove", splitTwoImg);
   target.addEventListener("mousemove", _3DEffect);
-});
+
+  target.addEventListener("mouseleave", () => {
+    target.style.transform = `perspective(1000px) rotateX(0deg) rotateY(0deg)`;
+    img.style.clipPath = "inset(0 0 0 0)";
+  });
+
+  function _3DEffect(e) {
+    const percentX = (e.offsetX * 100) / targetWidth;
+    const percentY = (e.offsetY * 100) / targetHeight;
+    const degX = percentX / 2.5 - 20;
+    const degY = percentY / 2.5 - 20;
+    const transform = `perspective(1000px) rotateX(${degY}deg) rotateY(${degX}deg)`;
+    target.style.transform = transform;
+  }
+
+  // ========================
+  document.querySelector(".card-3d").addEventListener("change", () => {
+    target.removeEventListener("mousemove", splitTwoImg);
+    target.addEventListener("mousemove", _3DEffect);
+  });
+}
 
 // make follower follow
 
@@ -226,7 +256,7 @@ followerLeave.to(".follower__inner", { clearProps: "width,height" });
 followerLeave.to(followerText, { height: "0" });
 
 function animateFollower(direction = "in") {
-  console.log(direction);
+  // console.log(direction);
   if (direction == "in") {
     followerAnim.play(0);
   } else {

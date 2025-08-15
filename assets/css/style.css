@@ -6,6 +6,8 @@ body {
   font-weight: 400;
 }
 
+
+
 ::selection {
   background-color: #000;
   color: white;
@@ -205,9 +207,37 @@ section {
 }
 
 .home-hero {
-  height: 85svh;
+  min-height: 85svh;
   position: relative;
 }
+
+.story-hero {
+  min-height: 85svh;
+  background-color: #f9f9f9;
+}
+
+
+.story-hero .float-image {
+  position: absolute;
+  top: 100px;
+  right: 0px;
+  z-index: 1;
+}
+
+.about-section h4{
+  color: #eb4209;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.review-hero {
+  width: 100%;
+  height: 100svh;
+  background: url(/assets/images/bg-reviews.png) no-repeat;
+  background-size: cover;
+}
+
+
 
 .home-hero::after {
   content: "";
@@ -318,7 +348,6 @@ section {
 }
 
 .card-3d {
-  
   width: 100%;
   height: 100%;
   position: relative;
@@ -585,4 +614,121 @@ section {
   justify-content: center;
   align-items: center;
   border-radius: 8px;
+}
+
+html {
+  scroll-snap-type: y mandatory;
+}
+
+.step-section {
+  position: relative;
+}
+
+.step-section .heading {
+  position: absolute !important;
+  top: 0px !important;
+  left: 0px !important;
+  width: 100% !important;
+  height: 100% !important;
+  text-align: center;
+  z-index: 1 !important;
+}
+
+.step-section .paragraph {
+  position: absolute !important;
+  top: 0px;
+  left: 0px;
+  background-color: #fff;
+  text-align: center;
+  z-index: 2;
+}
+
+.step-box {
+  height: 100vh;
+  scroll-snap-align: start;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.step-box h1 {
+  font-size: 18px !important;
+  font-weight: normal !important;
+  color: #006341;
+  text-align: center;
+}
+
+.step-box > div {
+  width: 300px;
+  height: 400px;
+  margin: 20px;
+  border: 1px solid black;
+  overflow: hidden;
+}
+
+.reviewSwiper .swiper-slide {
+  position: relative;
+  height: 500px; 
+}
+
+.reviewSwiper .swiper-slide > div {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: #f2f2f2;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.reviewSwiper .badge {
+  background-color: #cecece;
+  color: #5c5c5c;
+}
+
+
+
+.reviewSwiper .play-btn {
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute;
+  background-color: #ffffff4f;
+  backdrop-filter: blur(3px);
+  top:0px;
+  left: 0px;
+  color: white;
+  font-size: 50px;
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.reviewSwiper img {
+  top: 0px;
+  left: 0px;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
+
+.review-fb-box {
+  background-color: #dfdfdf;
+  height: 100%;
+  width: 90%;
+  margin: 0px auto;
+}
+
+.review-fb-box .image-box {
+  width: 100% !important;
+  height: 200px;
+}
+
+.review-fb-box .image-box img {
+  object-position: top;
+}
+
+.quote-img {
+  position: absolute;
+  top: -20px;
+  right: 20px;
 }
