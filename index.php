@@ -11,7 +11,7 @@
 
 <body>
     <?php include "./includes/header.php" ?>
-    
+
 
     <section class="home-hero">
         <div class="row h-100 justify-content-center align-items-center mt-5">
@@ -22,7 +22,7 @@
                     <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                 </a>
             </div>
-            <div class="w-100 text-center">
+            <div class="w-100 text-center mt-5">
                 <img src="/assets/images/mouse.png" width="20px" alt="mouse-scroll">
             </div>
         </div>
@@ -52,7 +52,7 @@
                                         genius story idea in your head, then this is the right place to make it all
                                         happen!
                                     </p>
-                                    <div class="d-flex gap-3">
+                                    <div class="d-flex gap-3 awards">
                                         <img src="/assets/images/award-one.png" alt="award-one">
                                         <img src="/assets/images/award-two.png" alt="award-two">
                                         <img src="/assets/images/award-three.png" alt="award-three">
@@ -457,8 +457,16 @@
 
     <!-- Scroll Section -->
 
-    <section class="step-section position">
-
+    <section class="step-section position-relative">
+        <div class="step-header flex-center flex-column">
+            <h1 class="heading-1">How Do We <br> Operate ?</h1>
+            <div class="position-absolute">
+                <p class="py-4 w-100 para bg-white">
+                    Wondering what happens once you speak with our representative, choose your service, and make the
+                    payment? Here's what to expect.
+                </p>
+            </div>
+        </div>
         <div class="container">
             <div class="row">
                 <div class="col-3">

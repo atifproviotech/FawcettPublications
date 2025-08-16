@@ -8,7 +8,7 @@
   }
 
   h1 {
-    font-size: 32px !important;
+    font-size: 40px !important;
   }
 
   h2 {
@@ -25,9 +25,35 @@
   li {
     font-size: 12px !important;
   }
+
+  .btn {
+    font-size: 14px !important;
+  }
+  
+  .btn-primary {
+    padding: 10px 15px !important;
+    
+  }
+
+  .home-hero:after, .home-hero:before {
+    width: 300px !important;
+  }
+
+  .chart-section {
+    height: auto !important;
+  }
+
+  .chart-section .awards img {
+    width: 100px;
+  }
+
+
+
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1250px) {
+
+
 }
 
 @media only screen and (max-width: 992px) {
