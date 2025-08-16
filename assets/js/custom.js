@@ -19,6 +19,8 @@ console.log("hello");
 
 if (document.querySelector(".verticalSwiper")) {
   var swiper = new Swiper(".verticalSwiper", {
+    slidesPerView: 1,
+    spaceBetween: 100,
     direction: "vertical",
     pagination: {
       el: ".swiper-pagination",

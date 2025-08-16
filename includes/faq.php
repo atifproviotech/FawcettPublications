@@ -2,7 +2,7 @@
     <div class="container">
         <h1 class="fw-normal text-center mb-4">FAQs</h1>
         <div class="row justify-content-center">
-            <div class="col-10">
+            <div class="col-12">
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
