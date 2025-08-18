@@ -50,12 +50,16 @@
   .chart-section .awards img {
     width: 100px;
   }
+  
+  .awards > img {
+    width: 80px !important;
 
-
-
+  }
+ 
 }
 
-@media only screen and (max-width: 1250px) {}
+@media only screen and (max-width: 1250px) {
+}
 
 @media only screen and (max-width: 992px) {
   .container {

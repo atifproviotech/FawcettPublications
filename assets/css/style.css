@@ -131,7 +131,7 @@ section {
 
 @media (hover: hover) {
     .follower {
-      z-index: 99;
+      z-index: 999999;
         position: fixed;
         top: 0;
         left: 0;
@@ -219,6 +219,25 @@ section {
 
 .navbar .container {
   border-bottom: 1px solid #dfdfdf;
+}
+
+.nav-link.show {
+  color: rgb(0 0 0 / 65%) !important;
+}
+
+.dropdown-menu {
+  border: none !important;
+  padding: 10px 20px;
+}
+
+.dropdown-menu .dropdown-item {
+  padding: 10px 15px !important;
+  border-bottom: 1px solid #cecece;
+}
+
+.dropdown-menu .dropdown-item:hover {
+  background: none !important;
+  color: var(--primary-col);
 }
 
 .para {
@@ -360,7 +379,7 @@ section {
 
 .verticalSwiper {
   width: 100%;
-  height: 80vh !important;
+  height: 80svh;
 }
 
 .verticalSwiper .books {
@@ -455,6 +474,7 @@ section {
 
 .service-box .btn {
   width: fit-content !important;
+  border: none !important;
 }
 
 .services-section .col-2 {
@@ -470,9 +490,16 @@ section {
   border-top: 2px solid var(--primary-dark);
 }
 
-.service-box:hover .btn-secondary {
-  transform: rotate(320deg);
+.service-box .btn-dark i {
+  transition: all 0.2s linear;
+}
+
+.service-box:hover .btn-dark {
   background-color: #eb4209;
+}
+
+.service-box:hover .btn-dark i {
+  transform: rotate(320deg);
 }
 
 .consultation-section {
@@ -599,7 +626,7 @@ section {
 }
 
 .faq-section .accordion-button:not(.collapsed) {
-  background-color: #1f2937 !important;
+  background-color: #1d1d1f !important;
   color: white !important;
   
 }
