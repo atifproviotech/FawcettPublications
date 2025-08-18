@@ -14,6 +14,6 @@
 <link href="/assets/css/style.css" rel="stylesheet">
 <link href="/assets/css/responsive.css" rel="stylesheet">
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-<link rel="shortcut icon" href="/assets/images/logo-2.png" type="image/x-icon">
+
 
 <meta name="robots" content="noindex, nofollow, noarchive">
