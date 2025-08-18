@@ -33,17 +33,17 @@
     </section>
 
     <section class="chart-section mb-5">
-        <div class="pattern-bg"></div>
+        <!-- <div class="pattern-bg"></div> -->
         <div class="container ">
             <div class="chert-slider-box">
                 <div class="swiper verticalSwiper">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="row justify-content-between">
-                                <div class="col-lg-6 d-flex flex-column justify-content-evenly">
+                                <div class="col-xxl-6 col-xl-5 d-flex flex-column justify-content-evenly">
                                     <h1 class="subheading">Chart Topper</h1>
                                     <h2 class="fw-light">What's So Special About Fawcett Publications?</h2>
-                                    <p class="mb-5">Being strongly inspired by the high writing and printing standards
+                                    <p class="mb-xl-5 mb-2">Being strongly inspired by the high writing and printing standards
                                         set by Wilford Hamilton, Fawcett Publication s aims to not just maintain the
                                         premium quality set by Captain Billy, but improve upon it. We all have a dream
                                         and we all deserve a fair chance to achieve them. That's exactly what we are
@@ -53,12 +53,12 @@
                                         happen!
                                     </p>
                                     <div class="d-flex gap-3 awards">
-                                        <img src="/assets/images/award-one.png" alt="award-one">
-                                        <img src="/assets/images/award-two.png" alt="award-two">
-                                        <img src="/assets/images/award-three.png" alt="award-three">
+                                        <img src="/assets/images/award-one.png" class="img-fluid" alt="award-one">
+                                        <img src="/assets/images/award-two.png" class="img-fluid" alt="award-two">
+                                        <img src="/assets/images/award-three.png" class="img-fluid" alt="award-three">
                                     </div>
                                 </div>
-                                <div class="col-lg-5 books">
+                                <div class="col-xxl-5 col-xl-4 books">
                                     <img src="/assets/images/charttopperbook-one.png" class="w-100" alt="book-1">
                                     <div class="feedback-box row">
                                         <div class="col-2"><img class="w-100"
@@ -87,7 +87,7 @@
                                 <div class="col-lg-6 d-flex flex-column justify-content-evenly">
                                     <h1 class="subheading">Chart Topper</h1>
                                     <h2 class="fw-light">Industry <br> Experience</h2>
-                                    <p class="mb-5">At Fawcett Publication s, our extensive history in book publishing
+                                    <p class="mb-xl-5 mb-2">At Fawcett Publication s, our extensive history in book publishing
                                         sets
                                         us apart. We
                                         blend traditional craftsmanship with modern innovation to bring stories to life.
@@ -130,7 +130,7 @@
                                 <div class="col-lg-6 d-flex flex-column justify-content-evenly">
                                     <h1 class="subheading">Chart Topper</h1>
                                     <h2 class="fw-light">Industry <br> Network</h2>
-                                    <p class="mb-5">Our vast network within the publishing industry opens doors for our
+                                    <p class="mb-xl-5 mb-2">Our vast network within the publishing industry opens doors for our
                                         authors. Fawcett Publication s collaborates with leading distributors,
                                         retailers, and marketers to ensure maximum exposure for each book. This
                                         extensive reach helps us place your work in the hands of eager readers
@@ -167,7 +167,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="swiper-pagination"></div>
+                    <!-- <div class="swiper-pagination"></div> -->
                 </div>
 
             </div>
@@ -217,7 +217,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-6 container-3d">
+                <div class="col-xxl-6 col-lg-5 container-3d">
                     <div class="card-3d">
                         <img class="w-100" src="/assets/images/home-about.png" alt="home-about">
                     </div>
@@ -229,7 +229,7 @@
     <section class="services-section bg-dark follow">
         <video src="/assets/images/service-video.mp4" autoplay muted loop></video>
         <div class="row flex-column justify-content-between align-items-center">
-            <div class="col-8 text-center mb-5">
+            <div class="col-8 text-center mb-xl-5">
                 <div class="d-flex gap-2 justify-content-center text-center align-items-center mb-4">
                     <h3>Everything An Aspiring Author Needs!</h3>
                     <img width="100" src="/assets/images/services.webp" alt="services">
@@ -240,51 +240,51 @@
 
             <div class="col-12">
                 <div class="row service-box-main justify-content-center align-items-center">
-                    <div class="col-2">
+                    <div class="col-2 d-xxl-flex d-none">
                         <div class="service-box-dis"></div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-2 col-xxl-3 col-xl-3 col-md-3">
                         <div class="service-box">
                             <h4 class="mb-4">Book Writing</h4>
                             <p class="mb-4">Can't get a clever book idea out of your head but also can't find the time
                                 to pen it
                                 down on paper? We got you covered.
                             </p>
-                            <a class="btn btn-secondary" href="/book-writing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-writing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-2 ">
+                    <div class="col-2 col-xxl-3 col-xl-3 col-md-3">
                         <div class="service-box">
                             <h4 class="mb-4">Book Publishing</h4>
                             <p class="mb-4">Have a rough manuscript at hand? Don't worry, our in-house pros will polish
                                 it up and
                                 publish it in all the right places.</p>
-                            <a class="btn btn-secondary" href="/book-publishing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-publishing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-2 col-xxl-3 col-xl-3 col-md-3">
                         <div class="service-box">
                             <h4 class="mb-4">Book Cover Design</h4>
                             <p class="mb-4">Nobody will be turning the pages if your book can't turn their heads. Hire
                                 our book
                                 cover designers and they won't be able to resist!</p>
-                            <a class="btn btn-secondary" href="/book-cover-design"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-cover-design"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-2 col-xxl-3 col-xl-3 col-md-3">
                         <div class="service-box">
                             <h4 class="mb-4">Book Marketing</h4>
                             <p class="mb-4">Is your book's release date nearby or is it sitting in a corner collecting
                                 dust? Our
                                 book marketing can turn things around.</p>
-                            <a class="btn btn-secondary" href="/book-marketing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-marketing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-2 d-xxl-flex d-none">
                         <div class="service-box-dis"></div>
                     </div>
 
