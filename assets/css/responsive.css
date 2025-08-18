@@ -14,12 +14,15 @@
   h2 {
     font-size: 30px !important;
   }
+
   h3 {
     font-size: 22px !important;
   }
+
   h4 {
     font-size: 22px !important;
   }
+
   p,
   .nav-item,
   li {
@@ -29,13 +32,14 @@
   .btn {
     font-size: 14px !important;
   }
-  
+
   .btn-primary {
     padding: 10px 15px !important;
-    
+
   }
 
-  .home-hero:after, .home-hero:before {
+  .home-hero:after,
+  .home-hero:before {
     width: 300px !important;
   }
 
@@ -51,10 +55,7 @@
 
 }
 
-@media only screen and (max-width: 1250px) {
-
-
-}
+@media only screen and (max-width: 1250px) {}
 
 @media only screen and (max-width: 992px) {
   .container {
@@ -66,8 +67,6 @@
   }
 }
 
-@media (max-width: 768px) {
-}
+@media (max-width: 768px) {}
 
-@media (max-width: 480px) {
-}
+@media (max-width: 480px) {}
