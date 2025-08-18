@@ -26,7 +26,7 @@
               <li><a class="dropdown-item" href="/book-writing">Book Writing</a></li>
               <li><a class="dropdown-item" href="/screenplay">Screenplay</a></li>
               <li><a class="dropdown-item" href="/book-coaching">Book Coaching</a></li>
-              <li><a class="dropdown-item" href="/business-and-leadership">Business and Leadership Book</a></li>
+              <li><a class="dropdown-item" href="/business-and-leadership-book">Business and Leadership Book</a></li>
             </ul>
           </div>
 
@@ -40,11 +40,11 @@
             <ul class="dropdown-menu shadow">
               <li><a class="dropdown-item" href="/book-editing">Book Editing</a></li>
               <li><a class="dropdown-item" href="/Review-consultation-services">Review Consultation Services</a></li>
-              <li><a class="dropdown-item" href="/development-editing">Developmental Editing</a></li>
+              <li><a class="dropdown-item" href="/developmental-editing">Developmental Editing</a></li>
               <li><a class="dropdown-item" href="/cover-copy-polish">Cover Copy Polish</a></li>
-              <li><a class="dropdown-item" href="/editorial-assessments">Editorial Assessments</a></li>
-              <li><a class="dropdown-item" href="/small-book-review">Small Book Review</a></li>
-              <li><a class="dropdown-item" href="/copy-editing">Copy Editing</a></li>
+              <li><a class="dropdown-item" href="/editorial-assessment">Editorial Assessments</a></li>
+              <li><a class="dropdown-item" href="/small-book-review-editing">Small Book Review</a></li>
+              <li><a class="dropdown-item" href="/copyediting">Copy Editing</a></li>
               <li><a class="dropdown-item" href="/line-editing">Line Editing</a></li>
               <li><a class="dropdown-item" href="/content-editing">Content Editing</a></li>
             </ul>
@@ -62,10 +62,10 @@
               <li><a class="dropdown-item" href="/essential">Essential</a></li>
               <li><a class="dropdown-item" href="/plus">Plus</a></li>
               <li><a class="dropdown-item" href="/elemental">Elemental</a></li>
-              <li><a class="dropdown-item" href="/professional-audiobook">Professional AudioBook</a></li>
-              <li><a class="dropdown-item" href="/softcover">Softcover</a></li>
-              <li><a class="dropdown-item" href="/book-binding-size-and-type">Book Binding Size & Type</a></li>
-              <li><a class="dropdown-item" href="hardcover-addon">Hardcover Add-On</a></li>
+              <li><a class="dropdown-item" href="/professional-audiobook-package">Professional AudioBook</a></li>
+              <li><a class="dropdown-item" href="/softcover-publishing">Softcover</a></li>
+              <li><a class="dropdown-item" href="/book-binding-sizes-and-types">Book Binding Size & Type</a></li>
+              <li><a class="dropdown-item" href="/color-hardcover-add-on">Hardcover Add-On</a></li>
             </ul>
           </div>
         </li>

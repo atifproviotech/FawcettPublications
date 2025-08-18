@@ -474,6 +474,7 @@ section {
 
 .service-box .btn {
   width: fit-content !important;
+  border: none !important;
 }
 
 .services-section .col-2 {
@@ -625,7 +626,7 @@ section {
 }
 
 .faq-section .accordion-button:not(.collapsed) {
-  background-color: #1f2937 !important;
+  background-color: #1d1d1f !important;
   color: white !important;
   
 }
