@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Coaching</title>
+    <title>Book Review & Consultation</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,9 +16,8 @@
 
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
-            <h1 class="heading-service col-9 mb-3">Personalized Book Coaching Services</h1>
-            <p>
-                Get Feedback And Publishing Consultation From Big-5 Publishing Executives And Acquisitions Editors
+            <h1 class="heading-service col-9 mb-3">Book Review & Consultation</h1>
+            <p>Think we simply read your book? Not even close. We dig deep—examining every layer of your story, structure, and style with precision and care. Our expert reviews offer razor-sharp insights that reveal strengths, uncover hidden issues, and pinpoint exactly how to take your manuscript from good to unforgettable.
             </p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
@@ -33,41 +32,20 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include "../includes/counter.php" ?>
 
     <section class="book-lovers bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-6">
-                    <h2 class="fw-light">Let’s Elevate </h2>
-                    <p class="py-3">You’ve written a draft and now you’re wondering if:</p>
+                    <h2 class="fw-light">Why Our Perspective Matters </h2>
+                    <p class="py-3">You’ve poured your heart into a draft, but now you’re asking yourself, “What’s next?” Here’s why letting us take a look can make all the difference:</p>
                     <ul class="list-unstyled coaching-ul">
-                        <li>Your writing is clear and concise</li>
-                        <li>Content should be added or removed</li>
-                        <li>It’s well organized and structured effectively</li>
-                        <li>The beginning and end captures your reader’s attention</li>
-                        <li>It connects with your target audience and is timely and marketable</li>
+                        <li>We tell it like it is—no fluff, no sugarcoating—just clear, constructive feedback you can actually use.</li>
+                        <li>Books are our obsession. We breathe stories, dream in plots, and speak fluent prose—your manuscript is in passionate hands.</li>
+                        <li>Our deep, thorough reviews help you skip wasted effort and focus on changes that truly count.</li>
+                        <li>Sometimes, the magic comes from a new viewpoint—and ours is honed, objective, and refreshingly different.</li>
+                        <li>A finely polished book doesn’t just shine brighter—it captures readers and drives sales.</li>
                     </ul>
                     <div class="d-flex gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
@@ -186,100 +164,88 @@
         </div>
     </section>
 
+<?php include "../includes/inner-img.php" ?>
 
-    <section class="img-work-section">
-        <div class="container-fluid py-5">
-            <h2 class="text-center mb-5" style="font-family: 'Georgia', serif;">Our Work</h2>
-
-            <div class="row text-center justify-content-center">
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/action.webp" alt="Check Point" class="book-img">
-                    <div class="book-caption">#1 Bestselling Author.<br>Millions Of Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/comics.webp" alt="Angel Rescue" class="book-img">
-                    <div class="book-caption">#1 National & WSJ Bestseller</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/childrens.webp" alt="Watch Me" class="book-img">
-                    <div class="book-caption">NYT Bestselling Series.<br>Million+ Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/non-fiction.webp" alt="Junie B. Jones" class="book-img">
-                    <div class="book-caption">NYT Bestseller From Producer’s<br>Of NBC’s The Office</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/adult-books.webp" alt="One Breakup Was All It Took" class="book-img">
-                    <div class="book-caption">WSJ And USA Today Bestseller</div>
-                </div>
-            </div>
-
-        </div>
-
-    </section>
-
-    <section class="portfolio-section bg-black">
+    <section class="faq-section py-5 follow">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6">
-                    <div class="mb-5">
-                        <h1 class="heading-1">Our Portfolio</h1>
-                        <p>The books we have written for our clients so far speak for themselves. Have a look at what we
-                            can
-                            do and then let's talk business!
-                        </p>
-                    </div>
-                    <div class="portfolio-des mb-5">
-                        <h4 class="subheading" id="portfolio-heading"></h4>
-                        <p id="portfolio-para"></p>
-                    </div>
-                    <div>
-                        <div class="swiper-button-next position-static d-inline-block">
-                            <div class="d-flex next-img align-items-center gap-2">
-                                <h4 class="text-black">Next</h4>
-                                <img src="/assets/images/arrow.png" alt="arrow">
-                                <div class="d-flex align-items-center gap-2">
-                                    <img src="/assets/images/flow-th.png" alt="pagination">
-                                    <img src="/assets/images/superfunfacts-th.png" alt="pagination">
-                                    <img src="/assets/images/palmetto-th.png" alt="pagination">
-                                    <img src="/assets/images/blacktides-th.png" alt="pagination">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What makes your book reviews different?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                   Our reviews go beyond simple critique—they’re tailored roadmaps for your book’s success. We don’t just point out what’s not working; we offer practical, actionable solutions backed by years of literary expertise. With our team of passionate, industry-savvy readers, you’ll gain fresh insights that elevate your manuscript to its full potential.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    Will my manuscript be kept confidential?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Absolutely. Your book is your creation, and we treat it with the care it deserves. Every manuscript is handled with complete discretion, using secure review processes to ensure your work stays 100% yours—protected and respected from start to finish.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Can you help me identify my target audience?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Yes! Knowing your ideal reader is the key to connecting with them. We’ll help you define your target audience, understand their preferences, and fine-tune your book so it speaks directly to the people who will love it most.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    What if I’m already working with an editor?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    That’s no problem—our review can enhance the work you’re already doing. We’ll provide an outside perspective, spotting opportunities for improvement that might otherwise go unnoticed. Think of us as an extra layer of support on your path to a standout book.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                   How can your book review boost my sales?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                   A thorough review not only sharpens your storytelling but also increases your book’s appeal in the marketplace. By implementing our recommendations, you can strengthen your book’s quality, reader engagement, and overall marketability—helping you attract more readers and sell more copies.
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-5 col-6">
-                    <img src="/assets/images/ourportfolio.png" class="portfolio-circle" alt="our-portfolio">
-                    <div class="swiper portfolioSwiper">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide" id="flow">
-                                <img class="w-100 position-relative z-3" src="/assets/images/flow.png"
-                                    alt="portfolio-1">
-                                <div class="portfolio-banner">Flow</div>
-                            </div>
-                            <div class="swiper-slide" id="superfunfacts">
-                                <img class="w-100 position-relative z-3" src="/assets/images/superfunfacts.png"
-                                    alt="portfolio-2">
-                                <div class="portfolio-banner">Kidding Me</div>
-                            </div>
-                            <div class="swiper-slide" id="palmetto">
-                                <img class="w-100 position-relative z-3" src="/assets/images/palmetto.png"
-                                    alt="portfolio-3">
-                                <div class="portfolio-banner">Palmetto</div>
-                            </div>
-                            <div class="swiper-slide" id="blacktides">
-                                <img class="w-100 position-relative z-3" src="/assets/images/blacktides.png"
-                                    alt="portfolio-4">
-                                <div class="portfolio-banner">Black Tides</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
 
-    <?php include "../includes/faq.php" ?>
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>

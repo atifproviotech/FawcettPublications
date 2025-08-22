@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brand | Portfolio</title>
+    <title>Ocean Publications | Portfolio</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -22,9 +22,9 @@
             <div class="row h-100 justify-content-between align-items-center">
                 <div class="col-5">
                     <h2 class=" mb-3 follow">
-                        Our Epic Book Collection
+                        Explore Our Epic Book Collection
                     </h2>
-                    <p class="mb-3">Check out some of our best works and find out why we are the perfect option to hire for your book.
+                    <p class="mb-3">Discover some of our finest works and see why we’re the trusted choice to bring your book to life.
                     </p>
                     <a class="chat btn btn-primary" href="javascript:;">
                         <i class="fa-solid fa-comment-dots"></i> Let's Discuss
@@ -41,7 +41,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-md-5">
-                    <h2>Hall Of Fame!</h2>
+                    <h2>The Winners’ Circle!</h2>
                 </div>
                 <div class="col-3">
                     <div class="p-books">
@@ -150,7 +150,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 mb-md-5">
-                    <h2>Our Portfolio!</h2>
+                    <h2>Published Gems!</h2>
                 </div>
                 <div class="col-3">
                     <div class="p-books">

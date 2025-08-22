@@ -17,7 +17,7 @@
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
             <h1 class="heading-service col-9 mb-3">Editorial Assessment</h1>
-            <p>Get a clear, honest assessment of your manuscript. We'll pinpoint what's working and what needs a little polish. No guesswork, just solid advice.
+            <p>Receive a straightforward, professional evaluation of your manuscript. We’ll highlight its strengths, identify areas that need refining, and give you actionable guidance—no fluff, no guesswork, just expert insight you can trust.
             </p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
@@ -36,10 +36,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Here’s Your Manuscript's X-Ray</h2>
+                    <h2>Your Story’s MRI Scan</h2>
                     <p class="mt-5">
-                       So you’re not sure if your book is ready for prime time? We can very well pool in and help you. Our editorial assessment is your go-to guide. Or you can call it an X-ray for your writing. We dig, dig and dig until we uncover its strengths and pinpointing areas for improvement. Think of it as a tune-up for your story. We’ll tell you straight up what you need to do to get your book in tip-top shape. Clear, actionable advice to help you reach your publishing goals.</p>
-                    <p>Whether you need a quick polish or a complete overhaul, we'll point you in the right direction. We'll help you understand where your manuscript stands and recommend the best path forward. we've got you covered.</p>
+                        Not sure if your book is ready to step into the spotlight? That’s where we jump in. Our editorial assessment is like a high-powered MRI for your manuscript—zooming in to reveal its strongest muscles and the spots that need strengthening. We’ll dig deep beneath the surface, uncover hidden gems, and spotlight the tweaks that will take your story from “almost there” to “absolutely unforgettable.”</p>
+                    <p>Think of it as a full-service tune-up for your book. You’ll get crystal-clear, actionable feedback that shows exactly what’s working, what’s not, and how to bridge the gap. Whether you’re after a light polish or a ground-up transformation, we’ll chart the best route to your publishing goals. No fluff, no sugar-coating—just expert guidance to get your manuscript in peak condition.</p>
                 </div>
 
             </div>
@@ -52,8 +52,8 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-6 py-5">
-                    <h2 class="fw-light">Book Your Assessment Today!</h2>
-                    <p class="py-3">Want to unlock your book's full potential? Our editorial assessment is the key. Get expert insights, clear direction, and a roadmap to publication success. Don't wait, your readers are counting on you and we’re waiting for your call!!</p>
+                    <h2 class="fw-light">Lock In Your Editorial Assessment Now!</h2>
+                    <p class="py-3">Ready to unleash your book’s true power? Our editorial assessment is your backstage pass to expert insights, a crystal-clear action plan, and a direct path to publishing success. Don’t keep your future readers waiting—let’s get your story shining. We’re just a call away!</p>
                     <div class="d-flex gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
@@ -70,41 +70,88 @@
     </section>
 
 
+    <?php include "../includes/inner-img.php" ?>
 
-    <section class="img-work-section">
-        <div class="container-fluid py-5">
-            <h2 class="text-center mb-5" style="font-family: 'Georgia', serif;">Our Work</h2>
+    <section class="faq-section py-5 follow">
+        <div class="container">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    How can an editorial assessment transform my book?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Think of it as a GPS for your writing journey. We’ll pinpoint exactly what type of editing your manuscript needs, so you save time, cut unnecessary costs, and move forward with confidence—knowing exactly where your story stands.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    What kind of feedback will I get?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    No sugar-coating here—just clear, constructive, and actionable insights. From plot twists to pacing, character arcs to writing style, we’ll be your tough-love coach, helping you refine your story into its best form.
+                                </div>
+                            </div>
+                        </div>
 
-            <div class="row text-center justify-content-center">
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/action.webp" alt="Check Point" class="book-img">
-                    <div class="book-caption">#1 Bestselling Author.<br>Millions Of Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/comics.webp" alt="Angel Rescue" class="book-img">
-                    <div class="book-caption">#1 National & WSJ Bestseller</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/childrens.webp" alt="Watch Me" class="book-img">
-                    <div class="book-caption">NYT Bestselling Series.<br>Million+ Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/non-fiction.webp" alt="Junie B. Jones" class="book-img">
-                    <div class="book-caption">NYT Bestseller From Producer’s<br>Of NBC’s The Office</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/adult-books.webp" alt="One Breakup Was All It Took" class="book-img">
-                    <div class="book-caption">WSJ And USA Today Bestseller</div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Do I have to sign up for editing afterward?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Not at all! The editorial assessment is a stand-alone service, designed to give you maximum value upfront. If you choose to move forward with editing later, we’ll be ready to step in—but the choice is entirely yours.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    How in-depth is the assessment?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Very. We dig deep into your manuscript’s plot, characters, pacing, style, and emotional impact, giving you a crystal-clear picture of what’s working—and what’s not—so you know exactly how to elevate your book.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Can I see a sample before I commit?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    While we don’t provide full sample assessments, we’re happy to share examples of the style and depth of feedback you can expect. Just get in touch, and we’ll show you how we work our magic.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-
         </div>
-
     </section>
 
-
-
-    <?php include "../includes/faq.php" ?>
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>
