@@ -1,24 +1,24 @@
 <footer class="footer">
     <div class="container">
-        <div class="row justify-content-between border-bottom">
-            <div class="col-6 py-md-5 py-3 border-end">
-                <img src="/assets/images/logo-2.png" width="150" alt="logo-2">
+        <div class="row justify-content-md-between justify-content-center border-bottom">
+            <div class="col-md-6 col-12 text-md-start text-center py-md-5 py-3 border-end">
+                <img src="/assets/images/logo-2.png" class="f-logo" width="150" alt="logo-2">
             </div>
-            <div class="col-5 py-md-5 py-3 ps-4 border-start">
+            <div class="col-md-5 col-12 text-md-start text-center py-md-5 py-3 ps-4 border-start">
                 <div>
                     <h2>Stay Informed</h2>
                     <p>Subscribe to our newsletter for expert insights and the latest industry updates.</p>
 
-                    <form action="" class="newsletter">
+                    <form action="" class="newsletter mx-md-auto mx-auto">
                         <input class="inp" type="email" placeholder="Enter your email" required>
                         <button class="btn btn-primary" type="submit">Subscribe</button>
                     </form>
                 </div>
             </div>
         </div>
-        <div class="row justify-content-between border-bottom">
-            <div class="col-6 py-3 border-end">
-                <div class="w-100 h-100 row">
+        <div class="row justify-content-md-between justify-content-center border-bottom">
+            <div class="col-md-6 col-12 py-3 border-end">
+                <div class="w-100 h-100 row mx-auto">
                     <div class="col-4">
                         <h4 class="mb-2">Address</h4>
                         <p class="mb-2"><span class="text-danger">Regional Office:</span> 318 1st Avenue SW, 1st Floor,
@@ -52,8 +52,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-5 border-start text-end d-flex justify-content-end align-items-center">
-                <ul class="p-0">
+            <div class="col-md-5 col-12 border-start text-end d-flex justify-content-end align-items-center">
+                <ul class="p-0 d-md-inline-block gap-3 justify-content-center d-flex">
                     <li>
                         <a class="text-decoration-none" href="">Careers</a>
                     </li>
@@ -69,8 +69,8 @@
                 </ul>
             </div>
         </div>
-        <div class="row justify-content-between border-bottom">
-            <div class="col-6 py-3 border-end flex-wrap">
+        <div class="row justify-content-md-between justify-content-center border-bottom">
+            <div class="col-md-6 col-12 py-3 border-end flex-wrap">
                 <div class="row">
                     <div class="d-flex flex-column gap-3 col-4">
                         <a class="text-decoration-none" href="/book-editing">Book Editing</a>
@@ -115,16 +115,18 @@
                     </div>
                 </div>
             </div>
-            <div class="col-5 border-start text-end d-flex justify-content-end align-items-center">
-                <div>
+            <div
+                class="col-md-5 col-12 text-md-start text-center border-start text-end d-flex justify-content-end align-items-center">
+                <div class="w-100">
                     <h1 class="fw-normal">Let's Talk</h1>
                     <h3 class="text-secondary"><a
                             href="/mailto:info@fawcettpublication.com">info@fawcettpublication.com</a></h3>
                 </div>
             </div>
         </div>
-        <div class="py-5">
-            Disclaimer: Fawcett Publications heavily draws its inspiration from Wilford Fawcett but is, regardless, an independent entity.
+        <div class="py-md-5 py-3 text-center">
+            <p>Disclaimer: Fawcett Publications heavily draws its inspiration from Wilford Fawcett but is, regardless,
+                an independent entity.</p>
         </div>
     </div>
 </footer>

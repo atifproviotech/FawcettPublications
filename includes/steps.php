@@ -9,8 +9,8 @@
         </div>
     </div>
     <div class="container">
-        <div class="row">
-            <div class="col-3">
+        <div class="row justify-content-center">
+            <div class="col-lg-3 col-md-5 col-10">
                 <div class="step-box text-center">
                     <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
                         <h1>Step 01.</h1>
@@ -25,7 +25,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-lg-3 col-md-5 col-10">
                 <div class="step-box text-center">
                     <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
                         <h1>Step 02.</h1>
@@ -37,7 +37,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-lg-3 col-md-5 col-10">
                 <div class="step-box text-center">
                     <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
                         <h1>Step 03.</h1>
@@ -49,7 +49,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-lg-3 col-md-5 col-10">
                 <div class="step-box text-center">
                     <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
                         <h1>Step 04.</h1>

@@ -41,21 +41,59 @@ if (document.querySelector(".genreSwiper")) {
   });
 }
 
-
 if (document.querySelector(".reviewSwiper")) {
   var swiper = new Swiper(".reviewSwiper", {
-      slidesPerView: 4,
-      spaceBetween: 30,
-      loop: true,
-      pagination: {
-        el: ".swiper-pagination",
-        clickable: true,
+    slidesPerView: 1,
+    spaceBetween: 30,
+    loop: true,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    breakpoints: {
+      1200: {
+        slidesPerView: 4,
+        spaceBetween: 30,
       },
-    });
+      762: {
+        slidesPerView: 3,
+        spaceBetween: 50,
+      },
+      456: {
+        slidesPerView: 2,
+        spaceBetween: 50,
+      },
+    },
+  });
 }
 
-
-
+if (document.querySelector(".screenplaySwiper")) {
+  var swiper = new Swiper(".screenplaySwiper", {
+    loop: true,
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false,
+    },
+    breakpoints : {
+      1400: {
+        slidesPerView: 5,
+        spaceBetween: 30
+      },
+      1200: {
+        slidesPerView: 4,
+        spaceBetween: 30
+      },
+      762: {
+        slidesPerView: 3,
+        spaceBetween: 30
+      },
+      456: {
+        slidesPerView: 2,
+        spaceBetween: 30
+      },
+    }
+  });
+}
 
 if (document.querySelector(".portfolioSwiper")) {
   let obj = {

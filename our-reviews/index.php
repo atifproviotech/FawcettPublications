@@ -13,13 +13,14 @@
 
     <section class="review-hero pt-0">
         <?php include "../includes/header.php" ?>
+        <div class="white"></div>
         <div class="flex-center h-100">
             <div class="row justify-content-center align-items-center">
                 <div class="col-8 text-center h-100">
                     <h1 class="mb-4">These Folks Love Us</h1>
                     <p class="mb-4">They’re real words from people like you who had big ideas and needed a little help
                         and we’re lucky to be a part of it. Check out what they’re saying about working with us!</p>
-                    <div class="d-flex justify-content-center gap-3">
+                    <div class="d-flex justify-content-center gap-3 review-awards">
                         <img src="/assets/images/award-two.png" alt="award-1">
                         <img src="/assets/images/award-one.png" alt="award-2">
                         <img src="/assets/images/award-three.png" alt="award-3">
@@ -138,7 +139,7 @@
 
     <section class="review-fb-section px-5">
         <div class="row justify-content-center">
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>Jacky Leon</h4>
@@ -170,7 +171,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>Kayla Edwards</h4>
@@ -198,7 +199,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>Ruby Dixon</h4>
@@ -226,7 +227,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>Ormstunga Saga</h4>
@@ -254,7 +255,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>Andrew Rowe</h4>
@@ -282,7 +283,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>Rob J. Hayes</h4>
@@ -310,7 +311,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>Hayley Anderton</h4>
@@ -338,7 +339,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>John E. Hudson</h4>
@@ -366,7 +367,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
                         <h4>Ashley White</h4>

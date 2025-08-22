@@ -1,4 +1,4 @@
-<section class="faq-section py-5 follow">
+<section class="faq-section py-md-5 py-3 follow">
     <div class="container">
         <h1 class="fw-normal text-center mb-4">FAQs</h1>
         <div class="row justify-content-center">
@@ -6,12 +6,12 @@
                 <div class="accordion" id="accordionExample">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                 What types of book publishing services do you offer?
                             </button>
                         </h2>
-                        <div id="collapseOne" class="accordion-collapse collapse show"
+                        <div id="collapseOne" class="accordion-collapse collapse"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 We provide comprehensive services including manuscript editing, cover design, book

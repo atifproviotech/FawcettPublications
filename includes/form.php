@@ -1,5 +1,5 @@
 <div class="container form-wrapper">
-    <div class="p-4 rounded" style="background-color: #1c1c1c; color: #fff; max-width: 600px; margin: auto;">
+    <div class="p-4 rounded form-box" style="background-color: #1c1c1c; color: #fff; max-width: 600px; margin: auto;">
         <form action="javascript:" class="leadform" method="POST" novalidate>
             <div class="row g-3">
                 <div class="col-lg-12 col-12">
