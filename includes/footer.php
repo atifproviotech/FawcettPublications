@@ -6,8 +6,8 @@
             </div>
             <div class="col-md-5 col-12 text-md-start text-center py-md-5 py-3 ps-4 border-start">
                 <div>
-                    <h2>Stay Informed</h2>
-                    <p>Subscribe to our newsletter for expert insights and the latest industry updates.</p>
+                    <h2>Stay Connected!</h2>
+                    <p>Sign up for our newsletter and get exclusive tips, expert advice, and the latest publishing trends delivered straight to your inbox.</p>
 
                     <form action="" class="newsletter mx-md-auto mx-auto">
                         <input class="inp" type="email" placeholder="Enter your email" required>
@@ -115,18 +115,19 @@
                     </div>
                 </div>
             </div>
-            <div
-                class="col-md-5 col-12 text-md-start text-center border-start text-end d-flex justify-content-end align-items-center">
-                <div class="w-100">
-                    <h1 class="fw-normal">Let's Talk</h1>
+            <div class="col-5 border-start text-end d-flex justify-content-end align-items-center">
+                <div>
+                    <h1 class="fw-normal">Get in Touch</h1>
                     <h3 class="text-secondary"><a
-                            href="/mailto:info@fawcettpublication.com">info@fawcettpublication.com</a></h3>
+                            href="mailto:info@oceanpublications.com">info@oceanpublications.com</a></h3>
                 </div>
             </div>
         </div>
-        <div class="py-md-5 py-3 text-center">
-            <p>Disclaimer: Fawcett Publications heavily draws its inspiration from Wilford Fawcett but is, regardless,
-                an independent entity.</p>
+        <div class="py-5">
+            <strong>Disclaimer:</strong>
+            Ocean Publications is inspired by the legacy of Wilford Fawcett but operates entirely as an independent entity.
+            <br>
+           Copyright © 2025 Ocean Publications. All rights reserved.
         </div>
     </div>
 </footer>

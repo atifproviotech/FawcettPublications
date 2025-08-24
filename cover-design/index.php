@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copyediting</title>
+    <title>Cover Design | Ocean Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,8 +16,8 @@
 
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
-            <h1 class="heading-service col-9 mb-3">End-To-End Book Polishing</h1>
-            <p>No matter how good of a writer you are, a second expert perspective will always give a much-needed boost to your writing that maximizes the chances of your book becoming a best-seller.</p>
+            <h1 class="heading-service col-9 mb-3">Cover Design</h1>
+            <p>Receive expert guidance and publishing consultation directly from seasoned Big-5 publishing executives and acquisitions editors.</p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
                     <i class="fa-solid fa-comment-dots"></i> Let's Discuss
@@ -31,37 +31,21 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include "../includes/counter.php" ?>
 
     <section class="service-detail">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Convert Your Good into the Bestz</h2>
+                    <h2>Cover Design</h2>
                     <p class="mt-5">
-                        Taking a vision, converting it into a detailed idea, and then writing a book around it is no easy task. And if you have completed your manuscript then you have every right to be proud of your hard work. But ask yourself, is it ready for your readers? Or could it be further polished and enhanced by industry professionals to maximize the reading experience it offers? If your answer is the latter, you have come to the right place!</p>
-                    <p>Fawcett Publications houses some of the best book industry veterans who have fully immersed themselves in the art of editing and polishing manuscripts. Through their vast experience and honed skills, they can easily turn your hard work into a finished book that delivers the punch you need to put your author's name on the map!</p>
+                        A book’s cover is its first impression—an invitation for readers to step inside. Our Ocean Publications designers carefully consider your target audience, genre, and unique story to craft a professional cover that captures attention and truly reflects your book’s essence.</p>
+                        <h3>Cover Revisions (Text)</h3>
+                        <p>This service covers adjustments to any wording on your cover layout, ensuring accuracy and clarity in every detail.</p>
+                        <h3>Cover Revisions (Images/Design)</h3>
+                        <p>For changes beyond text—such as imagery, graphics, or design elements—we provide precise updates to keep your cover visually striking and aligned with your vision.</p>
+                        <h3>Custom Cover Illustration</h3>
+                        <p>Want something completely original? Our skilled illustrators can design a one-of-a-kind, visually captivating custom cover tailored exclusively to your book.</p>
                 </div>
 
             </div>
@@ -93,9 +77,7 @@
 
 
 
-
-<?php include "../includes/work-section.php" ?>
-
+<?php include "../includes/inner-img.php" ?>
 
 
     <?php include "../includes/faq.php" ?>

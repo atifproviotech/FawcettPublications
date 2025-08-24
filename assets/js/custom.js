@@ -104,17 +104,17 @@ if (document.querySelector(".portfolioSwiper")) {
     },
     superfunfacts: {
       title: "You Gotta Be Kidding Me",
-      desc: "Super Fun Facts for Curious Kids: Spark young minds with explosive facts and incredible discoveries. Perfect for curious kids eager to learn and laugh in equal measure.",
+      desc: "Packed with jaw-dropping facts and laugh-out-loud discoveries, this book is a playground for curious young minds. Perfect for kids who love to question, explore, and giggle along the way.",
       img: "/assets/images/superfunfacts.png",
     },
     palmetto: {
       title: "Palmetto",
-      desc: "Unravel the mysteries of Palmetto, where Southern charm meets chilling suspense. Every twist and turn in this thriller is as unpredictable as a swamp's path.",
+      desc: "Step into the heart of the South where beauty hides danger. Palmetto lures you into a world of charm and suspense, where every twist is darker than the last and every secret has teeth.",
       img: "/assets/images/palmetto.png",
     },
     blacktides: {
       title: "Black Tides",
-      desc: "Dive into a gripping thriller where dark secrets and relentless waves collide. Discover betrayal and redemption in the shadows of a coastal town.",
+      desc: "A coastal town hides more than crashing waves. In this relentless thriller, betrayal runs deep, redemption feels out of reach, and the tide carries secrets no one can escape.",
       img: "/assets/images/blacktides.png",
     },
   };

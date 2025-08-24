@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Coaching</title>
+    <title>BUSSINESS AND LEADERSHIP BOOK</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,9 +16,9 @@
 
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
-            <h1 class="heading-service col-9 mb-3">Personalized Book Coaching Services</h1>
-            <p>
-                Get Feedback And Publishing Consultation From Big-5 Publishing Executives And Acquisitions Editors
+            <h1 class="heading-service col-9 mb-3">Business & Leadership Book Ghostwriting</h1>
+            <p>Turn your expertise into a compelling book that inspires action and builds your authority.
+                Work hand-in-hand with seasoned ghostwriters and get insider publishing guidance from former Big-5 executives and acquisitions editors who know exactly what sells—and why.
             </p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
@@ -32,7 +32,6 @@
             </div>
         </div>
     </section>
-    
     <?php include "../includes/counter.php" ?>
 
     <section class="book-lovers bg-black">
@@ -174,14 +173,87 @@
         </div>
     </section>
 
+<?php include "../includes/inner-img.php" ?>
+    <section class="faq-section py-5 follow">
+        <div class="container">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What kinds of books do you edit?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    We work with every genre—fiction, non-fiction, academic works, business titles, and more—adapting our editing style to suit the specific demands of your manuscript.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How long does the editing process take?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Timelines depend on your manuscript’s length and the level of editing required, but most projects are completed within a few weeks to a couple of months.
+                                </div>
+                            </div>
+                        </div>
 
-    <?php include "../includes/work-section.php" ?>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Can I decide which editing service I need?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Yes. During our initial consultation, we’ll review your manuscript’s needs and recommend the most suitable editing service—but the final decision is always yours.
+                                </div>
+                            </div>
+                        </div>
 
-    <section class="portfolio-section bg-black">
-        <?php include "../includes/portfolio.php" ?>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Will I get feedback after the editing is complete?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Absolutely. Alongside the edits, you’ll receive detailed notes explaining the changes made, plus suggestions for further strengthening your manuscript’s clarity and impact.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Do you offer support after editing is finished?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Yes. We provide post-editing support to address any follow-up questions, fine-tune details, and ensure you’re 100% satisfied with the final version.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
 
-    <?php include "../includes/faq.php" ?>
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>

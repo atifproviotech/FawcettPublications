@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>USA Top Book Writing</title>
+    <title>USA Top Book Publishing</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,13 +16,11 @@
 
     <section class="hero-page">
         <div class="container">
-            <div class="row align-items-center justify-content-lg-between justify-content-center">
-                <div class="col-lg-6 col-md-10 col-12 text-center text-lg-start">
-                    <h1 class="mb-2 fw-light follow heading-service">Book Writing Wizards - Your Ideas, Our Words</h1>
-                    <p class="para-service mb-5 follow">Partner up with our talented word smiths who specialize in
-                        taking your genius and converting it into entertaining and top-selling reading experiences.!</p>
-                    <ul
-                        class="d-flex align-items-center justify-content-center justify-content-lg-start ser-hero-img mb-lg-5">
+            <div class="row align-items-center justify-content-between">
+                <div class="col-lg-6 col-md-10 col-12">
+                    <h1 class="mb-2 fw-light follow heading-service">Why Let Your Manuscript Collect Dust?</h1>
+                    <p class="para-service mb-5 follow">Your hard work deserves more than sitting unseen on a shelf. With our seasoned publishing experts by your side, we’ll guide your manuscript through every step of the process—ensuring your brilliance gets the professional polish and global reach it deserves.</p>
+                    <ul class="d-flex items-center ser-hero-img mb-lg-5">
                         <li><img src="/assets/images/badge-gray1.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray2.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray3.png" alt="badge" class="w-24"></li>
@@ -37,89 +35,13 @@
             </div>
         </div>
     </section>
-    
-
-    <section class="services-section bg-dark follow p-md-auto pt-3 p-0">
-        <video class="d-none d-md-block" src="/assets/images/service-video.mp4" autoplay muted loop></video>
-        <div class="row flex-column justify-content-between align-items-center">
-            <div class="col-8 text-center mb-xl-5">
-                <div class="d-flex gap-2 justify-content-center text-center align-items-center mb-4">
-                    <h3>Everything An Aspiring Author Needs!</h3>
-                    <img width="100" src="/assets/images/services.webp" alt="services">
-                </div>
-                <p>Fawcett Publication s is the only name you need to remember for your author journey. <br>
-                    Once you partner up with us, we will take care of the rest!</p>
-            </div>
-
-            <div class="col-12">
-                <div class="row service-box-main justify-content-center align-items-center">
-                    <div class="col-2 d-xxl-flex d-none">
-                        <div class="service-box-dis"></div>
-                    </div>
-                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
-                        <div class="service-box">
-                            <h4 class="mb-4">Book Writing</h4>
-                            <p class="mb-4">Can't get a clever book idea out of your head but also can't find the time
-                                to pen it
-                                down on paper? We got you covered.
-                            </p>
-                            <a class="btn btn-dark rounded-circle" href="/book-writing"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
-                        <div class="service-box">
-                            <h4 class="mb-4">Book Publishing</h4>
-                            <p class="mb-4">Have a rough manuscript at hand? Don't worry, our in-house pros will polish
-                                it up and
-                                publish it in all the right places.</p>
-                            <a class="btn btn-dark rounded-circle" href="/book-publishing"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
-                        <div class="service-box">
-                            <h4 class="mb-4">Book Cover Design</h4>
-                            <p class="mb-4">Nobody will be turning the pages if your book can't turn their heads. Hire
-                                our book
-                                cover designers and they won't be able to resist!</p>
-                            <a class="btn btn-dark rounded-circle" href="/book-cover-design"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
-                        <div class="service-box">
-                            <h4 class="mb-4">Book Marketing</h4>
-                            <p class="mb-4">Is your book's release date nearby or is it sitting in a corner collecting
-                                dust? Our
-                                book marketing can turn things around.</p>
-                            <a class="btn btn-dark rounded-circle" href="/book-marketing"><i
-                                    class="fa-solid fa-arrow-right"></i></a>
-                        </div>
-                    </div>
-                    <div class="col-2 d-xxl-flex d-none">
-                        <div class="service-box-dis"></div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
-
-    </section>
-
     <section class="book-lovers">
         <div class="container">
-            <div class="row align-items-center justify-content-md-between justify-content-center">
-                <div class="col-md-6 text-center text-md-start col-12">
-                    <h2 class="fw-light">Fawcett Publications -
-                        The Premium Book Writing Experience</h2>
-                    <p class="mb-5 para-service">At Fawcett Publications, we specialize in crafting compelling stories
-                        that captivate and connect with audiences. Whether you're stuck halfway or just starting out,
-                        our team of expert writers is here to help you cross the finish line. We understand your vision
-                        and translate it into words that engage, entertain, and inspire your readers. With us helping
-                        you out with your book, nothing is stopping it from making a buzz around the world and putting
-                        your name in the spotlight!</p>
-
+            <div class="row align-items-center justify-content-between">
+                <div class="col-6">
+                    <h2 class="fw-light">Make Your Author Debut Shine</h2>
+                    <p class="mb-5 para-service">You’ve typed that final sentence, leaned back in satisfaction, and thought, “Ah, the hard part’s over.” But here’s the truth—publishing can be the most challenging chapter of your author journey. Done wrong, it can undo months—if not years—of hard work.</p>
+                    <p>That’s where we step in. At Ocean Publications, we transform manuscripts into published works with the professionalism, precision, and care they deserve. Our authors—especially first-timers—choose us because we deliver transparency, dependable service, fair pricing, and consistent weekly progress updates. If your story is ready for the world, we’ll make sure it gets there in its best possible form.</p>
                     <div class="d-flex gap-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
@@ -135,51 +57,247 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
+
+    <section class="consultation-section bg-black">
+        <div class="logo-float"></div>
+        <div class="dark-bg"></div>
+        <div class="container position-relative z-2 text-white">
+            <div class="row align-items-center justify-content-center h-100">
+                <div class="col-lg-6">
+                    <h2 class="fw-normal">Schedule Your Free Consultation with Our Experts</h2>
+                    <p class="text-white cons-para">At Ocean Publications, we’re more than a publishing service—we’re your creative partner from the first spark of an idea to the final printed page. Once you team up with us, we’ll handle the heavy lifting so you can focus on your story.</p>
+                    <h4 class="subheading">
+                        Here’s what you can expect:
+                    </h4>
+                    <ul class="custom-list mt-3">
+                        <li>
+                            <strong>A 30-minute, </strong>one-on-one session to validate your idea, refine your vision, and answer all your questions.
+                        </li>
+                        <li>
+                            In-depth project consultation with a clear, <strong>step-by-step roadmap </strong>from concept to completion.
+                        </li>
+                        <li>
+                            A tailored strategy and quote designed to bring your book to life in the most effective way possible.
+                        </li>
+                        <li>
+                            We believe in delivering real, measurable results—and great results require an investment. If now isn’t the right time, no problem. We’ll be here when you’re ready to turn the page and start your author journey.
+                        </li>
+                    </ul>
                 </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
+                <div class="col-lg-6">
+                    <div class="iframe-calender"></div>
                 </div>
             </div>
         </div>
     </section>
 
-    <?php include "../includes/chart-section.php" ?>
-
-    <section class="call-section">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-10 col-12">
-                    <h2>We Add Wings to Your Book So That Your Journey Becomes A Breeze!</h2>
-                </div>
-                <div class="col-lg-2 col-12">
-                    <a class="btn btn-primary px-5" href="tel:">Call Now</a>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <?php include "../includes/consultation.php" ?>
 
     <section class="portfolio-section">
         <?php include "../includes/portfolio.php" ?>
     </section>
 
-    <?php include "../includes/faq.php" ?>
+    <section class="services-section bg-dark follow">
+        <video src="/assets/images/service-video.mp4" autoplay muted loop></video>
+        <div class="row flex-column justify-content-between align-items-center">
+            <div class="col-8 center-flex">
+                <div class="d-flex gap-2 justify-content-center text-center align-items-center mb-4">
+                    <h3>Our Full-Spectrum Book Publishing Services</h3>
+                    <img width="100" src="/assets/images/services.webp" alt="services">
+                </div>
+                <p class="col-12 col-lg-6">No matter where you are in your publishing journey, Ocean Publications has the expertise to guide your book from concept to global reach.</p>
+            </div>
+
+            <div class="col-12">
+                <div class="row service-box-main justify-content-center align-items-center">
+                    <div class="col-2 d-lg-inline-block d-none">
+                        <div class="service-box-dis"></div>
+                    </div>
+                    <div class="col-lg-2 col-md-5">
+                        <div class="service-box">
+                            <h4 class="mb-4">Manuscript Refinement</h4>
+                            <p class="mb-4">Turn your raw draft into a polished work of art. Our skilled editors dive deep into your narrative, fine-tuning language, strengthening structure, and ensuring your story is captivating from start to finish.</p>
+                            <a class="btn btn-secondary" href="/book-writing"><i
+                                    class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-5">
+                        <div class="service-box">
+                            <h4 class="mb-4">Professional Printing</h4>
+                            <p class="mb-4">See your words take physical form with premium printing services. From elegant paper options to eye-catching cover designs, we craft books that feel as good in the hands as they look on the shelf.</p>
+                            <a class="btn btn-secondary" href="/book-publishing"><i
+                                    class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-5">
+                        <div class="service-box">
+                            <h4 class="mb-4">Digital Publishing Solutions</h4>
+                            <p class="mb-4">Step confidently into the world of ebooks. We manage every step—formatting, file conversion, and multi-platform distribution—so your work can reach readers anywhere in the world, anytime.</p>
+                            <a class="btn btn-secondary" href="/book-cover-design"><i
+                                    class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-5">
+                        <div class="service-box">
+                            <h4 class="mb-4">Beyond the Launch</h4>
+                            <p class="mb-4">Publishing is only the beginning. Our post-publishing support includes targeted marketing, global distribution strategies, and rights management to help your book grow its audience and stay relevant long after release.</p>
+                            <a class="btn btn-secondary" href="/book-marketing"><i
+                                    class="fa-solid fa-arrow-right"></i></a>
+                        </div>
+                    </div>
+                    <div class="col-2 d-lg-inline-block d-none">
+                        <div class="service-box-dis"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+
+    <?php include "../includes/counter.php" ?>
+
+    <section class="step-section position-relative">
+        <div class="step-header flex-center flex-column">
+            <h1 class="heading-1">Inside the Ocean Publications Publishing <br> Process</h1>
+            <div class="position-absolute">
+                <p class="py-4 w-100 para bg-white">
+                    Ever wondered what happens after you connect with our team, select your publishing package, and confirm your order? Here’s how we bring your book to life—step by step.
+                </p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 01.</h1>
+                            <h3>Manuscript Perfection</h3>
+                            <p class="mb-4">We start by giving your manuscript the final polish it deserves. Every detail—grammar, flow, formatting—is reviewed with precision to ensure your work is flawless and ready to make its mark.</p>
+                            <img src="/assets/images/howitworks-one.png" width="70%" class="object-fit-contain"
+                                alt="step-img">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 02.</h1>
+                            <h3>Cover That Speaks Volumes</h3>
+                            <p class="mb-4">Your cover is your book’s first handshake with the reader. Our design specialists collaborate with you to create a visual masterpiece that reflects your story’s soul and grabs attention at first glance.</p>
+                            <img src="/assets/images/howitworks-two.png" width="70%" class="object-fit-contain"
+                                alt="step-img">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 03.</h1>
+                            <h3>Publishing & Distribution</h3>
+                            <p class="mb-4">With the text and visuals perfected, we move into publishing. Whether you’re aiming for print, digital, or both, we handle every technical and logistical detail so your book is prepared for a seamless launch into the marketplace.</p>
+                            <img src="/assets/images/howitworks-three.png" width="100%" class="object-fit-contain"
+                                alt="step-img">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="step-box text-center">
+                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                            <h1>Step 04.</h1>
+                            <h3>Ongoing Insights</h3>
+                            <p class="mb-4">Our support doesn’t stop at launch day. You’ll receive regular performance updates, giving you clear insights into your book’s reach and the steps you can take to maximize its impact.</p>
+                            <img src="/assets/images/howitworks-four.png" width="100%" class="object-fit-contain"
+                                alt="step-img">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- <div class="progress"></div> -->
+    </section>
+
+
+    <section class="faq-section py-5 follow">
+        <div class="container">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What publishing services do you provide?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    At Ocean Publications, we offer a complete publishing experience—from meticulous manuscript editing and captivating cover design to professional book printing, seamless e-book formatting, and post-release support. Our goal is to help your book shine at every stage.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How is the cover design process handled?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    We believe a great cover tells a story before the first page is turned. Our designers work hand-in-hand with you to understand your book’s message and audience, then craft a striking, market-ready cover that makes a lasting impression.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Do you publish in both print and digital formats?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Absolutely. Whether you’re envisioning a beautifully bound physical book or a sleek, platform-ready e-book, we handle all aspects—from precise formatting and digital conversion to professional printing and binding.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    What marketing assistance do you provide after the book is published?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Once your book is out in the world, we help it make waves. Our post-publishing services include creating compelling book summaries, managing engaging social media campaigns, arranging book signing events, and securing opportunities in both online and physical bookstores.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    How long does the publishing process take?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Timelines can differ based on your book’s complexity and the services you choose. On average, from the moment you submit your manuscript to the day your book is ready for readers, the process takes between three and six months.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>

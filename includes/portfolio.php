@@ -3,9 +3,7 @@
         <div class="col-xxl-6 col-md-4 col-12">
             <div class="mb-5">
                 <h1 class="heading-1">Our Portfolio</h1>
-                <p>The books we have written for our clients so far speak for themselves. Have a look at what we
-                    can
-                    do and then let's talk business!
+                <p>The stories we’ve brought to life for our clients are the best proof of our craft. Explore our work, see the impact we create, and imagine what we could do for your story. When you’re ready—let’s make it happen.
                 </p>
             </div>
             <div class="portfolio-des mb-5">

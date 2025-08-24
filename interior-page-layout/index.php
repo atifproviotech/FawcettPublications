@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copyediting</title>
+    <title>Interior Page Layout</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,8 +16,8 @@
 
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
-            <h1 class="heading-service col-9 mb-3">End-To-End Book Polishing</h1>
-            <p>No matter how good of a writer you are, a second expert perspective will always give a much-needed boost to your writing that maximizes the chances of your book becoming a best-seller.</p>
+            <h1 class="heading-service col-9 mb-3">Interior Page Layout</h1>
+            <p>Receive expert guidance and professional publishing consultation from seasoned Big-5 executives and acquisitions editors to ensure your book’s interior layout is polished, reader-friendly, and market-ready.</p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
                     <i class="fa-solid fa-comment-dots"></i> Let's Discuss
@@ -31,37 +31,37 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include "../includes/counter.php" ?>
 
     <section class="service-detail">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Convert Your Good into the Bestz</h2>
+                    <h2>Interior Page Layout</h2>
                     <p class="mt-5">
-                        Taking a vision, converting it into a detailed idea, and then writing a book around it is no easy task. And if you have completed your manuscript then you have every right to be proud of your hard work. But ask yourself, is it ready for your readers? Or could it be further polished and enhanced by industry professionals to maximize the reading experience it offers? If your answer is the latter, you have come to the right place!</p>
-                    <p>Fawcett Publications houses some of the best book industry veterans who have fully immersed themselves in the art of editing and polishing manuscripts. Through their vast experience and honed skills, they can easily turn your hard work into a finished book that delivers the punch you need to put your author's name on the map!</p>
+                        At Ocean Publications, our design experts ensure your book’s interior pages are not only well-organized and visually appealing but also meet the highest publishing standards. Every detail of the layout is tailored to provide readers with a smooth, enjoyable experience while reflecting your book’s unique style.</p>
+                    <h3>Black & White Image Placement</h3>
+                    <p>Send us your black-and-white graphics or illustrations, and we’ll seamlessly integrate them into your book for a professional finish.</p>
+                    <h3>Color Image Placemen</h3>
+                    <p>Have color artwork or illustrations? Our team will carefully insert them into your manuscript, ensuring proper formatting and high-quality presentation.</p>
+                    <h3>Computer-Generated Keyword Indexing</h3>
+                    <ul class="list-unstyled coaching-ul">
+                        <li>Up to 500 Entries</li>
+                        <li>Up to 700 Entries</li>
+                        <li>Up to 1,000 Entries</li>
+                        <li>Custom Quote for larger projects</li>
+                    </ul>
+                    <p>Indexes are an essential feature for nonfiction works—helping readers, librarians, and reviewers easily find topics of interest. A strong index even adds value to your book’s marketability.</p>
+                    <h3>Custom Headers</h3>
+                    <p>Want to personalize or update section headers during the publishing process? Our Custom Headers service makes it simple to adjust them to your preference.</p>
+                    <h3>Custom Layout Design</h3>
+                    <p>An Ocean Publications layout specialist will collaborate with you to design a page format that aligns with your vision—whether traditional, creative, or highly customized.</p>
+                    <h3>Chapter Endnotes</h3>
+                    <p>Proper citations strengthen your book’s credibility. Our team creates clean, professional endnotes to ensure accurate referencing.</p>
+                    <h3>Footnote Formatting</h3>
+                    <p>We follow the Chicago Manual of Style to format and insert footnotes correctly, so your book meets professional publishing standards.</p>
+                    <h3>Table Creation</h3>
+                    <p>Need to present data or structured information? Our design specialists can create clear, easy-to-read tables to communicate your content effectively.</p>
                 </div>
 
             </div>
@@ -84,7 +84,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/boy-call.png" alt="Development Editing">
+                        <img class="img-fluid" src="/assets/images/dipl.png" alt="Development Editing">
                     </div>
                 </div>
             </div>
@@ -93,9 +93,7 @@
 
 
 
-
-  <?php include "../includes/work-section.php" ?>
-
+    <?php include "../includes/inner-img.php" ?>
 
 
     <?php include "../includes/faq.php" ?>

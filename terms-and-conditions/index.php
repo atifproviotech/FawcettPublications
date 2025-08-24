@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Brand | Terms & Conditions</title>
+  <title>Ocean Publications | Terms & Conditions</title>
 
   <?php include "../includes/meta.php" ?>
 
