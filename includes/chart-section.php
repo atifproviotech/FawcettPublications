@@ -8,16 +8,8 @@
                         <div class="row justify-content-lg-between justify-content-center">
                             <div class="col-xxl-6 col-lg-5 col-10 d-flex flex-column text-lg-start text-center justify-content-evenly">
                                 <h1 class="subheading mb-2">Chart Topper</h1>
-                                <h2 class="fw-light">What's So Special About Fawcett Publications?</h2>
-                                <p class="mb-xl-5 mb-2">Being strongly inspired by the high writing and printing
-                                    standards
-                                    set by Wilford Hamilton, Fawcett Publications aims to not just maintain the
-                                    premium quality set by Captain Billy, but improve upon it. We all have a dream
-                                    and we all deserve a fair chance to achieve them. That's exactly what we are
-                                    offering. A fair and solid chance for an aspiring author to take the first step
-                                    and make their mark in the book industry all around the globe. If you have a
-                                    genius story idea in your head, then this is the right place to make it all
-                                    happen!
+                                <h2 class="fw-light">Why Choose Ocean Publications?</h2>
+                                <p class="mb-xl-5 mb-2">Inspired by the legacy of excellence set by publishing pioneers, Ocean Publications is committed to raising the bar even higher. We believe every aspiring writer deserves a fair chance to share their voice with the world, and our mission is to make that possible. Whether you’re sitting on a groundbreaking idea or a finished manuscript, this is where your journey to becoming a global author begins. With us, you’re not just publishing a book — you’re making your mark in the literary world.
                                 </p>
                                 <div class="d-flex gap-3 awards mx-lg-0 mx-auto">
                                     <img src="/assets/images/award-one.png" class="img-fluid" alt="award-one">

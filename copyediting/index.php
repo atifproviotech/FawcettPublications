@@ -31,28 +31,7 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+  <?php include "../includes/counter.php" ?>
 
     <section class="service-detail">
         <div class="container">
@@ -72,19 +51,19 @@
 
     <section class="book-lovers p-0 bg-black">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+            <div class="row align-items-center justify-content-md-between justify-content-center">
+                <div class="col-md-6 col-12 text-center text-md-start py-md-5 py-3">
                     <h2 class="fw-light">Let's Get Editing!</h2>
                     <p class="py-3">It's a well-known fact that manuscripts don't edit themselves into finished books. So, what are you waiting for? Dial our number today and our book editing experts will take care of the rest.</p>
-                    <div class="d-flex gap-3 pt-3">
+                    <div class="d-flex justify-content-center justify-content-md-start gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-md-6 col-5">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/boy-call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/boy-call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

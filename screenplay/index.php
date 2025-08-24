@@ -23,7 +23,7 @@
                 <a class="navbar-brand " href="/">
                     <img src="/assets/images/logo-or.png" alt="logo">
                 </a>
-                
+
                 <a class="chat btn btn-secondary" href="javascript:;">
                     <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                 </a>
@@ -35,12 +35,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-12">
-                        <h1 class="heading-1 mb-5 text-decoration-underline text-center">Great Screenplays Start With A
-                            Vision</h1>
+                        <h1 class="heading-1 mb-5 text-decoration-underline text-center">Every Great Screenplay Begins
+                            with a Vision
+                            
+                        </h1>
 
                         <div class="row justify-content-center align-items-center">
                             <div class="col-2">
-                                <h5 class=" text-center text-primary">So, Where's yours?</h5>
+                                <h5 class=" text-center text-primary">So… what’s yours?</h5>
                             </div>
                             <div class="col-4">
                                 <div class="w-100 border border-black"></div>
@@ -67,12 +69,8 @@
 
             <div class="d-flex row justify-content-md-start justify-content-center">
                 <div class="col-md-4 col-12 text-md-start text-center">
-                    <h1 class="heading-1 py-5">Creating Plays That Inspire Your Audience</h1>
-                    <p class="para text-black">Hearing out your ingenious ideas and turning them into perfectly in-sync
-                        screenplays
-                        that command the audience's attention is something of a norm at Fawcett Publication s. Over
-                        here,
-                        the extraordinary is the ordinary.</p>
+                    <h1 class="heading-1 py-5">Crafting Screenplays That Captivate and Inspire</h1>
+                    <p class="para text-black">At Ocean Publications, we take your brilliant ideas and transform them into seamless, compelling screenplays that hold audiences spellbound. For us, turning the extraordinary into the everyday is simply what we do best.</p>
                 </div>
                 <div class="col-md-5 col-8 text-md-start  position-relative">
                     <img src="/assets/images/img-screenplay.jpg" class="img-fluid sp-img" alt="img-screenplay">
@@ -80,12 +78,10 @@
                 </div>
                 <div class="col-md-3 col-12 text-center text-md-start align-self-end position-relative">
 
-                    <p class="para text-black">At times we work with the industry's best to produce some amazing
-                        screenplays. Others we work with fresh aspiring producers and writers to create
-                        award-winning
-                        stuff!</p>
-                    <h2 class="fw-bold">Folks We Have Worked With</h2>
-                    <img src="/assets/images/arrow.png" class="img-fluid d-md-inline d-none arrow-img" width="50" alt="arrow">
+                    <p class="para text-black">We collaborate with top industry talent to bring remarkable screenplays to life—and we’re equally passionate about partnering with emerging producers and writers to create work worthy of awards.</p>
+                    <h2 class="fw-bold">Partners & Collaborators</h2>
+                    <img src="/assets/images/arrow.png" class="img-fluid d-md-inline d-none arrow-img" width="50"
+                        alt="arrow">
                 </div>
             </div>
         </div>
@@ -132,12 +128,9 @@
                             </div>
                         </div>
                         <h2 class="fw-bold">Why</h2>
-                        <p class="para text-white">Why hire industry-tested professionals known to help screenplay
-                            writers make a
-                            bang and go viral on the global stage? Exactly!</p>
+                        <p class="para text-white">Why choose industry-proven professionals who have helped screenwriters make a splash and capture global attention? Simple—because results matter.</p>
                         <p class="para text-white">
-                            If you are going to hire award-winning and one of the industry leaders, you better plan and
-                            expect big because we plan on over delivering!</p>
+                            When you work with award-winning leaders in the field, you should aim high and expect nothing less than exceptional. And with us, overdelivering isn’t just a promise—it’s the standard.</p>
                     </div>
                 </div>
                 <div class="col-xxl-6 col-md-5 col-10">
@@ -148,11 +141,7 @@
                             </div>
                         </div>
                         <h2 class="fw-bold">How</h2>
-                        <p class="para text-white">Simple. We are just that good. Another why?</p>
-                        <p class="para text-white">
-                            Because we took our sweet time finding, filtering, and finalizing the screenplay-writing
-                            prodigies from all over the world currently comprising our team. They are pure
-                            perfectionists and don't know how to not deliver perfection in their screenplay writing.</p>
+                        <p class="para text-white">It’s simple: we’re just that good. Why? Because we’ve spent years carefully scouting, vetting, and assembling a dream team of screenplay-writing prodigies from around the world. They’re perfectionists by nature, and delivering anything less than brilliance simply isn’t in their vocabulary.</p>
                     </div>
                 </div>
             </div>
@@ -165,7 +154,7 @@
                 <div class="col-lg-4 col-sm-6 col-12 h-100">
                     <div class="work-box">
                         <div class="p-4">
-                            <h3 class="text-white">Work That <br><span class="text-primary">Defines Us.</span></h3>
+                            <h3 class="text-white">Our Signature  <br><span class="text-primary">Work</span></h3>
                             <ul>
                                 <li>
                                     <div type="button"
@@ -173,7 +162,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        We Are Original
+                                        Creativity That Stands Out
                                     </div>
                                 </li>
                                 <li>
@@ -182,7 +171,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        On-Time, Every Time
+                                        Always On Schedule
                                     </div>
                                 </li>
                                 <li>
@@ -191,7 +180,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        Top Quality Stuff
+                                        Excellence in Every Page
                                     </div>
                                 </li>
 
@@ -203,7 +192,7 @@
                 <div class="col-lg-4 col-sm-6 col-12 h-100">
                     <div class="work-box">
                         <div class="p-4">
-                            <h3 class="text-white">Work That <br><span class="text-primary">Defines Us.</span></h3>
+                            <h3 class="text-white">Behind the <br><span class="text-primary">Curtain</span></h3>
                             <ul>
                                 <li>
                                     <div type="button"
@@ -211,7 +200,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        We Are Original
+                                        Passionate About Screenwriting
                                     </div>
                                 </li>
                                 <li>
@@ -220,7 +209,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        On-Time, Every Time
+                                        A Team as Diverse as Our Stories
                                     </div>
                                 </li>
                                 <li>
@@ -229,7 +218,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        Top Quality Stuff
+                                        Experienced Industry Pros
                                     </div>
                                 </li>
 
@@ -241,7 +230,7 @@
                 <div class="col-lg-4 col-sm-6 col-12 h-100">
                     <div class="work-box">
                         <div class="p-4">
-                            <h3 class="text-white">Work That <br><span class="text-primary">Defines Us.</span></h3>
+                            <h3 class="text-white">Our  <br><span class="text-primary">Process</span></h3>
                             <ul>
                                 <li>
                                     <div type="button"
@@ -249,7 +238,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        We Are Original
+                                        Concept & Vision Exchange
                                     </div>
                                 </li>
                                 <li>
@@ -258,7 +247,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        On-Time, Every Time
+                                        Script Development
                                     </div>
                                 </li>
                                 <li>
@@ -267,7 +256,7 @@
                                         data-bs-toggle="tooltip" data-bs-placement="top"
                                         data-bs-custom-class="custom-tooltip"
                                         data-bs-title="This top tooltip is themed via CSS variables.">
-                                        Top Quality Stuff
+                                        Refinement & Final Touches
                                     </div>
                                 </li>
 
@@ -287,36 +276,32 @@
                 <div class="col-xxl-10 col-12 mx-auto">
                     <h2
                         class="text-primary about-sp-heading text-center position-sticky top-0 heading-1 mb-4 fw-normal">
-                        We Do What Others Won't</h2>
+                        We Deliver What Others Can’t</h2>
                 </div>
                 <div class="col-lg-5 col-12">
                     <div class="bg-dark box-1 text-white ">
-                        <h3>We Are Your Partners</h3>
-                        <p class="para text-white">Rather than taking your vision and working solo on it, we use the
-                            collaborative approach.</p>
+                        <h3>Your Creative Partners</h3>
+                        <p class="para text-white">We don’t just take your vision and run off with it—we work with you every step of the way, blending your ideas with our expertise to create something extraordinary.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-12">
                     <div class="bg-primary-grad box-2 text-white p-4 p-lg-5">
-                        <h3>No Hand-Holding Required</h3>
-                        <p class="para text-white">With our pros, all you need to do is share your vision, give us a
-                            direction, and we will take care of the rest!</p>
+                        <h3>No Micromanaging Needed</h3>
+                        <p class="para text-white">Share your vision, point us in the right direction, and let our seasoned pros handle the rest. We’ve got it covered.</p>
                     </div>
                 </div>
             </div>
             <div class="row justify-content-between gap-lg-0 gap-3 align-items-center mt-lg-5">
                 <div class="col-lg-5 col-12 mt-lg-5">
                     <div class="bg-primary-grad box-3 text-white p-4 p-lg-5">
-                        <h3>Around the Clock - Literally</h3>
-                        <p class="para text-white">Usually, customer support is the worst part of the experience. It's
-                            probably one of the best things about our brand!</p>
+                        <h3>Support That Never Sleeps</h3>
+                        <p class="para text-white">For most brands, customer service is the weakest link. For us, it’s one of our greatest strengths—always available, always responsive.</p>
                     </div>
                 </div>
                 <div class="col-lg-5 col-12">
                     <div class="bg-dark box-4 text-white p-4 p-lg-5">
-                        <h3>A to Z - And We Mean It!</h3>
-                        <p class="para text-white">From rough discussion to a polished play plan. From screenplay
-                            writing to fully composing it, ready for your audience.</p>
+                        <h3>From Concept to Curtain Call</h3>
+                        <p class="para text-white">Whether it’s brainstorming a rough idea or delivering a fully polished, production-ready screenplay, we handle the entire journey from A to Z.</p>
                     </div>
                 </div>
             </div>
@@ -333,15 +318,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    What types of book publishing services do you offer?
+                                    What types of clients do you work with?
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We provide comprehensive services including manuscript editing, cover design, book
-                                    printing, e-book publishing, and post-publishing support to ensure your book reaches
-                                    its full potential.
+                                   We partner with a wide range of clients—from aspiring writers and independent filmmakers to established production houses and industry professionals.
                                 </div>
                             </div>
                         </div>
@@ -349,15 +332,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How do you handle cover design?
+                                    How do you protect my script when I send it?
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Our cover design process involves working closely with authors to understand the
-                                    essence of their book. We then create a visually compelling cover that appeals to
-                                    the target audience and enhances marketability.
+                                    Your work is kept strictly confidential. We use secure file transfers and respect your intellectual property rights at every stage.
                                 </div>
                             </div>
                         </div>
@@ -366,15 +347,13 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    What kind of marketing support do you provide after publishing?
+                                    Do you work with clients outside the UK?
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Post-publishing, we offer marketing services that include creating detailed
-                                    summaries, managing social media campaigns, arranging book signings, and securing
-                                    spots in bookstores to maximize your book’s reach and impact.
+                                   Yes. We collaborate with writers and producers worldwide, regardless of location.
                                 </div>
                             </div>
                         </div>
@@ -383,17 +362,27 @@
                             <h2 class="accordion-header">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    How long does the publishing process take from manuscript submission to final
-                                    product?
+                                    I only have a script idea—can I still work with you?
                                 </button>
                             </h2>
                             <div id="collapseFour" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    The timeline can vary based on several factors, including the length of the
-                                    manuscript and the specific services required. Generally, the process takes anywhere
-                                    from three to six months from manuscript submission to having a fully published book
-                                    ready for distribution.
+                                    Absolutely. We can help you develop your concept into a fully written, production-ready script.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Can you edit or rewrite my existing script?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Yes. Our team can review, refine, or completely rewrite your script to enhance its structure, dialogue, and overall impact.
                                 </div>
                             </div>
                         </div>

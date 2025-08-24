@@ -50,19 +50,19 @@
 
     <section class="book-lovers p-0 bg-black">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+            <div class="row align-items-center justify-content-md-between justify-content-center">
+                <div class="col-md-6 col-12 text-center text-md-start py-3 py-md-5">
                     <h2 class="fw-light">Book Your Assessment Today!</h2>
                     <p class="py-3">Want to unlock your book's full potential? Our editorial assessment is the key. Get expert insights, clear direction, and a roadmap to publication success. Don't wait, your readers are counting on you and we’re waiting for your call!!</p>
-                    <div class="d-flex gap-3 pt-3">
+                    <div class="d-flex justify-content-md-start justify-content-center gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-md-6 col-5">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/boy-call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/boy-call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

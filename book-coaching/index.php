@@ -69,7 +69,7 @@
                         <li>The beginning and end captures your reader’s attention</li>
                         <li>It connects with your target audience and is timely and marketable</li>
                     </ul>
-                    <div class="d-flex gap-3 pt-3">
+                    <div class="d-flex justify-content-md-start justify-content-center gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>

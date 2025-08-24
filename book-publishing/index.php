@@ -16,11 +16,13 @@
 
     <section class="hero-page">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-lg-6 col-md-10 col-12">
+            <div class="row align-items-center justify-content-lg-between justify-content-center">
+                <div class="col-lg-6 col-md-10 col-12 text-center text-lg-start">
                     <h1 class="mb-2 fw-light follow heading-service">Book Writing Wizards - Your Ideas, Our Words</h1>
-                    <p class="para-service mb-5 follow">Partner up with our talented word smiths who specialize in taking your genius and converting it into entertaining and top-selling reading experiences.!</p>
-                    <ul class="d-flex items-center ser-hero-img mb-lg-5">
+                    <p class="para-service mb-5 follow">Partner up with our talented word smiths who specialize in
+                        taking your genius and converting it into entertaining and top-selling reading experiences.!</p>
+                    <ul
+                        class="d-flex align-items-center justify-content-center justify-content-lg-start ser-hero-img mb-lg-5">
                         <li><img src="/assets/images/badge-gray1.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray2.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray3.png" alt="badge" class="w-24"></li>
@@ -35,67 +37,67 @@
             </div>
         </div>
     </section>
+    
 
-
-    <section class="services-section bg-dark follow">
-        <video src="/assets/images/service-video.mp4" autoplay muted loop></video>
+    <section class="services-section bg-dark follow p-md-auto pt-3 p-0">
+        <video class="d-none d-md-block" src="/assets/images/service-video.mp4" autoplay muted loop></video>
         <div class="row flex-column justify-content-between align-items-center">
-            <div class="col-8 center-flex">
+            <div class="col-8 text-center mb-xl-5">
                 <div class="d-flex gap-2 justify-content-center text-center align-items-center mb-4">
-                    <h3>It's Time You Finished Your Book</h3>
+                    <h3>Everything An Aspiring Author Needs!</h3>
                     <img width="100" src="/assets/images/services.webp" alt="services">
                 </div>
-                <p class="col-12 col-lg-6">Don't you think your book has waited long enough?
-                    Let's work together and give your book the ending it deserves.</p>
+                <p>Fawcett Publication s is the only name you need to remember for your author journey. <br>
+                    Once you partner up with us, we will take care of the rest!</p>
             </div>
 
             <div class="col-12">
                 <div class="row service-box-main justify-content-center align-items-center">
-                    <div class="col-2 d-lg-inline-block d-none">
+                    <div class="col-2 d-xxl-flex d-none">
                         <div class="service-box-dis"></div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
                         <div class="service-box">
                             <h4 class="mb-4">Book Writing</h4>
                             <p class="mb-4">Can't get a clever book idea out of your head but also can't find the time
                                 to pen it
                                 down on paper? We got you covered.
                             </p>
-                            <a class="btn btn-secondary" href="/book-writing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-writing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
                         <div class="service-box">
                             <h4 class="mb-4">Book Publishing</h4>
                             <p class="mb-4">Have a rough manuscript at hand? Don't worry, our in-house pros will polish
                                 it up and
                                 publish it in all the right places.</p>
-                            <a class="btn btn-secondary" href="/book-publishing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-publishing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
                         <div class="service-box">
                             <h4 class="mb-4">Book Cover Design</h4>
                             <p class="mb-4">Nobody will be turning the pages if your book can't turn their heads. Hire
                                 our book
                                 cover designers and they won't be able to resist!</p>
-                            <a class="btn btn-secondary" href="/book-cover-design"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-cover-design"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
                         <div class="service-box">
                             <h4 class="mb-4">Book Marketing</h4>
                             <p class="mb-4">Is your book's release date nearby or is it sitting in a corner collecting
                                 dust? Our
                                 book marketing can turn things around.</p>
-                            <a class="btn btn-secondary" href="/book-marketing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-marketing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-2 d-lg-inline-block d-none">
+                    <div class="col-2 d-xxl-flex d-none">
                         <div class="service-box-dis"></div>
                     </div>
 
@@ -107,11 +109,16 @@
 
     <section class="book-lovers">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6">
+            <div class="row align-items-center justify-content-md-between justify-content-center">
+                <div class="col-md-6 text-center text-md-start col-12">
                     <h2 class="fw-light">Fawcett Publications -
                         The Premium Book Writing Experience</h2>
-                    <p class="mb-5 para-service">At Fawcett Publications, we specialize in crafting compelling stories that captivate and connect with audiences. Whether you're stuck halfway or just starting out, our team of expert writers is here to help you cross the finish line. We understand your vision and translate it into words that engage, entertain, and inspire your readers. With us helping you out with your book, nothing is stopping it from making a buzz around the world and putting your name in the spotlight!</p>
+                    <p class="mb-5 para-service">At Fawcett Publications, we specialize in crafting compelling stories
+                        that captivate and connect with audiences. Whether you're stuck halfway or just starting out,
+                        our team of expert writers is here to help you cross the finish line. We understand your vision
+                        and translate it into words that engage, entertain, and inspire your readers. With us helping
+                        you out with your book, nothing is stopping it from making a buzz around the world and putting
+                        your name in the spotlight!</p>
 
                     <div class="d-flex gap-3">
                         <a class="chat btn btn-primary" href="javascript:;">
@@ -151,7 +158,7 @@
         </div>
     </section>
 
-   <?php include "../includes/chart-section.php" ?>
+    <?php include "../includes/chart-section.php" ?>
 
     <section class="call-section">
         <div class="container">
@@ -166,7 +173,7 @@
         </div>
     </section>
 
-   <?php include "../includes/consultation.php" ?>
+    <?php include "../includes/consultation.php" ?>
 
     <section class="portfolio-section">
         <?php include "../includes/portfolio.php" ?>

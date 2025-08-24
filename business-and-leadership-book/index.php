@@ -32,34 +32,13 @@
             </div>
         </div>
     </section>
-
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    
+    <?php include "../includes/counter.php" ?>
 
     <section class="book-lovers bg-black">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6">
+            <div class="row align-items-center justify-content-md-between justify-content-center">
+                <div class="col-md-6 col-12 text-center text-md-start">
                     <h2 class="fw-light">Let’s Elevate </h2>
                     <p class="py-3">You’ve written a draft and now you’re wondering if:</p>
                     <ul class="list-unstyled coaching-ul">
@@ -69,7 +48,7 @@
                         <li>The beginning and end captures your reader’s attention</li>
                         <li>It connects with your target audience and is timely and marketable</li>
                     </ul>
-                    <div class="d-flex gap-3 pt-3">
+                    <div class="d-flex justify-content-md-start justify-content-center gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
@@ -77,14 +56,14 @@
                 </div>
                 <div class="col-6 container-3d">
                     <div class="card-3d">
-                        <img class="img-fluid" src="/assets/images/book-coaching-service-image.png" alt="home-about">
+                        <img class="img-fluid w-100" src="/assets/images/book-coaching-service-image.png" alt="home-about">
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-
+    
 
     <section class="book-editing-section">
         <div class="container py-5">

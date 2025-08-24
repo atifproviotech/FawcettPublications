@@ -16,8 +16,8 @@
     <section class="home-hero my-3">
         <div class="row h-100 justify-content-center align-items-center mt-5">
             <div class="col-lg-5 col-md-10 col-12 text-center">
-                <h1 class="mb-2 fw-light follow heading-1">They Turn Pages, We Turn Heads!</h1>
-                <p class="para mb-5 follow">Converting Stories Into Unforgettable Reading Experiences!</p>
+                <h1 class="mb-2 fw-light follow heading-1">Where Stories Become Sensations!</h1>
+                <p class="para mb-5 follow">Transforming Every Page into an Experience Readers Remember.</p>
                 <a class="chat btn btn-primary" href="javascript:;">
                     <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                 </a>
@@ -32,27 +32,29 @@
         <video src="/assets/images/fawcett-video.mp4" autoplay muted loop></video>
     </section>
 
-   <!-- Chart-section -->
+    <!-- Chart-section -->
     <?php include "./includes/chart-section.php" ?>
 
     <section class="counter-section text-center">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-sm-3 col-5">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
+                    <h3><span data-target="19" class="counter">19</span> Titles</h3>
+                    <p>
+                        Proudly Ranked as #1 New York Times Bestsellers
+                    </p>
                 </div>
                 <div class="col-sm-3 col-5">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
+                    <h3><span class="counter" data-target="19">310</span> + Releases</h3>
+                    <p>Celebrated as National Bestsellers</p>
                 </div>
                 <div class="col-sm-3 col-5">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
+                    <h3><span class="counter" data-target="1373">1373</span> + Works</h3>
+                    <p>Successfully Published Through Ocean Publications</p>
                 </div>
                 <div class="col-sm-3 col-5">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
+                    <h3><span class="counter" data-target="100">100</span>M + Copies</h3>
+                    <p>Read, Loved, and Shared Worldwide</p>
                 </div>
             </div>
         </div>
@@ -62,7 +64,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-center justify-content-md-between">
                 <div class="col-md-6 col-12 text-md-start text-center">
-                    <h2 class="fw-light">We Are Book Lovers Ourselves</h2>
+                    <h2 class="fw-light">We Live and Breathe Books</h2>
                     <p class="mb-lg-5">Normally, when a company hires its workforce, the requirements revolve around
                         skills, qualifications, and experience. But we aren't normal. There is an extra tick you need to
                         have if you want to work at Fawcett Publication s! You need to be a book lover. Only a true book
@@ -169,13 +171,13 @@
         </div>
     </section>
 
-    <?php include "./includes/consultation.php" ?>    
-    
-    
+    <?php include "./includes/consultation.php" ?>
+
+
     <section class="portfolio-section">
         <?php include "./includes/portfolio.php" ?>
     </section>
-    
+
     <section class="genre-section">
         <div class="container">
             <h1 class="text-center">Genres</h1>
@@ -185,43 +187,53 @@
                         <div class="swiper-wrapper d-flex align-items-end">
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Action</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/action.webp" alt="action">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/action.webp"
+                                    alt="action">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Comics</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/comics.webp" alt="comics">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/comics.webp"
+                                    alt="comics">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Fiction</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/fiction.png" alt="fiction">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/fiction.png"
+                                    alt="fiction">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Children</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/childrens.webp" alt="children">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/childrens.webp"
+                                    alt="children">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Romance</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/romance.png" alt="romance">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/romance.png"
+                                    alt="romance">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Sci-Fi</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/sci-fi.png" alt="sci-fi">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/sci-fi.png"
+                                    alt="sci-fi">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Mystery</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/mystery.png" alt="mystery">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/mystery.png"
+                                    alt="mystery">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Thriller</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/thriller.png" alt="thriller">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/thriller.png"
+                                    alt="thriller">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Non-fiction</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/non-fiction.webp" alt="non-fiction">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/non-fiction.webp"
+                                    alt="non-fiction">
                             </div>
                             <div class="swiper-slide">
                                 <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Adult Books</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/adult-books.webp" alt="adult-book">
+                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/adult-books.webp"
+                                    alt="adult-book">
                             </div>
                         </div>
                     </div>
