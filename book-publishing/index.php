@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>USA Top Book Publishing | Ocean Publications</title>
+    <title>USA Top Book Publishing | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,7 +16,7 @@
 
     <section class="hero-page">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
+            <div class="row align-items-center justify-content-between ">
                 <div class="col-lg-6 col-md-10 col-12">
                     <h1 class="mb-2 fw-light follow heading-service">Why Let Your Manuscript Collect Dust?</h1>
                     <p class="para-service mb-5 follow">Your hard work deserves more than sitting unseen on a shelf. With our seasoned publishing experts by your side, we’ll guide your manuscript through every step of the process—ensuring your brilliance gets the professional polish and global reach it deserves.</p>
@@ -38,17 +38,17 @@
     <section class="book-lovers">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6">
+                <div class="col-lg-6 col-12">
                     <h2 class="fw-light">Make Your Author Debut Shine</h2>
                     <p class="mb-5 para-service">You’ve typed that final sentence, leaned back in satisfaction, and thought, “Ah, the hard part’s over.” But here’s the truth—publishing can be the most challenging chapter of your author journey. Done wrong, it can undo months—if not years—of hard work.</p>
-                    <p>That’s where we step in. At Ocean Publications, we transform manuscripts into published works with the professionalism, precision, and care they deserve. Our authors—especially first-timers—choose us because we deliver transparency, dependable service, fair pricing, and consistent weekly progress updates. If your story is ready for the world, we’ll make sure it gets there in its best possible form.</p>
+                    <p>That’s where we step in. At Oceana Publications, we transform manuscripts into published works with the professionalism, precision, and care they deserve. Our authors—especially first-timers—choose us because we deliver transparency, dependable service, fair pricing, and consistent weekly progress updates. If your story is ready for the world, we’ll make sure it gets there in its best possible form.</p>
                     <div class="d-flex gap-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
                     </div>
                 </div>
-                <div class="col-6 container-3d">
+                <div class="col-lg-6 col-5 container-3d">
                     <div class="card-3d">
                         <img class="w-100" src="/assets/images/marketing-about.png" alt="home-about">
                     </div>
@@ -58,39 +58,8 @@
     </section>
 
 
-    <section class="consultation-section bg-black">
-        <div class="logo-float"></div>
-        <div class="dark-bg"></div>
-        <div class="container position-relative z-2 text-white">
-            <div class="row align-items-center justify-content-center h-100">
-                <div class="col-lg-6">
-                    <h2 class="fw-normal">Schedule Your Free Consultation with Our Experts</h2>
-                    <p class="text-white cons-para">At Ocean Publications, we’re more than a publishing service—we’re your creative partner from the first spark of an idea to the final printed page. Once you team up with us, we’ll handle the heavy lifting so you can focus on your story.</p>
-                    <h4 class="subheading">
-                        Here’s what you can expect:
-                    </h4>
-                    <ul class="custom-list mt-3">
-                        <li>
-                            <strong>A 30-minute, </strong>one-on-one session to validate your idea, refine your vision, and answer all your questions.
-                        </li>
-                        <li>
-                            In-depth project consultation with a clear, <strong>step-by-step roadmap </strong>from concept to completion.
-                        </li>
-                        <li>
-                            A tailored strategy and quote designed to bring your book to life in the most effective way possible.
-                        </li>
-                        <li>
-                            We believe in delivering real, measurable results—and great results require an investment. If now isn’t the right time, no problem. We’ll be here when you’re ready to turn the page and start your author journey.
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6">
-                    <div class="iframe-calender"></div>
-                </div>
-            </div>
-        </div>
-    </section>
-
+  
+    <?php include "../includes/consultation.php" ?>
 
     <section class="portfolio-section">
         <?php include "../includes/portfolio.php" ?>
@@ -104,7 +73,7 @@
                     <h3>Our Full-Spectrum Book Publishing Services</h3>
                     <img width="100" src="/assets/images/services.webp" alt="services">
                 </div>
-                <p class="col-12 col-lg-6">No matter where you are in your publishing journey, Ocean Publications has the expertise to guide your book from concept to global reach.</p>
+                <p class="col-12 col-lg-6">No matter where you are in your publishing journey, Oceana Publications has the expertise to guide your book from concept to global reach.</p>
             </div>
 
             <div class="col-12">
@@ -157,66 +126,69 @@
 
     <?php include "../includes/counter.php" ?>
 
-    <section class="step-section position-relative">
-        <div class="step-header flex-center flex-column">
-            <h1 class="heading-1">Inside the Ocean Publications Publishing <br> Process</h1>
-            <div class="position-absolute">
-                <p class="py-4 w-100 para bg-white">
-                    Ever wondered what happens after you connect with our team, select your publishing package, and confirm your order? Here’s how we bring your book to life—step by step.
-                </p>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <div class="step-box text-center">
-                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                            <h1>Step 01.</h1>
-                            <h3>Manuscript Perfection</h3>
-                            <p class="mb-4">We start by giving your manuscript the final polish it deserves. Every detail—grammar, flow, formatting—is reviewed with precision to ensure your work is flawless and ready to make its mark.</p>
-                            <img src="/assets/images/howitworks-one.png" width="70%" class="object-fit-contain"
-                                alt="step-img">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="step-box text-center">
-                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                            <h1>Step 02.</h1>
-                            <h3>Cover That Speaks Volumes</h3>
-                            <p class="mb-4">Your cover is your book’s first handshake with the reader. Our design specialists collaborate with you to create a visual masterpiece that reflects your story’s soul and grabs attention at first glance.</p>
-                            <img src="/assets/images/howitworks-two.png" width="70%" class="object-fit-contain"
-                                alt="step-img">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="step-box text-center">
-                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                            <h1>Step 03.</h1>
-                            <h3>Publishing & Distribution</h3>
-                            <p class="mb-4">With the text and visuals perfected, we move into publishing. Whether you’re aiming for print, digital, or both, we handle every technical and logistical detail so your book is prepared for a seamless launch into the marketplace.</p>
-                            <img src="/assets/images/howitworks-three.png" width="100%" class="object-fit-contain"
-                                alt="step-img">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="step-box text-center">
-                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                            <h1>Step 04.</h1>
-                            <h3>Ongoing Insights</h3>
-                            <p class="mb-4">Our support doesn’t stop at launch day. You’ll receive regular performance updates, giving you clear insights into your book’s reach and the steps you can take to maximize its impact.</p>
-                            <img src="/assets/images/howitworks-four.png" width="100%" class="object-fit-contain"
-                                alt="step-img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
 
-        <!-- <div class="progress"></div> -->
-    </section>
+    <section class="step-section position-relative">
+    <div class="step-header flex-center flex-column">
+        <h1 class="heading-1">Inside the Oceana Publications Publishing <br> Process</h1>
+        <div class="position-absolute">
+            <p class="py-4 w-100 para bg-white">
+                Ever wondered what happens after you connect with our team, select your publishing package, and confirm your order? Here’s how we bring your book to life—step by step.
+            </p>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-3 col-md-5 col-10">
+                <div class="step-box text-center">
+                    <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                        <h1>Step 01. </h1>
+                        <h3>Manuscript Perfection</h3>
+                        <p class="mb-4">We start by giving your manuscript the final polish it deserves. Every detail—grammar, flow, formatting—is reviewed with precision to ensure your work is flawless and ready to make its mark.</p>
+                        <img src="/assets/images/howitworks-one.png" width="70%" class="object-fit-contain"
+                            alt="step-img">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-5 col-10">
+                <div class="step-box text-center">
+                    <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                        <h1>Step 02.</h1>
+                        <h3>Cover That Speaks Volumes</h3>
+                        <p class="mb-4">Your cover is your book’s first handshake with the reader. Our design specialists collaborate with you to create a visual masterpiece that reflects your story’s soul and grabs attention at first glance.</p>
+                        <img src="/assets/images/howitworks-two.png" width="70%" class="object-fit-contain"
+                            alt="step-img">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-5 col-10">
+                <div class="step-box text-center">
+                    <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                        <h1>Step 03.</h1>
+                        <h3>Publishing & Distribution</h3>
+                        <p class="mb-4">With the text and visuals perfected, we move into publishing. Whether you’re aiming for print, digital, or both, we handle every technical and logistical detail so your book is prepared for a seamless launch into the marketplace.</p>
+                        <img src="/assets/images/howitworks-three.png" width="100%" class="object-fit-contain"
+                            alt="step-img">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-5 col-10">
+                <div class="step-box text-center">
+                    <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
+                        <h1>Step 04.</h1>
+                        <h3>Ongoing Insights</h3>
+                        <p class="mb-4">Our support doesn’t stop at launch day. You’ll receive regular performance updates, giving you clear insights into your book’s reach and the steps you can take to maximize its impact.</p>
+                        <img src="/assets/images/howitworks-four.png" width="100%" class="object-fit-contain"
+                            alt="step-img">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</section>
+
+
+    
 
 
     <section class="faq-section py-5 follow">
@@ -235,7 +207,7 @@
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    At Ocean Publications, we offer a complete publishing experience—from meticulous manuscript editing and captivating cover design to professional book printing, seamless e-book formatting, and post-release support. Our goal is to help your book shine at every stage.
+                                    At Oceana Publications, we offer a complete publishing experience—from meticulous manuscript editing and captivating cover design to professional book printing, seamless e-book formatting, and post-release support. Our goal is to help your book shine at every stage.
                                 </div>
                             </div>
                         </div>

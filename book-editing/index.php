@@ -16,11 +16,11 @@
 
     <section class="hero-page">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
+            <div class="row align-items-center justify-content-lg-between justify-content-center text-lg-start text-center">
                 <div class="col-lg-6 col-md-10 col-12">
                     <h1 class="mb-2 fw-light follow heading-service">Your Book – Our Canvas, Your Masterpiece</h1>
                     <p class="para-service mb-5 follow">Every great book deserves more than just words on a page—it deserves refinement, precision, and the keen eye of a dedicated editor. As passionate readers and experienced writers, we understand that even the most meticulous author can miss subtle inconsistencies, overlooked details, or hidden opportunities to make their story shine. That’s where we come in. We are your second expert perspective—the fresh set of eyes that transforms good writing into unforgettable storytelling. </p>
-                    <ul class="d-flex items-center ser-hero-img mb-lg-5">
+                    <ul class="d-flex justify-content-lg-start justify-content-center align-items-center ser-hero-img mb-lg-5">
                         <li><img src="/assets/images/badge-gray1.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray2.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray3.png" alt="badge" class="w-24"></li>
@@ -98,8 +98,8 @@
 
     <section class="book-lovers">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6">
+            <div class="row align-items-center justify-content-lg-between justify-content-center text-lg-start text-center">
+                <div class="col-lg-6 col-12">
                     <h2 class="fw-light">Polishing the Gem You’ve Created</h2>
                     <p class="mb-5 para-service">Completing a manuscript—no matter how rough—is an extraordinary achievement, one that demands dedication, creativity, and countless hours of work. We recognize and honor that effort. That’s why, when you place your work in our hands, our mission isn’t to rewrite your voice or reshape your story into something unrecognizable.</p>
                     <p class="mb-5 para-service">At Ocean Publications, we believe your vision is sacred. We protect the heart of your book—its plot, tone, style, characters, and the unique personal touch only you can give. Our role is to refine, not reinvent. We smooth out grammatical bumps, seal up plot gaps, and ensure the final read flows seamlessly, delivering a captivating experience that lets your story shine exactly as you intended.</p>
@@ -110,7 +110,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-6 container-3d">
+                <div class="col-lg-6 col-5 container-3d">
                     <div class="card-3d">
                         <img class="w-100" src="/assets/images/marketing-about.png" alt="home-about">
                     </div>
@@ -122,38 +122,8 @@
     <?php include "../includes/counter.php" ?>
 
 
-    <section class="consultation-section bg-black">
-        <div class="logo-float"></div>
-        <div class="dark-bg"></div>
-        <div class="container position-relative z-2 text-white">
-            <div class="row align-items-center justify-content-center h-100">
-                <div class="col-lg-6">
-                    <h2 class="fw-normal">Schedule Your Free Consultation with Our Experts</h2>
-                    <p class="text-white cons-para">At Ocean Publications, we’re more than a publishing service—we’re your creative partner from the first spark of an idea to the final printed page. Once you team up with us, we’ll handle the heavy lifting so you can focus on your story.</p>
-                    <h4 class="subheading">
-                        Here’s what you can expect:
-                    </h4>
-                    <ul class="custom-list mt-3">
-                        <li>
-                            <strong>A 30-minute, </strong>one-on-one session to validate your idea, refine your vision, and answer all your questions.
-                        </li>
-                        <li>
-                            In-depth project consultation with a clear, <strong>step-by-step roadmap </strong>from concept to completion.
-                        </li>
-                        <li>
-                            A tailored strategy and quote designed to bring your book to life in the most effective way possible.
-                        </li>
-                        <li>
-                            We believe in delivering real, measurable results—and great results require an investment. If now isn’t the right time, no problem. We’ll be here when you’re ready to turn the page and start your author journey.
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6">
-                    <div class="iframe-calender"></div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
+    <?php include "../includes/consultation.php" ?>
     
     <section class="portfolio-section bg-black">
         <?php include "../includes/portfolio.php" ?>

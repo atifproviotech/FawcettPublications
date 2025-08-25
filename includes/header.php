@@ -4,10 +4,10 @@
   <span class="follower__content"></span>
 </div>
 
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar navbar-expand-lg position-relative z-3">
   <div class="container">
     <a class="navbar-brand d-lg-none" href="/">
-      <img src="/assets/images/logo-2.png" alt="logo">
+      <img src="/assets/images/logo.png" alt="logo">
     </a>
 
     <a class="d-lg-none d-inline-block" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
@@ -103,7 +103,7 @@
                         <li class="py-2"><a class="text-decoration-none" href="/book-marketing">Book Marketing</a></li>
                         <li class="py-2"><a class="text-decoration-none" href="/publicity-campaigns">Publicity
                             Campaigns</a></li>
-                        <li class="py-2"><a class="text-decoration-none" href="/publicity">Publicity</a></li>
+                        <li class="py-2"><a class="text-decoration-none" href="/publicity-services">Publicity</a></li>
                         <li class="py-2"><a class="text-decoration-none" href="/internet-marketing">Internet
                             Marketing</a></li>
                       </ul>
@@ -259,7 +259,7 @@
             <ul class="dropdown-menu shadow">
               <li><a class="dropdown-item" href="/book-marketing">Book Marketing</a></li>
               <li><a class="dropdown-item" href="/publicity-campaigns">Publicity Campaigns</a></li>
-              <li><a class="dropdown-item" href="/publicity">Publicity</a></li>
+              <li><a class="dropdown-item" href="/publicity-services">Publicity</a></li>
               <li><a class="dropdown-item" href="/internet-marketing">Internet Marketing</a></li>
             </ul>
           </div>

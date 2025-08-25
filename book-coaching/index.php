@@ -37,7 +37,7 @@
     <section class="book-lovers bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6">
+                <div class="col-lg-6 col-12">
                     <h2 class="fw-light">Take Your Book to the Next Level</h2>
                     <p class="py-3">You’ve completed your draft—now it’s time to make it shine. Ask yourself:</p>
                     <ul class="list-unstyled coaching-ul">
@@ -47,13 +47,13 @@
                         <li>Does my opening hook readers instantly, and does my ending leave a lasting impact?</li>
                         <li>Will this connect with my target audience and stand out in today’s market?</li>
                     </ul>
-                    <div class="d-flex justify-content-md-start justify-content-center gap-3 pt-3">
+                    <div class="d-flex justify-content-lg-start justify-content-center gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
                     </div>
                 </div>
-                <div class="col-6 container-3d">
+                <div class="col-lg-6 col-5 container-3d">
                     <div class="card-3d">
                         <img class="img-fluid w-100" src="/assets/images/book-coaching-service-image.png" alt="home-about">
                     </div>

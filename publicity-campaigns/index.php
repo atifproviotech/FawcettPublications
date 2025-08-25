@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spotlight Publicity Campaigns | Ocean Publications</title>
+    <title>Spotlight Publicity Campaigns | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -39,7 +39,7 @@
                 <div class="col-12">
                     <h2>Make Your Book Launch Unforgettable</h2>
                     <p class="mt-5">
-                        Why settle for ordinary when your book deserves extraordinary? At Ocean Publications, we don’t just launch books—we ignite them, keeping the buzz alive long after release day.
+                        Why settle for ordinary when your book deserves extraordinary? At Oceana Publications, we don’t just launch books—we ignite them, keeping the buzz alive long after release day.
                     </p>
                     <h3>Press Release Power</h3>
                     <p>We craft introductions that pack a punch. Our press releases are so compelling, editors won’t just glance—they’ll stop, read, and want more. Your story deserves headlines, and we make sure it gets them.</p>
@@ -61,7 +61,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 py-lg-5 py-3">
                     <h2 class="fw-light">Turn Your Book into a Buzzworthy Sensation</h2>
                     <p class="py-3">Your story isn’t meant to stay quiet—it’s meant to be talked about. Together, we’ll design a publicity campaign that gets people noticing, sharing, and celebrating your work. We don’t just promise results—we deliver them, day after day. Ready to make it happen? Hit that contact button and let’s bring your book into the spotlight.</p>
                     <div class="d-flex gap-3 pt-3">
@@ -72,7 +72,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

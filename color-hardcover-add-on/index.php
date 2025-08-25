@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Color Hardcover Add-On | Ocean Publications</title>
+    <title>Color Hardcover Add-On | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -39,9 +39,9 @@
                 <div class="col-12">
                     <h2>Color Hardcover Add-On</h2>
                     <p class="mt-5">
-                        Give your book the prestige it deserves with Ocean Publications’ Color Hardcover Add-On—a premium upgrade that blends durability, elegance, and professional design. Your color book will be preserved in a sturdy, long-lasting hardcover edition, featuring a glossy, case-laminated cover that ensures a polished, bookstore-quality look. Every page is printed on superior 70 lb. white paper, offering crisp visuals and a refined reading experience.</p>
+                        Give your book the prestige it deserves with Oceana Publications’ Color Hardcover Add-On—a premium upgrade that blends durability, elegance, and professional design. Your color book will be preserved in a sturdy, long-lasting hardcover edition, featuring a glossy, case-laminated cover that ensures a polished, bookstore-quality look. Every page is printed on superior 70 lb. white paper, offering crisp visuals and a refined reading experience.</p>
                     <p>You’ll have the option to select from two professional trim sizes: 8.5” x 8.5” or 8.5” x 11”. To maintain consistency, your hardcover must match your paperback’s trim size. Each hardcover edition is also assigned its own unique ISBN, distinguishing it in the marketplace.</p>
-                    <p>Just like the paperback, your hardcover will be made available through Ocean Publications’ distribution network, including leading wholesalers Ingram and Baker & Taylor, and popular online retailers such as Amazon.com and Barnes & Noble. This ensures your hardcover format reaches readers worldwide with ease.</p>
+                    <p>Just like the paperback, your hardcover will be made available through Oceana Publications’ distribution network, including leading wholesalers Ingram and Baker & Taylor, and popular online retailers such as Amazon.com and Barnes & Noble. This ensures your hardcover format reaches readers worldwide with ease.</p>
                     <h3>Please Note:</h3>
                     <ul class="list-unstyled coaching-ul">
                         <li>Minimum page count: 24 pages</li>
@@ -59,7 +59,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-lg-5 py-3">
                     <h2 class="mb-4">Elevate Your Book’s Reach</h2>
                     <p class="lead">
                         Gain maximum exposure with a <strong>professionally crafted, web-optimized press release</strong>
@@ -75,7 +75,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/dhardcover.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/dhardcover.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

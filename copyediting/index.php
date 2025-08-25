@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Copyediting | Ocean Publications</title>
+    <title>Copyediting | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -40,7 +40,7 @@
                     <h2>Turn Your Good into Unforgettable</h2>
                     <p class="mt-5">
                         Crafting a book from a single spark of an idea is no small feat. If you’ve reached the finish line with a complete manuscript, you’ve already accomplished something remarkable—and you should be proud. But here’s the real question: is it truly ready to captivate your readers? Or could it shine even brighter with the expert touch of seasoned industry professionals?</p>
-                    <p>If your heart says it can be even better, you’re in the right place. At Ocean Publications, our team of publishing veterans lives and breathes the art of refining manuscripts. With years of experience and razor-sharp editorial skills, we transform your hard work into a polished, powerhouse book—one that grabs attention, holds it tight, and firmly plants your name on the literary map.</p>
+                    <p>If your heart says it can be even better, you’re in the right place. At Oceana Publications, our team of publishing veterans lives and breathes the art of refining manuscripts. With years of experience and razor-sharp editorial skills, we transform your hard work into a polished, powerhouse book—one that grabs attention, holds it tight, and firmly plants your name on the literary map.</p>
                 </div>
 
             </div>

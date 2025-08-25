@@ -55,16 +55,16 @@
             <div class="col-md-5 col-12 border-start text-end d-flex justify-content-end align-items-center">
                 <ul class="p-0 d-md-inline-block gap-3 justify-content-center d-flex">
                     <li>
-                        <a class="text-decoration-none" href="">Careers</a>
+                        <!-- <a class="text-decoration-none" href="">Careers</a> -->
                     </li>
                     <li>
-                        <a class="text-decoration-none" href="">Contacts</a>
+                        <a class="text-decoration-none" href="/contact">Contacts</a>
                     </li>
                     <li>
-                        <a class="text-decoration-none" href="">Terms & Conditions</a>
+                        <a class="text-decoration-none" href="/terms-and-conditions">Terms & Conditions</a>
                     </li>
                     <li>
-                        <a class="text-decoration-none" href="">Privacy Policy</a>
+                        <a class="text-decoration-none" href="/privacy-policy">Privacy Policy</a>
                     </li>
                 </ul>
             </div>
@@ -77,7 +77,7 @@
                         <a class="text-decoration-none" href="/book-publishing">Book Publishing</a>
                         <a class="text-decoration-none" href="/book-marketing">Book Marketing</a>
                         <a class="text-decoration-none" href="/cover-design">Cover Design</a>
-                        <a class="text-decoration-none" href="/screen-play">Screen Play</a>
+                        <a class="text-decoration-none" href="/screenplay">Screen Play</a>
                         <a class="text-decoration-none" href="/book-coaching">Book Coaching</a>
                         <a class="text-decoration-none" href="/business-and-leadership-book">Business & Leadership
                             Bbook</a>
@@ -91,24 +91,24 @@
                     </div>
                     <div class="d-flex flex-column gap-3 col-4">
                         <a class="text-decoration-none" href="/cover-copy-polish">Cover Copy Polish</a>
-                        <a class="text-decoration-none" href="/editorial-assesments">Editorial Assesments</a>
-                        <a class="text-decoration-none" href="/small-book-review">Small Book Review</a>
-                        <a class="text-decoration-none" href="/copy-editing">Copy Editing</a>
+                        <a class="text-decoration-none" href="/editorial-assessment">Editorial Assesments</a>
+                        <a class="text-decoration-none" href="/small-book-review-editing">Small Book Review</a>
+                        <a class="text-decoration-none" href="/copyediting">Copy Editing</a>
                         <a class="text-decoration-none" href="/line-editing">Line Editing</a>
                         <a class="text-decoration-none" href="/content-editing">Content Editing</a>
                         <a class="text-decoration-none" href="/starter">Starter</a>
                         <a class="text-decoration-none" href="/essential">Essential</a>
                         <a class="text-decoration-none" href="/plus">Plus</a>
-                        <a class="text-decoration-none" href="/elemential">Elemential</a>
+                        <a class="text-decoration-none" href="/elemental">Elemential</a>
                     </div>
                     <div class="d-flex flex-column gap-3 col-4">
-                        <a class="text-decoration-none" href="/professional-audiobook">Professional Audiobook</a>
-                        <a class="text-decoration-none" href="/soft-cover">Soft Cover</a>
-                        <a class="text-decoration-none" href="/book-binding-size-and-type">Book Binding Size & Type</a>
-                        <a class="text-decoration-none" href="/hardcover-addon">Hardcover Add-on</a>
+                        <a class="text-decoration-none" href="/professional-audiobook-package">Professional Audiobook</a>
+                        <a class="text-decoration-none" href="/softcover-publishing">Soft Cover</a>
+                        <a class="text-decoration-none" href="/book-binding-sizes-and-types">Book Binding Size & Type</a>
+                        <a class="text-decoration-none" href="/color-hardcover-add-on">Hardcover Add-on</a>
                         <a class="text-decoration-none" href="/publicity-campaigns">Publicity Campaigns</a>
-                        <a class="text-decoration-none" href="/publicity">Publicity</a>
-                        <a class="text-decoration-none" href="/internal-marketing">Internal Marketing</a>
+                        <a class="text-decoration-none" href="/publicity-services">Publicity</a>
+                        <a class="text-decoration-none" href="/internet-marketing">Internet Marketing</a>
                         <a class="text-decoration-none" href="/interior-color-illustration">Interior Color
                             Illustration</a>
                         <a class="text-decoration-none" href="/interior-page-layout">Interior Page Layout</a>
@@ -119,15 +119,15 @@
                 <div>
                     <h1 class="fw-normal">Get in Touch</h1>
                     <h3 class="text-secondary"><a
-                            href="mailto:info@oceanpublications.com">info@oceanpublications.com</a></h3>
+                            href="mailto:info@oceanapublications.com">info@oceanapublications.com</a></h3>
                 </div>
             </div>
         </div>
         <div class="py-5">
             <strong>Disclaimer:</strong>
-            Ocean Publications is inspired by the legacy of Wilford Ocean Publications but operates entirely as an independent entity.
+            Oceana Publications is inspired by the legacy of Wilford Oceana Publications but operates entirely as an independent entity.
             <br>
-           Copyright © 2025 Ocean Publications. All rights reserved.
+           Copyright © 2025 Oceana Publications. All rights reserved.
         </div>
     </div>
 </footer>

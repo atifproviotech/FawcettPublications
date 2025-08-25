@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interior Black & White Illustration | Ocean Publications</title>
+    <title>Interior Black & White Illustration | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -55,7 +55,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col=lg-6 py-lg-5 py-3">
                     <h2 class="fw-light">Bring Your Story to Life!</h2>
                     <p class="py-3">Ready to transform your manuscript with stunning black-and-white illustrations? Contact us today and let our talented artists bring your vision to life.</p>
                     <div class="d-flex gap-3 pt-3">
@@ -64,9 +64,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-lg-5 col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/dbw.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/dbw.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Internet Marketing | Ocean Publications</title>
+    <title>Internet Marketing | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -71,7 +71,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-lg-5 py-3">
                     <h2 class="fw-light">Don't Settle For Mediocre</h2>
                     <p class="py-3">Your book deserves better. We're on a mission to help awesome authors like you
                         create epic stories. Let's team up and create something truly epic. Don't wait another minute.
@@ -82,9 +82,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-lg-5 col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/dg.png" alt="Internet Marketing">
+                        <img class="img-fluid w-100" src="/assets/images/dg.png" alt="Internet Marketing">
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Terms & Conditions | Ocean Publications</title>
+  <title>Terms & Conditions | Oceana Publications</title>
 
   <?php include "../includes/meta.php" ?>
 
@@ -25,11 +25,11 @@
       <div class="terms-content">
         <h2>Introduction</h2>
         <p>Please take the time to read through our Terms and Conditions, which provide detailed guidelines regarding
-          our services and how they are offered. The terms outlined below apply to every service delivered by Ocean
+          our services and how they are offered. The terms outlined below apply to every service delivered by Oceana
           Publications through our official website
         </p>
-        <p>All original content created and delivered by Ocean Publications remains your intellectual property. You
-          retain complete copyright ownership of the work produced under the agreed terms. Ocean Publications makes no
+        <p>All original content created and delivered by Oceana Publications remains your intellectual property. You
+          retain complete copyright ownership of the work produced under the agreed terms. Oceana Publications makes no
           claim to these rights, and you are free to publish, distribute, or use the content as you wish.</p>
 
         <p>Full payment is required in advance for all services listed on our website. Clients are solely responsible
@@ -38,7 +38,7 @@
         <p>We provide unlimited revisions on completed work as long as the revision requests are submitted within 7 days
           of delivery. In special circumstances, we may extend this to 14 days. Revision requests are handled according
           to the urgency level of the original order, with standard processing times outlined below:</p>
-        <p>Ocean Publication s reserves the right to modify, amend, update, and change these Terms and Conditions from
+        <p>Oceana Publication s reserves the right to modify, amend, update, and change these Terms and Conditions from
           time to time without notice. You are responsible for regularly viewing these Terms and Conditions.</p>
 
         <h3>Revision Turnaround Based on Urgency:</h3>
@@ -65,25 +65,25 @@
           completion, the project will be considered accepted and approved.</p>
 
         <h3>TERMS OF WEBSITE USE</h3>
-        <p>The content on www.oceanpublications.com is provided solely for informational purposes regarding our services
+        <p>The content on www.oceanapublications.com is provided solely for informational purposes regarding our services
           and should not be interpreted as professional advice, certifications, guarantees, or warranties of any kind.
         </p>
-        <p>Ocean Publications, its affiliates, and employees are not liable for any damages or losses resulting from
+        <p>Oceana Publications, its affiliates, and employees are not liable for any damages or losses resulting from
           errors, omissions, delays, interruptions, unauthorized access, system failures, or technical issues including
           viruses or communication problems.</p>
-        <p>By using this website, you agree to indemnify and hold Ocean Publications, its employees, officers,
+        <p>By using this website, you agree to indemnify and hold Oceana Publications, its employees, officers,
           affiliates, and agents harmless from any claims, losses, damages, or expenses arising from your use of the
           site, violation of these terms, or infringement of third-party rights including intellectual property,
           privacy, or confidentiality.</p>
         <p>This agreement does not establish a joint venture, partnership, employment, or agency relationship between
-          you and Ocean Publications.</p>
+          you and Oceana Publications.</p>
 
         <h2>Email & Mobile Communication Policy</h2>
-        <p>This policy governs the use of client-provided email addresses and mobile phone numbers by Ocean
+        <p>This policy governs the use of client-provided email addresses and mobile phone numbers by Oceana
           Publications.</p>
         <ul>
           <li> <strong>Consent & Communication</strong> By providing your email address and/or phone number, you consent
-            to receive communications from Ocean Publications, including but not limited to project updates,
+            to receive communications from Oceana Publications, including but not limited to project updates,
             transactional messages, revision alerts, newsletters, and design-related attachments.</li>
           <li> <strong>Carrier Charges</strong> Standard text messaging or data rates may apply depending on your
             service provider. Please check with your carrier for more details.</li>
@@ -101,10 +101,10 @@
             <strong>Information Security</strong> Your privacy is a priority. Email addresses and phone numbers provided to us will remain confidential and will not be sold or shared with third parties, except where legally required.
           </li>
           <li>
-            <strong>Policy Updates</strong> Ocean Publications reserves the right to update or amend this policy at any time. Updates will be posted on our website, and it is the client’s responsibility to remain informed by reviewing these changes.
+            <strong>Policy Updates</strong> Oceana Publications reserves the right to update or amend this policy at any time. Updates will be posted on our website, and it is the client’s responsibility to remain informed by reviewing these changes.
           </li>
           <li>
-            <strong>Contact Us</strong> For questions or concerns regarding this policy, please contact us at <a href="mailto:info@oceanpublications.com">info@oceanpublications.com</a>
+            <strong>Contact Us</strong> For questions or concerns regarding this policy, please contact us at <a href="mailto:info@oceanapublications.com">info@oceanapublications.com</a>
           </li>
         </ul>
       </div>

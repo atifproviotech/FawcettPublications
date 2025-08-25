@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cover Design | Ocean Publications</title>
+    <title>Cover Design | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -39,7 +39,7 @@
                 <div class="col-12">
                     <h2>Cover Design</h2>
                     <p class="mt-5">
-                        A book’s cover is its first impression—an invitation for readers to step inside. Our Ocean Publications designers carefully consider your target audience, genre, and unique story to craft a professional cover that captures attention and truly reflects your book’s essence.</p>
+                        A book’s cover is its first impression—an invitation for readers to step inside. Our Oceana Publications designers carefully consider your target audience, genre, and unique story to craft a professional cover that captures attention and truly reflects your book’s essence.</p>
                         <h3>Cover Revisions (Text)</h3>
                         <p>This service covers adjustments to any wording on your cover layout, ensuring accuracy and clarity in every detail.</p>
                         <h3>Cover Revisions (Images/Design)</h3>
@@ -57,7 +57,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 py-lg-5 py-3">
                     <h2 class="fw-light">Let's Get Editing!</h2>
                     <p class="py-3">It's a well-known fact that manuscripts don't edit themselves into finished books. So, what are you waiting for? Dial our number today and our book editing experts will take care of the rest.</p>
                     <div class="d-flex gap-3 pt-3">
@@ -66,9 +66,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-lg-5 col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/boy-call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/boy-call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

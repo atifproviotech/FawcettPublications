@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interior Page Layout | Ocean Publications</title>
+    <title>Interior Page Layout | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -39,7 +39,7 @@
                 <div class="col-12">
                     <h2>Interior Page Layout</h2>
                     <p class="mt-5">
-                        At Ocean Publications, our design experts ensure your book’s interior pages are not only well-organized and visually appealing but also meet the highest publishing standards. Every detail of the layout is tailored to provide readers with a smooth, enjoyable experience while reflecting your book’s unique style.</p>
+                        At Oceana Publications, our design experts ensure your book’s interior pages are not only well-organized and visually appealing but also meet the highest publishing standards. Every detail of the layout is tailored to provide readers with a smooth, enjoyable experience while reflecting your book’s unique style.</p>
                     <h3>Black & White Image Placement</h3>
                     <p>Send us your black-and-white graphics or illustrations, and we’ll seamlessly integrate them into your book for a professional finish.</p>
                     <h3>Color Image Placemen</h3>
@@ -55,7 +55,7 @@
                     <h3>Custom Headers</h3>
                     <p>Want to personalize or update section headers during the publishing process? Our Custom Headers service makes it simple to adjust them to your preference.</p>
                     <h3>Custom Layout Design</h3>
-                    <p>An Ocean Publications layout specialist will collaborate with you to design a page format that aligns with your vision—whether traditional, creative, or highly customized.</p>
+                    <p>An Oceana Publications layout specialist will collaborate with you to design a page format that aligns with your vision—whether traditional, creative, or highly customized.</p>
                     <h3>Chapter Endnotes</h3>
                     <p>Proper citations strengthen your book’s credibility. Our team creates clean, professional endnotes to ensure accurate referencing.</p>
                     <h3>Footnote Formatting</h3>
@@ -73,7 +73,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-lg-5 py-3">
                     <h2 class="fw-light">Let's Get Editing!</h2>
                     <p class="py-3">It's a well-known fact that manuscripts don't edit themselves into finished books. So, what are you waiting for? Dial our number today and our book editing experts will take care of the rest.</p>
                     <div class="d-flex gap-3 pt-3">
@@ -82,9 +82,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-lg-5 col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/dipl.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/dipl.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

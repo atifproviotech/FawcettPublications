@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plus | Ocean Publication</title>
+    <title>Plus | Oceana Publication</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -58,7 +58,7 @@
 
                 <div class="bg-danger p-4 p-lg-5 rounded text-center my-5">
                     <h2 class="fs-5 text-white fw-normal my-4">
-                        “What I loved most was having the final say over my manuscript—my voice was never lost. Add to that the incredible support I received from everyone at Ocean Publications, and the entire journey became not just easier, but genuinely enjoyable. Their guidance, encouragement, and expert advice made all the difference.”
+                        “What I loved most was having the final say over my manuscript—my voice was never lost. Add to that the incredible support I received from everyone at Oceana Publications, and the entire journey became not just easier, but genuinely enjoyable. Their guidance, encouragement, and expert advice made all the difference.”
                     </h2>
                     <p class="text-white mb-0">– Samantha Hayes, author of Breaking the Silence</p>
                 </div>
@@ -66,7 +66,7 @@
                 <div class="col-12">
                     <h3>Beyond Publishing – A Complete Author Experience</h3>
                     <p class="mt-5">
-                        At Ocean Publications, we’re more than just a self-publisher—we’re your creative partner. Our Starter Package is designed to give you everything you need to bring your book to life and share it with the world. Here’s what’s included:
+                        At Oceana Publications, we’re more than just a self-publisher—we’re your creative partner. Our Starter Package is designed to give you everything you need to bring your book to life and share it with the world. Here’s what’s included:
                     </p>
 
                     <h3>Professional Formatting & Publishing</h3>
@@ -100,7 +100,7 @@
                     <h3>Marketing & Promotion Tools</h3>
                     <ul class="list-unstyled coaching-ul">
                         <li><strong>Custom Author Website (3 Pages + 1 Year Hosting)</strong> – A professionally designed website to showcase your book, connect with readers, and build your author brand.</li>
-                        <li><strong>Featured in “New Releases”</strong> – Spotlight your book on the Ocean Publications online bookstore’s New Releases section during your launch window.</li>
+                        <li><strong>Featured in “New Releases”</strong> – Spotlight your book on the Oceana Publications online bookstore’s New Releases section during your launch window.</li>
                         <li><strong>Print-Ready Bookmark Design File</strong> – Receive a custom bookmark design in PDF format to print and use at events, signings, and giveaways.</li>
                         <li><strong>Book Sales Savvy Guide</strong> – A practical resource with exercises and strategies to help you market your book confidently.</li>
                         <li><strong>Social Media Starter Guide</strong> – Step-by-step instructions on setting up Instagram, Facebook, Twitter, and LinkedIn to grow your audience and keep readers engaged.</li>
@@ -125,7 +125,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-md-5 py-3">
                     <h2 class="fw-light">An Epic Title for An Epic Tale</h2>
                     <p class="py-3">When you have worked so hard and long on something, it's only fair that you see it through. Even some of the best writers still struggle to write the perfect cover copy for their books. That's why it's best to leave it to the pros. So, what are you waiting for? Pick up that phone and give us a call!</p>
                     <div class="d-flex gap-3 pt-3">
@@ -136,7 +136,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>
