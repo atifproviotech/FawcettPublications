@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Starter | Ocean Publications</title>
+    <title>Starter | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -51,7 +51,7 @@
                     <p>From print to digital, we’ll place your book where readers are looking—Amazon, Barnes & Noble, and beyond. With worldwide distribution, your audience is just a click away.</p>
                     <p>And because visibility matters, we’ll even help you showcase your work with a sleek, custom website that matches your book’s brilliance.</p>
                     <h3>The Bottom Line?</h3>
-                    <p>You focus on writing the story you’ve dreamed of. We’ll handle the publishing puzzle—printing, formatting, distribution, and more. With Ocean Publications’ Starter Package, it’s simple, seamless, and successful.</p>
+                    <p>You focus on writing the story you’ve dreamed of. We’ll handle the publishing puzzle—printing, formatting, distribution, and more. With Oceana Publications’ Starter Package, it’s simple, seamless, and successful.</p>
                 </div>
 
             </div>
@@ -63,10 +63,10 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-md-5 py-3">
                     <h2 class="fw-light">Fast-Track Your Way to Authorship!</h2>
                     <p class="py-3">Tired of wrestling with tricky formatting, overwhelming platforms, and covers that just don’t cut it? Say goodbye to the stress! With our Starter Package, you get a smooth, professional publishing journey—no shortcuts, just results.</p>
-                    <p>Why wait any longer to see your book in readers’ hands? Take the leap today and let Ocean Publications bring your story to life.</p>
+                    <p>Why wait any longer to see your book in readers’ hands? Take the leap today and let Oceana Publications bring your story to life.</p>
                     <p><strong>
                             Reach out to us via email and start your publishing journey now!
                         </strong></p>
@@ -78,7 +78,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

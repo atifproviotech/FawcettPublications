@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Screenplay | Ocean Publications</title>
+    <title>Screenplay | Oceana Publications</title>
     <?php include "../includes/meta.php" ?>
 </head>
 
@@ -21,7 +21,7 @@
         <nav class="navbar navbar-expand-lg px-4">
             <div class="container-fluid w-100">
                 <a class="navbar-brand " href="/">
-                    <img src="/assets/images/logo-2.png" alt="logo">
+                    <img src="/assets/images/logo.png" alt="logo">
                 </a>
 
                 <a class="chat btn btn-secondary" href="javascript:;">
@@ -70,7 +70,7 @@
             <div class="d-flex row justify-content-md-start justify-content-center">
                 <div class="col-md-4 col-12 text-md-start text-center">
                     <h1 class="heading-1 py-5">Crafting Screenplays That Captivate and Inspire</h1>
-                    <p class="para text-black">At Ocean Publications, we take your brilliant ideas and transform them into seamless, compelling screenplays that hold audiences spellbound. For us, turning the extraordinary into the everyday is simply what we do best.</p>
+                    <p class="para text-black">At Oceana Publications, we take your brilliant ideas and transform them into seamless, compelling screenplays that hold audiences spellbound. For us, turning the extraordinary into the everyday is simply what we do best.</p>
                 </div>
                 <div class="col-md-5 col-8 text-md-start  position-relative">
                     <img src="/assets/images/img-screenplay.jpg" class="img-fluid sp-img" alt="img-screenplay">
@@ -399,7 +399,7 @@
                     <div class="w-100">
                         <h1 class="fw-normal text-primary">Let's Talk</h1>
                         <h3 class="text-secondary"><a
-                                href="/mailto:info@oceanpublications.com">info@oceanpublications.com</a></h3>
+                                href="/mailto:info@oceanapublications.com">info@oceanapublications.com</a></h3>
                     </div>
                 </div>
                 <div class="col-md-5 col-12 text-md-start text-center py-md-5 py-3 ps-4 border-start">
@@ -457,16 +457,16 @@
                 <div class="col-md-5 col-12 border-start text-end d-flex justify-content-end align-items-center">
                     <ul class="p-0 d-md-inline-block gap-3 justify-content-center d-flex">
                         <li>
-                            <a class="text-decoration-none" href="">Careers</a>
+                            <!-- <a class="text-decoration-none" href="">Careers</a> -->
                         </li>
                         <li>
-                            <a class="text-decoration-none" href="">Contacts</a>
+                            <a class="text-decoration-none" href="/contact">Contacts</a>
                         </li>
                         <li>
-                            <a class="text-decoration-none" href="">Terms & Conditions</a>
+                            <a class="text-decoration-none" href="/terms-and-conditions">Terms & Conditions</a>
                         </li>
                         <li>
-                            <a class="text-decoration-none" href="">Privacy Policy</a>
+                            <a class="text-decoration-none" href="/privacy-policy">Privacy Policy</a>
                         </li>
                     </ul>
                 </div>
@@ -482,7 +482,7 @@
                 </div>
             </div>
             <div class="py-md-5 py-3 text-center">
-                <p>Disclaimer: Ocean Publications heavily draws its inspiration from Wilford Ocean Publications but is,
+                <p>Disclaimer: Oceana Publications heavily draws its inspiration from Wilford Oceana Publications but is,
                     regardless,
                     an independent entity.</p>
             </div>

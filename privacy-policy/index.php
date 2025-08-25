@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy | Ocean Publications</title>
+    <title>Privacy Policy | Oceana Publications</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <?php include "../includes/meta.php" ?>
 
@@ -18,7 +18,7 @@
         <div class="container">
             <div class="terms-header">
                 <h1>Privacy Policy</h1>
-                <p>At Ocean Publications, we are committed to protecting your privacy. This policy explains how we
+                <p>At Oceana Publications, we are committed to protecting your privacy. This policy explains how we
                     collect, use, and safeguard your personal information when you interact with our services.</p>
                 <p>Your trust is important to us, which is why we handle all customer data with the highest level of
                     confidentiality and care. Our privacy practices are designed to ensure your information remains
@@ -43,7 +43,7 @@
 
                 <h2>Security of Your Information</h2>
                 <p>Protecting your information is our top priority. We use robust physical, electronic, and managerial safeguards to prevent unauthorized access or disclosure.</p>
-                <p>At Ocean Publications, all data transmitted through our website is protected using Secure Sockets Layer (SSL) encryption, ensuring confidentiality during transfer. While we adhere to industry best practices to secure your information, please note that no online system or electronic storage method is 100% risk-free.</p>
+                <p>At Oceana Publications, all data transmitted through our website is protected using Secure Sockets Layer (SSL) encryption, ensuring confidentiality during transfer. While we adhere to industry best practices to secure your information, please note that no online system or electronic storage method is 100% risk-free.</p>
 
                 <h2>Sharing with Third Parties</h2>
                 <p>We do not sell, trade, or disclose your personal information to external parties.</p>
@@ -64,7 +64,7 @@
                 <p>Your privacy is central to our operations. We adhere to strict PCI compliance standards and follow industry best practices to ensure your information is secure.</p>
                 <p><strong>Please note:</strong></p>
                 <ul>
-                    <li>Ocean Publications representatives will never ask for confidential details such as credit card numbers.</li>
+                    <li>Oceana Publications representatives will never ask for confidential details such as credit card numbers.</li>
                     <li>If you share sensitive data with any employee outside official channels, it is at your own risk, and we cannot be held responsible.</li>
                 </ul>
                 <p>In some cases, your project may be processed through our global service centers for quality assurance. All centers operate under strict Non-Disclosure Agreements (NDAs) to protect your confidentiality.</p>
@@ -91,7 +91,7 @@
                 <h4>Security</h4>
                 <p>We maintain strict safeguards to protect your personal contact details from unauthorized use or disclosure.</p>
                 <h4>Managing Your Preferences</h4>
-                <p>You may opt out of marketing communications at any time by replying STOP or Unsubscribe, or by contacting us at info@oceanpublications.com.</p>
+                <p>You may opt out of marketing communications at any time by replying STOP or Unsubscribe, or by contacting us at info@oceanapublications.com.</p>
                 <h4>Sharing</h4>
                 <p>We never sell, lease, or distribute your contact information to third parties unless required by law or with your explicit consent.</p>
 
@@ -103,10 +103,10 @@
                     <li>Withdraw consent for certain uses of your information</li>
                 </ul>
 
-                <p>To exercise these rights, please contact us at info@oceanpublications.com.</p>
+                <p>To exercise these rights, please contact us at info@oceanapublications.com.</p>
 
                 <h2>Policy Updates</h2>
-                <p>Ocean Publications may update this policy from time to time. Any changes will be posted on this page, and we encourage you to review it regularly to stay informed.</p>
+                <p>Oceana Publications may update this policy from time to time. Any changes will be posted on this page, and we encourage you to review it regularly to stay informed.</p>
                 
             </div>
 

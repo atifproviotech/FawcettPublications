@@ -2,23 +2,33 @@
     <div class="logo-float"></div>
     <div class="dark-bg"></div>
     <div class="container position-relative z-2 text-white">
-        <div class="row align-items-center justify-content-center h-100">
+        <div class="row align-items-center text-center text-lg-start justify-content-center h-100">
             <div class="col-lg-5">
-                <h2 class="fw-normal">Book a Free Consultation With Our Experts</h2>
-                <p class="text-white"> Publications is the only name you need to remember for your author
-                    journey. Once you partner up with us, we will take care of the rest!</p>
+                <h2 class="fw-normal">Schedule Your Free Consultation with Our Experts</h2>
+                <p class="text-white">At Oceana Publications, we’re more than a publishing service—we’re your creative
+                    partner from the first spark of an idea to the final printed page. Once you team up with us, we’ll
+                    handle the heavy lifting so you can focus on your story.</p>
                 <h4 class="subheading">
-                    What to expect ?
+                    Here’s what you can expect:
                 </h4>
                 <ul class="p-0">
-                    <li class="mb-3">30 minutes of a one-to-one meeting to get your idea validated & clear all your
-                        doubts</li>
-                    <li class="mb-3">Detailed consultation regarding your project brief & complete roadmap till
-                        execution</li>
-                    <li class="mb-3">Personalized solution as per your needs and estimated quote to bring your Book
-                        idea to life</li>
-                    <li class="mb-3">We’re all about results, but they come with an investment. If that’s not in the
-                        cards right now, no worries—let’s save the call for when you’re ready to turn the page.</li>
+                    <li>
+                        <strong>A 30-minute, </strong>one-on-one session to validate your idea, refine your vision, and
+                        answer all your questions.
+                    </li>
+                    <li>
+                        In-depth project consultation with a clear, <strong>step-by-step roadmap </strong>from concept
+                        to completion.
+                    </li>
+                    <li>
+                        A tailored strategy and quote designed to bring your book to life in the most effective way
+                        possible.
+                    </li>
+                    <li>
+                        We believe in delivering real, measurable results—and great results require an investment. If
+                        now isn’t the right time, no problem. We’ll be here when you’re ready to turn the page and start
+                        your author journey.
+                    </li>
                 </ul>
             </div>
             <div class="col-lg-5 h-100">

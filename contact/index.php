@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ocean Publications | Contact</title>
+    <title>Oceana Publications | Contact</title>
     <?php include "../includes/meta.php" ?>
 
 </head>
@@ -79,7 +79,7 @@
                         <div class="">
                             <h1 class="fw-normal">Let's Talk</h1>
                             <h3 class="text-secondary"><a
-                                    href="/mailto:info@oceanpublications.com">info@oceanpublications.com</a></h3>
+                                    href="/mailto:info@oceanapublications.com">info@oceanapublications.com</a></h3>
                         </div>
 
                     </div>
@@ -154,7 +154,7 @@
                     </div>
                 </div>
                 <div class="py-5">
-                    Disclaimer:  Publications heavily draws its inspiration from Wilford Ocean Publications but is,
+                    Disclaimer:  Publications heavily draws its inspiration from Wilford Oceana Publications but is,
                     regardless, an independent entity.
                 </div>
             </div>

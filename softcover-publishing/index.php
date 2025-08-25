@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cover Copy Polish | Ocean Publications</title>
+    <title>Cover Copy Polish | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -45,7 +45,7 @@
                 <div class="col-12">
                     <h2 class="mb-4">Softcover Publishing</h2>
                     <p class="text-muted mb-4">
-                        At <strong>Ocean Publications</strong>, our softcover editions are crafted as trade paperbacks,
+                        At <strong>Oceana Publications</strong>, our softcover editions are crafted as trade paperbacks,
                         setting them apart from standard mass-market versions. A trade paperback is recognized in the
                         publishing industry for its superior production quality, larger format, and more premium feel compared
                         to mass-market paperbacks. While mass-market editions are often printed on thin, low-quality paper that
@@ -83,7 +83,7 @@
                     </div>
 
                     <p class="mt-4 text-dark">
-                        With <strong>Ocean Publications</strong>, your book will not only be professionally presented but also
+                        With <strong>Oceana Publications</strong>, your book will not only be professionally presented but also
                         built to stand the test of time in the hands of readers.
                     </p>
                 </div>
@@ -96,7 +96,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-lg-5 py-3">
                     <h2 class="fw-light">An Epic Title for An Epic Tale</h2>
                     <p class="py-3">When you have worked so hard and long on something, it's only fair that you see it through. Even some of the best writers still struggle to write the perfect cover copy for their books. That's why it's best to leave it to the pros. So, what are you waiting for? Pick up that phone and give us a call!</p>
                     <div class="d-flex gap-3 pt-3">
@@ -107,7 +107,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

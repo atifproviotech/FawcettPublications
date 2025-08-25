@@ -29,7 +29,7 @@
     </section>
 
     <section class="video-section p-0">
-        <video src="/assets/images/fawcett-video.mp4" autoplay muted loop></video>
+        <img src="/assets/images/book-bg.jpg" class="img-fluid w-100 h-100" alt="">
     </section>
 
     <!-- Chart-section -->
@@ -62,12 +62,12 @@
 
     <section class="book-lovers">
         <div class="container">
-            <div class="row align-items-center justify-content-center justify-content-md-between">
-                <div class="col-md-6 col-12 text-md-start text-center">
+            <div class="row align-items-center justify-content-center justify-content-lg-between">
+                <div class="col-lg-6 col-12 text-lg-start text-center">
                     <h2 class="fw-light">We Live and Breathe Books</h2>
                     <p class="mb-lg-5">Most companies hire based on skills, degrees, and experience—but Ocean Publications is different. Here, being a book lover isn’t optional, it’s essential. Passion fuels excellence, and only someone who truly adores books will go the extra mile to make sure every manuscript reaches its finest form before publication. That’s why when you choose us, you can rest assured your story is being handled with the utmost care, commitment, and love for literature.</p>
 
-                    <div class="d-flex gap-3">
+                    <div class="d-flex justify-content-center justify-content-lg-start gap-3">
                         <img src="/assets/images/status.png" width="50" class="object-fit-contain" alt="status-img">
                         <div>
                             <div class="heading">Charlotte Evans</div>
@@ -75,7 +75,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xxl-6 col-md-5 col-4 text-center container-3d">
+                <div class="col-xxl-6 col-lg-5 col-4 text-center container-3d">
                     <div class="card-3d">
                         <img class="w-100" src="/assets/images/home-about.png" alt="home-about">
                     </div>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Professional Audiobook Package | Ocean Publications</title>
+    <title>Professional Audiobook Package | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -46,7 +46,7 @@
                     <p class="mt-5">
                         In today’s fast-moving world, many readers turn to audiobooks as their preferred way to enjoy stories while commuting, exercising, or multitasking. With the rapid growth of audiobook downloads each year, now is the perfect time for self-published authors to expand their reach through this format.
                     </p>
-                    <p>Ocean Publications’ Professional Audiobook Package ensures your story is transformed into a high-quality listening experience, giving your audience the freedom to enjoy your work anytime, anywhere.</p>
+                    <p>Oceana Publications’ Professional Audiobook Package ensures your story is transformed into a high-quality listening experience, giving your audience the freedom to enjoy your work anytime, anywhere.</p>
                     <p><strong>This package includes:</strong></p>
 
                     <ul class="list-unstyled coaching-ul">
@@ -84,7 +84,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-md-5 py-3">
                     <h2 class="fw-light">An Epic Title for An Epic Tale</h2>
                     <p class="py-3">When you have worked so hard and long on something, it's only fair that you see it through. Even some of the best writers still struggle to write the perfect cover copy for their books. That's why it's best to leave it to the pros. So, what are you waiting for? Pick up that phone and give us a call!</p>
                     <div class="d-flex gap-3 pt-3">
@@ -95,7 +95,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

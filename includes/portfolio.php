@@ -1,5 +1,5 @@
 <div class="container">
-    <div class="row align-items-center justify-content-xxl-between  justify-content-around">
+    <div class="row align-items-center text-center text-md-start justify-content-xxl-between  justify-content-around">
         <div class="col-xxl-6 col-md-4 col-12">
             <div class="mb-5">
                 <h1 class="heading-1">Our Portfolio</h1>

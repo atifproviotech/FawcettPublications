@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Marketing | Ocean Publications</title>
+    <title>Book Marketing | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -19,7 +19,7 @@
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-5 col-md-10 col-12">
                     <h2 class="mb-2 fw-light follow heading-1">Let Your Book Find Its Tribe</h2>
-                    <p class="para-service mb-5 follow">Every book has a perfect audience—it just needs the right path to reach them. At Ocean Publications, we craft powerful marketing strategies that spark curiosity, build excitement, and place your book directly in the hands of eager readers. Your words have magic—let’s make sure the world feels it.</p>
+                    <p class="para-service mb-5 follow">Every book has a perfect audience—it just needs the right path to reach them. At Oceana Publications, we craft powerful marketing strategies that spark curiosity, build excitement, and place your book directly in the hands of eager readers. Your words have magic—let’s make sure the world feels it.</p>
                 </div>
                 <div class="col-lg-6">
                     <?php include "../includes/form.php" ?>
@@ -32,17 +32,17 @@
     <section class="book-lovers bg-dark text-white">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6">
+                <div class="col-lg-6 col-12">
                     <h2 class="fw-light">Don’t Just Write a Book—Make It Unforgettable</h2>
                     <p class="mb-5 para-service">A brilliant story alone isn’t enough to create a bestseller. Countless incredible books remain unseen simply because they never received the marketing they deserved. The truth is, success takes two things: a powerful idea and a powerful campaign.</p>
-                    <p>If you already have the first, Ocean Publications is here to deliver the second. Our book marketing experts know how to turn your work into a movement—building visibility, credibility, and connection with your ideal readers. Your book is too good to collect dust on a shelf. Let’s make sure it finds the audience it was written for.</p>
+                    <p>If you already have the first, Oceana Publications is here to deliver the second. Our book marketing experts know how to turn your work into a movement—building visibility, credibility, and connection with your ideal readers. Your book is too good to collect dust on a shelf. Let’s make sure it finds the audience it was written for.</p>
                     <div class="d-flex gap-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
                     </div>
                 </div>
-                <div class="col-6 container-3d">
+                <div class="col-lg-6 col-5 container-3d">
                     <div class="card-3d">
                         <img class="w-100" src="/assets/images/marketing-about2.png" alt="home-about">
                     </div>
@@ -59,7 +59,7 @@
                     <h3>Book Marketing That Gets You Noticed</h3>
                     <img width="100" src="/assets/images/services.webp" alt="services">
                 </div>
-                <p class="col-12 col-lg-6">At Ocean Publications, we don’t just market books—we turn them into movements. From online buzz to real-world events, we make sure your book grabs attention, trends globally, and leaves a lasting impression.</p>
+                <p class="col-12 col-lg-6">At Oceana Publications, we don’t just market books—we turn them into movements. From online buzz to real-world events, we make sure your book grabs attention, trends globally, and leaves a lasting impression.</p>
             </div>
 
             <div class="col-12">
@@ -112,7 +112,7 @@
 
 
     <section class="video-section">
-        <video src="/assets/images/marketing.mp4" autoplay muted loop></video>
+        <img src="/assets/images/book-bg.jpg" class="w-100 h-100" alt="">
     </section>
 
 
@@ -123,7 +123,7 @@
 
     <section class="call-section">
         <div class="container">
-            <div class="row align-items-center">
+            <div class="row align-items-center text-lg-start text-center ">
                 <div class="col-lg-10 col-12">
                     <h2>We Add Wings to Your Book So That Your Journey Becomes A Breeze!</h2>
                 </div>
@@ -143,66 +143,10 @@
 
     <!-- Steps Section -->
 
-    <section class="step-section position-relative">
-        <div class="step-header flex-center flex-column">
-            <h1 class="heading-1">How the Magic<br> Happens ?</h1>
-            <div class="position-absolute">
-                <p class="py-4 w-100 para bg-white">
-                    Curious about what goes on behind the scenes after you connect with us, pick your service, and confirm your order? Here’s how we bring your book into the spotlight.
-                </p>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <div class="step-box text-center">
-                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                            <h1>Step 01.</h1>
-                            <h3>Crafting the Blueprint</h3>
-                            <p class="mb-4">We kick things off with an in-depth discovery session—digging into your book’s story, its audience, and your big-picture goals. This becomes the foundation for a powerful, results-driven marketing plan.</p>
-                            <img src="/assets/images/howitworks-one.png" width="70%" class="object-fit-contain"
-                                alt="step-img">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="step-box text-center">
-                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                            <h1>Step 02.</h1>
-                            <h3>Creating the Buzz</h3>
-                            <p class="mb-4">Our creative team gets to work designing marketing assets that wow. From striking visuals and scroll-stopping book trailers to compelling copy and tailored promotional material—we make your book impossible to ignore.</p>
-                            <img src="/assets/images/howitworks-two.png" width="70%" class="object-fit-contain"
-                                alt="step-img">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="step-box text-center">
-                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                            <h1>Step 03.</h1>
-                            <h3>Spreading the Word</h3>
-                            <p class="mb-4">With the blueprint and content ready, it’s go-time. We roll out your campaign across the right channels—social media, email blasts, influencer shoutouts, and targeted ads—to make sure your book reaches the readers who matter most.</p>
-                            <img src="/assets/images/howitworks-three.png" width="100%" class="object-fit-contain"
-                                alt="step-img">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-3">
-                    <div class="step-box text-center">
-                        <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                            <h1>Step 04.</h1>
-                            <h3>Tracking & Tweaking for Success</h3>
-                            <p class="mb-4">We don’t just launch and leave. Our team monitors every move—tracking performance, analyzing data, and making smart adjustments along the way to ensure your campaign keeps growing stronger and delivering results.</p>
-                            <img src="/assets/images/howitworks-four.png" width="100%" class="object-fit-contain"
-                                alt="step-img">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+   <?php include "../includes/steps.php" ?>
 
-        <!-- <div class="progress"></div> -->
-    </section>
+
+    
     <section class="faq-section py-5 follow">
         <div class="container">
             <h1 class="fw-normal text-center mb-4">FAQs</h1>

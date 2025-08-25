@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Essentials | Ocean Publications</title>
+    <title>Essentials | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -62,7 +62,7 @@
 
                     <h3>More Than A Publisher</h3>
                     <p class="mt-5">
-                        Ocean Publications is the largest self-publisher committed to creating an amazing publishing experience. Here is what's included in the Starter Package:
+                        Oceana Publications is the largest self-publisher committed to creating an amazing publishing experience. Here is what's included in the Starter Package:
                     </p>
                     <ul class="list-unstyled coaching-ul">
                         <li>Paperback Publishing – Your book will be available in the most popular format, made of quality, perfect binding, and acid-free library stock paper.</li>
@@ -91,7 +91,7 @@
                     <h3>Marketing Features</h3>
                     <ul class="list-unstyled coaching-ul">
                         <li>Author Website Setup (3 pages) with One Year of Hosting – Receive a professional author website that fits your style and is where readers can go to discover your book and learn about you as an author.</li>
-                        <li>New Releases Section on the Ocean Publications Bookstore – Have your book featured on our online bookstore’s ‘New Releases’ section spotlighting it for a limited time upon its publication date.</li>
+                        <li>New Releases Section on the Oceana Publications Bookstore – Have your book featured on our online bookstore’s ‘New Releases’ section spotlighting it for a limited time upon its publication date.</li>
                         <li>Print-Ready Bookmarks Design File – These are the PDF files of bookmark design so you can print bookmarks at home or through a local printer to be used for promotional events.</li>
                         <li>Book Sales Savvy Guide – With helpful exercises and practices, this marketing guide can give you the confidence and skills you need to draw bookstores to sell your book.</li>
                         <li>Social Media Guide – Every author should have a presence on social media to stay connected with readers and attract new ones. We’ll provide you with a step-by-step guide on how to set up your channels, including Instagram, Facebook, Twitter, and LinkedIn.</li>
@@ -117,7 +117,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-md-5 py-3">
                     <h2 class="fw-light">Take Your Book to the Next Level</h2>
                     <p class="py-3">Get a professionally crafted, web-optimized press release shared with up to 30,000 opt-in journalists and over 250,000 news subscribers through our PRWeb distribution network — complete with one month of detailed news tracking.</p>
                     <div class="d-flex gap-3 pt-3">
@@ -128,7 +128,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>
@@ -155,7 +155,7 @@
                             <div id="collapseOne" class="accordion-collapse collapse show"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                  At Ocean Publications, no story is off-limits. From fiction and non-fiction to academic research and business guides, we edit across all genres—adapting our approach to match the unique voice and requirements of your book.
+                                  At Oceana Publications, no story is off-limits. From fiction and non-fiction to academic research and business guides, we edit across all genres—adapting our approach to match the unique voice and requirements of your book.
                                 </div>
                             </div>
                         </div>

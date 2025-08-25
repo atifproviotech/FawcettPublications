@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book Review & Consultation | Ocean Publications</title>
+    <title>Book Review & Consultation | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -37,7 +37,7 @@
     <section class="book-lovers bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6">
+                <div class="col-lg-6 col-12">
                     <h2 class="fw-light">Why Our Perspective Matters </h2>
                     <p class="py-3">You’ve poured your heart into a draft, but now you’re asking yourself, “What’s next?” Here’s why letting us take a look can make all the difference:</p>
                     <ul class="list-unstyled coaching-ul">
@@ -47,7 +47,7 @@
                         <li>Sometimes, the magic comes from a new viewpoint—and ours is honed, objective, and refreshingly different.</li>
                         <li>A finely polished book doesn’t just shine brighter—it captures readers and drives sales.</li>
                     </ul>
-                    <div class="d-flex justify-content-center justify-content-md-start gap-3 pt-3">
+                    <div class="d-flex justify-content-center justify-content-lg-start gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>

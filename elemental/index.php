@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Elemental | Ocean Publications</title>
+    <title>Elemental | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -50,14 +50,14 @@
                     <h3>Fine-Tune Your Manuscript</h3>
                     <p>Our editorial team carefully reviews a portion of your manuscript to assess its publishing readiness. This evaluation helps determine the ideal editorial services needed to refine and polish your work for maximum impact.</p>
                     <h3>Win Over Booksellers with Confidence</h3>
-                    <p>Boost your book’s retail appeal with Ocean Publications’ Booksellers Return Program! By making your title returnable in Ingram and other major distribution systems, retailers can stock your book without risk—giving you an edge in the competitive market.</p>
+                    <p>Boost your book’s retail appeal with Oceana Publications’ Booksellers Return Program! By making your title returnable in Ingram and other major distribution systems, retailers can stock your book without risk—giving you an edge in the competitive market.</p>
                     <h3>Promote Through the Power of Podcasting</h3>
                     <p>Step into the spotlight with a feature on Book Round-Up, part of The Book Connection podcast. You’ll enjoy a professional video interview that highlights your book, expands your reach, and teaches you strategies for boosting sales.</p>
 
 
                     <h3>More Than Just a Publisher</h3>
                     <p class="mt-5">
-                        At Ocean Publications, we’re more than a publishing house—we’re your partner in building a successful author journey. Here’s what the Elemental Package includes:
+                        At Oceana Publications, we’re more than a publishing house—we’re your partner in building a successful author journey. Here’s what the Elemental Package includes:
                     </p>
 
                     <h3>Formatting & Publishing</h3>
@@ -93,7 +93,7 @@
                     <h3>Marketing Features</h3>
                     <ul class="list-unstyled coaching-ul">
                         <li><strong>Custom Author Website (3 Pages) + 1 Year Hosting</strong> – Professionally designed to showcase you and your book.</li>
-                        <li><strong> New Releases Bookstore Feature</strong> – Spotlight your title in the Ocean Publications bookstore.</li>
+                        <li><strong> New Releases Bookstore Feature</strong> – Spotlight your title in the Oceana Publications bookstore.</li>
                         <li><strong>Print-Ready Bookmark Design File</strong> – Perfect for events, giveaways, and promotions.</li>
                         <li><strong>Book Sales Savvy Guide</strong> – Practical tips and exercises to help you approach bookstores with confidence.</li>
                         <li><strong>Social Media Starter Guide</strong> – Step-by-step instructions for building an author presence on Instagram, Facebook, Twitter, and LinkedIn.</li>
@@ -118,7 +118,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 py-md-5 py-3">
                     <h2 class="fw-light">An Epic Title for An Epic Tale</h2>
                     <p class="py-3">When you have worked so hard and long on something, it's only fair that you see it through. Even some of the best writers still struggle to write the perfect cover copy for their books. That's why it's best to leave it to the pros. So, what are you waiting for? Pick up that phone and give us a call!</p>
                     <div class="d-flex gap-3 pt-3">
@@ -129,7 +129,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

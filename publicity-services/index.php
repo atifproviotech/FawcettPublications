@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publicity Services | Ocean Publications</title>
+    <title>Publicity Services | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -55,7 +55,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-5">
                     <h2 class="fw-light">Absolutely, We’ve Got You Covered</h2>
                     <p class="py-3">No two books are alike—so why settle for cookie-cutter publicity? If you need something beyond the standard playbook, we’ll design a custom campaign that fits your vision, your goals, and your audience. Let’s collaborate to craft a strategy as unique as your story. Ready to make it happen? Reach out today—your next big breakthrough starts with a conversation.</p>
                     <div class="d-flex gap-3 pt-3">
@@ -64,9 +64,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-lg-5 col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interior Color Illustration | Ocean Publications</title>
+    <title>Interior Color Illustration | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -39,7 +39,7 @@
                 <div class="col-12">
                     <h2>Interior Color Illustration</h2>
                     <p class="mt-5">
-                        At Ocean Publications, our skilled studio artists transform your vision into vibrant, custom color illustrations that capture your book’s unique style. Through your descriptions and feedback, we craft artwork that enhances the reading experience and brings your story to life.</p>
+                        At Oceana Publications, our skilled studio artists transform your vision into vibrant, custom color illustrations that capture your book’s unique style. Through your descriptions and feedback, we craft artwork that enhances the reading experience and brings your story to life.</p>
                     <h3>Color Illustrations – Personal Touch</h3>
                     <p>The clean lines and consistent coloring of our Personal Touch illustrations create a timeless, simple style that adds elegance and charm to any book.</p>
                     <h3>Color Illustrations – Fine Detail</h3>
@@ -57,7 +57,7 @@
     <section class="book-lovers p-0 bg-black">
         <div class="container">
             <div class="row align-items-center justify-content-between">
-                <div class="col-6 py-5">
+                <div class="col-lg-6 col-12 py-lg-5 py-3">
                     <h2 class="fw-light">Let's Get Editing!</h2>
                     <p class="py-3">It's a well-known fact that manuscripts don't edit themselves into finished books. So, what are you waiting for? Dial our number today and our book editing experts will take care of the rest.</p>
                     <div class="d-flex gap-3 pt-3">
@@ -66,9 +66,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-lg-5 col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/boy-call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/boy-call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>

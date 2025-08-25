@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>USA Top Book Writing | Ocean Publications</title>
+    <title>USA Top Book Writing | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,11 +16,11 @@
 
     <section class="hero-page">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
+            <div class="row align-items-center justify-content-lg-between justify-content-center text-lg-start text-center">
                 <div class="col-lg-6 col-md-10 col-12">
                     <h1 class="mb-2 fw-light follow heading-service">Book Writing Wizards – Turning Your Vision into Words That Captivate</h1>
-                    <p class="para-service mb-5 follow">Join forces with our skilled storytellers who excel at transforming your brilliant ideas into compelling, page-turning books that readers can’t put down. At Ocean Publications, we don’t just write—we compose unforgettable reading experiences designed to inspire, entertain, and sell.</p>
-                    <ul class="d-flex items-center ser-hero-img mb-lg-5">
+                    <p class="para-service mb-5 follow">Join forces with our skilled storytellers who excel at transforming your brilliant ideas into compelling, page-turning books that readers can’t put down. At Oceana Publications, we don’t just write—we compose unforgettable reading experiences designed to inspire, entertain, and sell.</p>
+                    <ul class="d-flex justify-content-center justify-content-lg-start items-center ser-hero-img mb-lg-5">
                         <li><img src="/assets/images/badge-gray1.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray2.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray3.png" alt="badge" class="w-24"></li>
@@ -66,7 +66,7 @@
                         <div class="service-box">
                             <h4 class="mb-4">Fiction Writing</h4>
                             <p class="mb-4">Got imaginative tales living rent-free in your mind? Our creative team can transform them into page-turning adventures that not only entertain but also sell.</p>
-                            <a class="btn btn-secondary" href="/book-publishing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-publishing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -74,7 +74,7 @@
                         <div class="service-box">
                             <h4 class="mb-4">Non-Fiction Writing</h4>
                             <p class="mb-4">From historical deep dives to thought-provoking essays, our skilled writers handle even the most complex and factual topics with clarity, precision, and style.</p>
-                            <a class="btn btn-secondary" href="/book-cover-design"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-cover-design"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -82,7 +82,7 @@
                         <div class="service-box">
                             <h4 class="mb-4">Technical Writing</h4>
                             <p class="mb-4">Have valuable technical expertise to share? We’ll translate your knowledge into clear, accessible content that informs, educates, and engages audiences worldwide.</p>
-                            <a class="btn btn-secondary" href="/book-marketing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-marketing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
@@ -98,17 +98,17 @@
 
     <section class="book-lovers">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6">
-                    <h2 class="fw-light">Ocean Publications – Your Partner in Exceptional Book Writing</h2>
-                    <p class="mb-5 para-service">At Ocean Publications, we bring stories to life—stories that captivate, inspire, and leave a lasting impression. Whether you’re just beginning your writing journey or are stuck mid-chapter, our team of seasoned writers is here to guide you every step of the way. We take your vision, your passion, and your unique voice, and craft them into words that resonate with readers worldwide. With our expertise, your book won’t just be finished—it will make waves, spark conversations, and place your name firmly in the literary spotlight.</p>
-                    <div class="d-flex gap-3">
+            <div class="row align-items-center text-lg-start text-center justify-content-between">
+                <div class="col-lg-6 col-12">
+                    <h2 class="fw-light">Oceana Publications – Your Partner in Exceptional Book Writing</h2>
+                    <p class="mb-5 para-service">At Oceana Publications, we bring stories to life—stories that captivate, inspire, and leave a lasting impression. Whether you’re just beginning your writing journey or are stuck mid-chapter, our team of seasoned writers is here to guide you every step of the way. We take your vision, your passion, and your unique voice, and craft them into words that resonate with readers worldwide. With our expertise, your book won’t just be finished—it will make waves, spark conversations, and place your name firmly in the literary spotlight.</p>
+                    <div class="d-flex justify-content-center justify-content-lg-start gap-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
                     </div>
                 </div>
-                <div class="col-6 mx-auto mx-lg-0 container-3d">
+                <div class="col-lg-6 col-5 mx-auto mx-lg-0 container-3d">
                     <div class="card-3d">
                         <img class="w-100" src="/assets/images/marketing-about.png" alt="home-about">
                     </div>
@@ -121,98 +121,12 @@
 
 
 
-    <section class="consultation-section bg-black">
-        <div class="logo-float"></div>
-        <div class="dark-bg"></div>
-        <div class="container position-relative z-2 text-white">
-            <div class="row align-items-center justify-content-center h-100">
-                <div class="col-lg-6">
-                    <h2 class="fw-normal">Schedule Your Free Consultation with Our Experts</h2>
-                    <p class="text-white cons-para">At Ocean Publications, we’re more than a publishing service—we’re your creative partner from the first spark of an idea to the final printed page. Once you team up with us, we’ll handle the heavy lifting so you can focus on your story.</p>
-                    <h4 class="subheading">
-                        Here’s what you can expect:
-                    </h4>
-                    <ul class="custom-list mt-3">
-                        <li>
-                            <strong>A 30-minute, </strong>one-on-one session to validate your idea, refine your vision, and answer all your questions.
-                        </li>
-                        <li>
-                            In-depth project consultation with a clear, <strong>step-by-step roadmap </strong>from concept to completion.
-                        </li>
-                        <li>
-                            A tailored strategy and quote designed to bring your book to life in the most effective way possible.
-                        </li>
-                        <li>
-                            We believe in delivering real, measurable results—and great results require an investment. If now isn’t the right time, no problem. We’ll be here when you’re ready to turn the page and start your author journey.
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-lg-6">
-                    <div class="iframe-calender"></div>
-                </div>
-            </div>
-        </div>
-    </section>
+
+    <?php include "../includes/consultation.php" ?>
 
     <section class="portfolio-section bg-black">
-        <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6">
-                    <div class="mb-5">
-                        <h1 class="heading-1">Our Portfolio</h1>
-                        <p>The stories we’ve brought to life for our clients are the best proof of our craft. Explore our work, see the impact we create, and imagine what we could do for your story. When you’re ready—let’s make it happen.
-                </p>
-                    </div>
-                    <div class="portfolio-des mb-5">
-                        <h4 class="subheading" id="portfolio-heading"></h4>
-                        <p id="portfolio-para"></p>
-                    </div>
-                    <div>
-                        <div class="swiper-button-next position-static d-inline-block">
-                            <div class="d-flex next-img align-items-center gap-2">
-                                <h4 class="text-black">Next</h4>
-                                <img src="/assets/images/arrow.png" alt="arrow">
-                                <div class="d-flex align-items-center gap-2">
-                                    <img src="/assets/images/flow-th.png" alt="pagination">
-                                    <img src="/assets/images/superfunfacts-th.png" alt="pagination">
-                                    <img src="/assets/images/palmetto-th.png" alt="pagination">
-                                    <img src="/assets/images/blacktides-th.png" alt="pagination">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 col-6">
-                    <img src="/assets/images/ourportfolio.png" class="portfolio-circle" alt="our-portfolio">
-                    <div class="swiper portfolioSwiper">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide" id="flow">
-                                <img class="w-100 position-relative z-3" src="/assets/images/flow.png"
-                                    alt="portfolio-1">
-                                <div class="portfolio-banner">Flow</div>
-                            </div>
-                            <div class="swiper-slide" id="superfunfacts">
-                                <img class="w-100 position-relative z-3" src="/assets/images/superfunfacts.png"
-                                    alt="portfolio-2">
-                                <div class="portfolio-banner">Kidding Me</div>
-                            </div>
-                            <div class="swiper-slide" id="palmetto">
-                                <img class="w-100 position-relative z-3" src="/assets/images/palmetto.png"
-                                    alt="portfolio-3">
-                                <div class="portfolio-banner">Palmetto</div>
-                            </div>
-                            <div class="swiper-slide" id="blacktides">
-                                <img class="w-100 position-relative z-3" src="/assets/images/blacktides.png"
-                                    alt="portfolio-4">
-                                <div class="portfolio-banner">Black Tides</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php include "../includes/portfolio.php" ?>
     </section>
-
 
     <section class="faq-section py-5 follow">
         <div class="container">

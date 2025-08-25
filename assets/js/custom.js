@@ -26,6 +26,9 @@ if (document.querySelector(".verticalSwiper")) {
       el: ".swiper-pagination",
       clickable: true,
     },
+    autoplay: {
+      delay: 3000
+    }
   });
 }
 

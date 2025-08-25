@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Developmental Editing | Ocean Publications</title>
+    <title>Developmental Editing | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>

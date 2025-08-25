@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cover Copy Polish | Ocean Publications</title>
+    <title>Cover Copy Polish | Oceana Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -160,86 +160,6 @@
         </div>
     </section>
 
-
-    <section class="faq-section py-5 follow">
-        <div class="container">
-            <h1 class="fw-normal text-center mb-4">FAQs</h1>
-            <div class="row justify-content-center">
-                <div class="col-12">
-                    <div class="accordion" id="accordionExample">
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                    How can an editorial assessment transform my book?
-                                </button>
-                            </h2>
-                            <div id="collapseOne" class="accordion-collapse collapse show"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Think of it as a GPS for your writing journey. We’ll pinpoint exactly what type of editing your manuscript needs, so you save time, cut unnecessary costs, and move forward with confidence—knowing exactly where your story stands.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    What kind of feedback will I get?
-                                </button>
-                            </h2>
-                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    No sugar-coating here—just clear, constructive, and actionable insights. From plot twists to pacing, character arcs to writing style, we’ll be your tough-love coach, helping you refine your story into its best form.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Do I have to sign up for editing afterward?
-                                </button>
-                            </h2>
-                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Not at all! The editorial assessment is a stand-alone service, designed to give you maximum value upfront. If you choose to move forward with editing later, we’ll be ready to step in—but the choice is entirely yours.
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                                    How in-depth is the assessment?
-                                </button>
-                            </h2>
-                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    Very. We dig deep into your manuscript’s plot, characters, pacing, style, and emotional impact, giving you a crystal-clear picture of what’s working—and what’s not—so you know exactly how to elevate your book.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h2 class="accordion-header">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                    Can I see a sample before I commit?
-                                </button>
-                            </h2>
-                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    While we don’t provide full sample assessments, we’re happy to share examples of the style and depth of feedback you can expect. Just get in touch, and we’ll show you how we work our magic.
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
