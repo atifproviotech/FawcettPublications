@@ -65,12 +65,7 @@
             <div class="row align-items-center justify-content-center justify-content-md-between">
                 <div class="col-md-6 col-12 text-md-start text-center">
                     <h2 class="fw-light">We Live and Breathe Books</h2>
-                    <p class="mb-lg-5">Normally, when a company hires its workforce, the requirements revolve around
-                        skills, qualifications, and experience. But we aren't normal. There is an extra tick you need to
-                        have if you want to work at Fawcett Publication s! You need to be a book lover. Only a true book
-                        lover will go far above and beyond to ensure a book they are working on achieves its best
-                        version before its release date. That's when hiring our services, you can be well assured that
-                        your book is in the best of hands.</p>
+                    <p class="mb-lg-5">Most companies hire based on skills, degrees, and experience—but Ocean Publications is different. Here, being a book lover isn’t optional, it’s essential. Passion fuels excellence, and only someone who truly adores books will go the extra mile to make sure every manuscript reaches its finest form before publication. That’s why when you choose us, you can rest assured your story is being handled with the utmost care, commitment, and love for literature.</p>
 
                     <div class="d-flex gap-3">
                         <img src="/assets/images/status.png" width="50" class="object-fit-contain" alt="status-img">
@@ -94,11 +89,10 @@
         <div class="row flex-column justify-content-between align-items-center">
             <div class="col-8 text-center mb-xl-5">
                 <div class="d-flex gap-2 justify-content-center text-center align-items-center mb-4">
-                    <h3>Everything An Aspiring Author Needs!</h3>
+                    <h3>All-in-One Support for Aspiring Authors!</h3>
                     <img width="100" src="/assets/images/services.webp" alt="services">
                 </div>
-                <p>Fawcett Publication s is the only name you need to remember for your author journey. <br>
-                    Once you partner up with us, we will take care of the rest!</p>
+                <p>At Ocean Publications, we’re your ultimate partner in the publishing journey. From the moment you join hands with us, every step—from idea to bookshelf—is handled with precision, passion, and care. You focus on writing, and we’ll make sure the world gets to read it!</p>
             </div>
 
             <div class="col-12">
@@ -162,7 +156,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-md-10 col-sm-8 col-12 text-center text-sm-start">
-                    <h2>We Add Wings to Your Book So That Your Journey Becomes A Breeze!</h2>
+                    <h2>We Give Your Book Wings, So Your Publishing Journey Soars Effortlessly!</h2>
                 </div>
                 <div class="col-md-2 col-sm-3 col-12 text-sm-start text-center">
                     <a class="btn btn-primary px-5" href="tel:">Call Now</a>

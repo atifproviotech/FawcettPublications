@@ -1,9 +1,9 @@
 <section class="step-section position-relative">
     <div class="step-header flex-center flex-column">
-        <h1 class="heading-1">How We <br> Work ?</h1>
+        <h1 class="heading-1">How the <br> Magic Happens</h1>
         <div class="position-absolute">
             <p class="py-4 w-100 para bg-white">
-                Curious about what happens after you connect with our team, select your service, and confirm your booking? Here’s a clear look at what comes next.
+                Curious about what unfolds after you connect with us, pick your service, and complete your order? Here’s the smooth journey we take you on:
             </p>
         </div>
     </div>
@@ -12,9 +12,9 @@
             <div class="col-lg-3 col-md-5 col-10">
                 <div class="step-box text-center">
                     <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
-                        <h1>Step 01.</h1>
-                        <h3>Vision Alignment</h3>
-                        <p class="mb-4">We begin with a one-on-one consultation to uncover your creative vision, goals, and expectations. This ensures our editing approach is perfectly tailored to bring out the very best in your manuscript.</p>
+                        <h1>Step 01. </h1>
+                        <h3>Welcome Aboard</h3>
+                        <p class="mb-4">Within 24 hours, your dedicated project manager will reach out, setting everything in motion and keeping you updated every step of the way.</p>
                         <img src="/assets/images/howitworks-one.png" width="70%" class="object-fit-contain"
                             alt="step-img">
                     </div>
@@ -24,8 +24,8 @@
                 <div class="step-box text-center">
                     <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
                         <h1>Step 02.</h1>
-                        <h3>In-Depth Manuscript Assessment</h3>
-                        <p class="mb-4">Our skilled editors conduct a thorough evaluation of your work, enhancing structure, style, and overall impact—while safeguarding the voice and essence that make your story uniquely yours.</p>
+                        <h3>Experts in Action </h3>
+                        <p class="mb-4">Our team of professionals dives right in—whether it’s editing, design, or publishing support—following your instructions with precision to craft results you’ll love.</p>
                         <img src="/assets/images/howitworks-two.png" width="70%" class="object-fit-contain"
                             alt="step-img">
                     </div>
@@ -35,8 +35,8 @@
                 <div class="step-box text-center">
                     <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
                         <h1>Step 03.</h1>
-                        <h3>Precision Editing</h3>
-                        <p class="mb-4">Based on your needs, we apply targeted revisions—whether developmental, copy, line editing, or a strategic blend—addressing every detail that will strengthen your book.</p>
+                        <h3>Your Voice Matters</h3>
+                        <p class="mb-4">We believe collaboration is key. That’s why your feedback guides us at every stage, ensuring the outcome matches your vision perfectly.</p>
                         <img src="/assets/images/howitworks-three.png" width="100%" class="object-fit-contain"
                             alt="step-img">
                     </div>
@@ -46,8 +46,8 @@
                 <div class="step-box text-center">
                     <div class="px-2 py-3 d-flex flex-column justify-content-between align-items-center">
                         <h1>Step 04.</h1>
-                        <h3>The Perfect Finish</h3>
-                        <p class="mb-4">In the final stage, our meticulous proofreaders comb through your manuscript to eliminate lingering errors, leaving it flawlessly polished and ready to captivate readers.</p>
+                        <h3>The Grand Reveal</h3>
+                        <p class="mb-4">Once polished and perfected to your satisfaction, we deliver the final product—ready to impress readers and make its mark in the world.</p>
                         <img src="/assets/images/howitworks-four.png" width="100%" class="object-fit-contain"
                             alt="step-img">
                     </div>

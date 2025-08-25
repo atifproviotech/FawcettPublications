@@ -12,7 +12,7 @@
 
 <body>
 
-<?php include "../includes/header.php" ?>
+  <?php include "../includes/header.php" ?>
 
   <section class="terms-section">
     <div class="container">
@@ -24,102 +24,89 @@
       <!-- Terms Content -->
       <div class="terms-content">
         <h2>Introduction</h2>
-        <p>Welcome to Fawcett Publication By utilizing our services, you, as a Client, agree to be legally bound by
-          these Terms and Conditions of Use (the "Terms and Conditions"), including those terms and conditions
-          incorporated by reference. Please read these Terms and Conditions carefully. If you do not accept these Terms
-          and Conditions, you may not use our services. Fawcett Publication s may revise these Terms and Conditions at
-          any time by updating this posting. You should visit this page periodically to review the Terms and Conditions.
+        <p>Please take the time to read through our Terms and Conditions, which provide detailed guidelines regarding
+          our services and how they are offered. The terms outlined below apply to every service delivered by Ocean
+          Publications through our official website
         </p>
-        <p>Here, "Service" refers to all services provided by and related to Fawcett Publication s, including all text,
-          images, photographs, user interface, "look" and "feel", data, and other content included at Fawcett
-          Publication s from time to time (including, without limitation, the selection, coordination, and arrangement
-          of such content).</p>
-        <p>You acknowledge and agree that Fawcett Publication s has the right (but not the obligation) in its sole
-          discretion, to pre-screen, refuse, or remove any project and/or user-provided content that violates these
-          Terms and Conditions or is otherwise objectionable, including, without limitation, projects or content that is
-          illegal, obscene, indecent, defamatory, incites religious, racial or ethnic hatred, or violates the rights of
-          others. Activities that are brought to our attention that appear in our sole judgment to violate the law will
-          be brought to the attention of the proper authorities.</p>
-        <p>You acknowledge, consent, and agree that Fawcett Publication s may access, preserve, and disclose your
-          account information and content if required to do so by law or in a good faith belief that such access
-          preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these Terms
-          and Conditions; (c) respond to claims that any content violates the rights of third-parties; (d) respond to
-          your requests for customer service; or (e) protect the rights, property, or personal safety of Fawcett
-          Publication s, its users, and the public.</p>
+        <p>All original content created and delivered by Ocean Publications remains your intellectual property. You
+          retain complete copyright ownership of the work produced under the agreed terms. Ocean Publications makes no
+          claim to these rights, and you are free to publish, distribute, or use the content as you wish.</p>
+
+        <p>Full payment is required in advance for all services listed on our website. Clients are solely responsible
+          for covering any applicable taxes, processing costs, or transaction fees associated with their order.</p>
+
+        <p>We provide unlimited revisions on completed work as long as the revision requests are submitted within 7 days
+          of delivery. In special circumstances, we may extend this to 14 days. Revision requests are handled according
+          to the urgency level of the original order, with standard processing times outlined below:</p>
         <p>Fawcett Publication s reserves the right to modify, amend, update, and change these Terms and Conditions from
           time to time without notice. You are responsible for regularly viewing these Terms and Conditions.</p>
 
-        <h2>Eligibility, Access, Use, and Service</h2>
-        <h3>(a) Eligibility Requirements</h3>
-        <p>To register as a Client with Fawcett Publication s, you must be at least 18 years of age, agree to these
-          Terms and Conditions and our privacy policy, and complete the registration procedure. By registering, you
-          affirm that you meet these eligibility requirements, that your registration information is accurate and
-          complete, and that if you are registering on behalf of an entity, you are authorized to bind that entity to
-          these Terms and Conditions. Fawcett Publication s reserves the right to accept or reject your registration at
-          its sole discretion.</p>
-
-        <h3>(b) Authorization to Use</h3>
-        <p>Permitted Uses. As a registered Client, you are authorized to access and use our Services strictly according
-          to these Terms and Conditions and any policies and procedures posted on our Website. Registered Clients may
-          submit project briefs and receive responses accordingly. The use of the Website is entirely at your risk and
-          responsibility. Under these Terms and Conditions, you are permitted to (i) display the Website on an Internet
-          access device, and (ii) print copies of insubstantial portions of the Website content occasionally,
-          infrequently, and on an ad hoc basis, provided it constitutes "fair use" under United States copyright law.
-        </p>
-
-        <h3>(c) Prohibited Uses</h3>
-        <p>Except as explicitly permitted by these Terms and Conditions, you may not display, print, or reproduce the
-          Website content and may not broadcast, circulate, distribute, download, perform, publish, rent, sell, store,
-          transmit, or create derivative works from the Website content...</p>
-
-        <h3>(d) Website Security</h3>
-        <p>You are prohibited from breaching or attempting to breach the security of the Website...</p>
-
-        <h3>(e) Operation of Website</h3>
-        <p>Fawcett Publication s is not liable for any delays, interruptions, or inaccuracies in the content on the
-          Website...</p>
-
-        <h2>Refund, Cancellation & Tax Policy</h2>
-        <p>Fawcett Publication s' refund policy will be void if:</p>
+        <h3>Revision Turnaround Based on Urgency:</h3>
         <ul>
-          <li>You have selected a special package.</li>
-          <li>The initial book or project concept has been approved.</li>
-          <li>You have requested revisions.</li>
-          <li>The cancellation is for reasons unrelated to our company.</li>
-          <li>The company has not been contacted for over two weeks after initiating the project.</li>
-          <li>Violations of company policies have occurred.</li>
-          <li>Another company or designer has been approached for the same project.</li>
-          <li>The project brief lacks essential information.</li>
-          <li>A complete change in project design has been requested.</li>
-          <li>The request for a refund is made after the designated time span.</li>
+          <li>Orders with 24-hour urgency → Revisions completed within 24 hours.</li>
+          <li>Orders with 24–48-hour urgency → Revisions completed within 48 hours.</li>
+          <li>Orders requiring more than 48 hours → Revisions completed within 72 hours.</li>
         </ul>
-        <p>... (Continue listing full refund/cancellation policy content here) ...</p>
 
-        <h2>Important Information</h2>
-        <p>How long does it take to claim a refund? Refunds can take up to 21 business days to process...</p>
-
-        <h2>Ownership: Rights to Use</h2>
-        <h3>(a) Website and Service Generally</h3>
-        <p>Except as expressly permitted under these Terms and Conditions, Fawcett Publication s retains all rights...
+        <h3>PROJECT REQUIREMENTS</h3>
+        <p>Before any project begins, all requirements and expectations will be fully discussed and confirmed with the
+          client. In the event of any service-related dispute, the matter will be resolved in accordance with the
+          agreed-upon terms, documented requirements, these Terms & Conditions, and industry-standard business
+          practices.
         </p>
 
-        <h3>(b) Creative and Response Briefs</h3>
-        <p>Upon your submission of a Creative or Response Brief...</p>
+        <h3>REFUND POLICY</h3>
+        <p>A full refund may be requested if no work has started on your project. Once work has commenced, refunds will
+          only be issued after deducting applicable transaction fees. Refunds are not available for projects purchased
+          under promotional or limited-time discounted offers.</p>
+        <p>Clients may request a refund within 5 days of project completion if they are dissatisfied with the delivered
+          work. In such cases, partial refunds may be considered only after every effort has been made to resolve
+          concerns through our unlimited revision policy. If no refund request is received within five days of
+          completion, the project will be considered accepted and approved.</p>
 
-        <h3>(c) Rights of Fawcett Publication s</h3>
-        <p>By submitting Client Information to the Service, you grant Fawcett Publication s and its agents...</p>
-
-        <h3>(d) Rights of Clients</h3>
-        <p>Subject to your compliance with these Terms and Conditions, you will own the final Response composition...
+        <h3>TERMS OF WEBSITE USE</h3>
+        <p>The content on www.oceanpublications.com is provided solely for informational purposes regarding our services
+          and should not be interpreted as professional advice, certifications, guarantees, or warranties of any kind.
         </p>
+        <p>Ocean Publications, its affiliates, and employees are not liable for any damages or losses resulting from
+          errors, omissions, delays, interruptions, unauthorized access, system failures, or technical issues including
+          viruses or communication problems.</p>
+        <p>By using this website, you agree to indemnify and hold Ocean Publications, its employees, officers,
+          affiliates, and agents harmless from any claims, losses, damages, or expenses arising from your use of the
+          site, violation of these terms, or infringement of third-party rights including intellectual property,
+          privacy, or confidentiality.</p>
+        <p>This agreement does not establish a joint venture, partnership, employment, or agency relationship between
+          you and Ocean Publications.</p>
 
-        <h3>(e) Fees for Release of Final Files</h3>
-        <p>Fawcett Publication s reserves the right to charge a fee of $10 for the release of final files upon order
-          closure.</p>
-
-        <h3>(f) Fees for Release of Website Domain or Master Files</h3>
-        <p>Fawcett Publication s also reserves the right to bill your account for the release of the website domain or
-          master files associated with your project.</p>
+        <h2>Email & Mobile Communication Policy</h2>
+        <p>This policy governs the use of client-provided email addresses and mobile phone numbers by Ocean
+          Publications.</p>
+        <ul>
+          <li> <strong>Consent & Communication</strong> By providing your email address and/or phone number, you consent
+            to receive communications from Ocean Publications, including but not limited to project updates,
+            transactional messages, revision alerts, newsletters, and design-related attachments.</li>
+          <li> <strong>Carrier Charges</strong> Standard text messaging or data rates may apply depending on your
+            service provider. Please check with your carrier for more details.</li>
+          <li> <strong>Opting Out</strong>
+            <ul>
+              <li>For emails: You may unsubscribe at any time by clicking the "unsubscribe" link included in our emails.
+              </li>
+              <li>For SMS: Reply "STOP," "Unsub," or "Unsubscribe" to discontinue text communications immediately.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Communication Frequency</strong> We strive to keep communication timely and relevant. However, urgent project updates or critical notifications may result in additional messages.
+          </li>
+          <li>
+            <strong>Information Security</strong> Your privacy is a priority. Email addresses and phone numbers provided to us will remain confidential and will not be sold or shared with third parties, except where legally required.
+          </li>
+          <li>
+            <strong>Policy Updates</strong> Ocean Publications reserves the right to update or amend this policy at any time. Updates will be posted on our website, and it is the client’s responsibility to remain informed by reviewing these changes.
+          </li>
+          <li>
+            <strong>Contact Us</strong> For questions or concerns regarding this policy, please contact us at <a href="mailto:info@oceanpublications.com">info@oceanpublications.com</a>
+          </li>
+        </ul>
       </div>
     </div>
   </section>
