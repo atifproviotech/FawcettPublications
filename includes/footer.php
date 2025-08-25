@@ -125,7 +125,7 @@
         </div>
         <div class="py-5">
             <strong>Disclaimer:</strong>
-            Ocean Publications is inspired by the legacy of Wilford Fawcett but operates entirely as an independent entity.
+            Ocean Publications is inspired by the legacy of Wilford Ocean Publications but operates entirely as an independent entity.
             <br>
            Copyright © 2025 Ocean Publications. All rights reserved.
         </div>

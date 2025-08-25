@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ocean Publications | Terms & Conditions</title>
+  <title>Terms & Conditions | Ocean Publications</title>
 
   <?php include "../includes/meta.php" ?>
 
@@ -38,7 +38,7 @@
         <p>We provide unlimited revisions on completed work as long as the revision requests are submitted within 7 days
           of delivery. In special circumstances, we may extend this to 14 days. Revision requests are handled according
           to the urgency level of the original order, with standard processing times outlined below:</p>
-        <p>Fawcett Publication s reserves the right to modify, amend, update, and change these Terms and Conditions from
+        <p>Ocean Publication s reserves the right to modify, amend, update, and change these Terms and Conditions from
           time to time without notice. You are responsible for regularly viewing these Terms and Conditions.</p>
 
         <h3>Revision Turnaround Based on Urgency:</h3>

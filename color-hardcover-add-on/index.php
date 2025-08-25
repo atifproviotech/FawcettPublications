@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Color Hardcover Add-On</title>
+    <title>Color Hardcover Add-On | Ocean Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
