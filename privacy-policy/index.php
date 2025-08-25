@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brand | Privacy Policy</title>
+    <title>Ocean Publications | Privacy Policy</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <?php include "../includes/meta.php" ?>
 
@@ -18,89 +18,96 @@
         <div class="container">
             <div class="terms-header">
                 <h1>Privacy Policy</h1>
+                <p>At Ocean Publications, we are committed to protecting your privacy. This policy explains how we
+                    collect, use, and safeguard your personal information when you interact with our services.</p>
+                <p>Your trust is important to us, which is why we handle all customer data with the highest level of
+                    confidentiality and care. Our privacy practices are designed to ensure your information remains
+                    secure, transparent, and protected—during our collaboration and long after our services are
+                    complete.</p>
             </div>
 
             <div>
 
-                <h2>About The Policy</h2>
-                <p>At Fawcett Publications, we prioritize the privacy of our clients at
-                    <strong>www.fawcettpublications.com</strong> as if it were our own. We collect information only to
-                    enhance our customer services and maintain strict confidentiality. We do not rent or sell any client
-                    information. This policy outlines the use of personal information collected, the reasons for its
-                    collection, and how it is used. It also details your choices regarding the collection and use of
-                    your information.
+                <h2>User Information We Collect</h2>
+                <p>To provide a seamless and personalized experience, we may collect certain details, including:
                 </p>
+                <ul>
+                    <li>Your name, business name, and job title</li>
+                    <li>Contact information such as email address, phone number, and website
+                        This information allows us to:
+                    </li>
+                    <li>Improve our products and services</li>
+                    <li>Request feedback to enhance your experience</li>
+                    <li>Tailor our website and offerings to better suit your preferences and interests</li>
+                </ul>
 
-                <h2>Personal Information Collected</h2>
-                <p>Fawcett Publications collects clients’ names, emails, mailing addresses, and phone numbers when
-                    provided by clients during ordering or while saving information with us. We may also gather email
-                    addresses or mailing addresses received through our Contact Us Form to respond to queries or
-                    comments. We keep records of clients’ interests and past purchases to improve service and
-                    understanding.</p>
+                <h2>Security of Your Information</h2>
+                <p>Protecting your information is our top priority. We use robust physical, electronic, and managerial safeguards to prevent unauthorized access or disclosure.</p>
+                <p>At Ocean Publications, all data transmitted through our website is protected using Secure Sockets Layer (SSL) encryption, ensuring confidentiality during transfer. While we adhere to industry best practices to secure your information, please note that no online system or electronic storage method is 100% risk-free.</p>
 
-                <h2>Use of Collected Data</h2>
-                <p>Client information is used to process orders, send order confirmations via email, and for customer
-                    service contact via phone, email, or mail regarding any queries about the order. Clients may receive
-                    updates about our site and services, including newsletters and promotional information, aimed at
-                    enhancing the purchasing experience and site design based on client interests and purchases.</p>
+                <h2>Sharing with Third Parties</h2>
+                <p>We do not sell, trade, or disclose your personal information to external parties.</p>
+                <p>Payments are securely processed by trusted third-party providers. These companies are contractually bound to handle your information responsibly and are prohibited from storing, sharing, or using it for any other purpose.</p>
 
-                <h2>Newsletter Opt-out</h2>
-                <p>Clients wishing to unsubscribe from newsletters or promotional communications can do so by following
-                    the instructions in each message, emailing us, or calling.</p>
+                <h2>Use of Cookies</h2>
+                <p>Our website uses cookies—small alphanumeric identifiers—to:</p>
+                <ul>
+                    <li>Recognize your browser and save preferences</li>
+                    <li>Improve navigation and enhance your browsing experience</li>
+                </ul>
+                <p>
+                    You may disable cookies through your browser settings; however, doing so may limit certain website features.
+                </p>
+                <p>Additionally, we collect non-personally identifiable information such as IP addresses, browser type, access times, and pages viewed. This data helps us analyze website performance and user behavior but is never linked to your personal details.</p>
 
-                <h2>Social Media (Features) and Widgets</h2>
-                <p>Our website includes features like the Facebook Like button, and widgets such as the Share This
-                    button, which may collect your IP address and page visit information and may set a cookie to
-                    function properly. These features may be hosted by a third party or directly on our site, with
-                    interactions governed by the privacy policy of the providing company.</p>
+                <h2>Consumer Data Protection</h2>
+                <p>Your privacy is central to our operations. We adhere to strict PCI compliance standards and follow industry best practices to ensure your information is secure.</p>
+                <p><strong>Please note:</strong></p>
+                <ul>
+                    <li>Ocean Publications representatives will never ask for confidential details such as credit card numbers.</li>
+                    <li>If you share sensitive data with any employee outside official channels, it is at your own risk, and we cannot be held responsible.</li>
+                </ul>
+                <p>In some cases, your project may be processed through our global service centers for quality assurance. All centers operate under strict Non-Disclosure Agreements (NDAs) to protect your confidentiality.</p>
 
-                <h2>3rd Party Sharing</h2>
-                <p>Client personal information is not released to third parties except as necessary to provide services
-                    like billing or live customer support chat. Our third-party service providers are authorized to use
-                    personal information only as needed to provide these services to us and do not share or use it for
-                    any other purposes.</p>
+                <h2>Pseudonym Policy</h2>
+                <p>To provide a consistent and efficient client experience, we may assign pseudonyms to account managers. This practice ensures:</p>
+                <ul>
+                    <li>A smooth transition if a new manager is assigned</li>
+                    <li>Easy communication without confusion</li>
+                    <li>A unified client experience across our diverse, global team</li>
+                </ul>
 
-                <h2>Security of Personal Information</h2>
-                <p>Client information is secured using SSL software, which encrypts information entered. While we strive
-                    to protect personal information according to industry standards both during transmission and after
-                    receipt, no security measures are infallible.</p>
+                <h2>Mobile Number and Email Policy</h2>
+                <h4>Information We Collect</h4>
+                <p>We may collect your mobile phone number and email address when voluntarily provided.</p>
+                <h4>How We Use This Information</h4>
+                <ul>
+                    <li>To share important updates related to our services</li>
+                    <li>To communicate account-specific information</li>
+                    <li>For secure internal documentation and record-keeping</li>
+                </ul>
+                <h4>Consent</h4>
+                <p>By providing your mobile number or email, you consent to its collection and use as outlined in this policy.</p>
+                <h4>Security</h4>
+                <p>We maintain strict safeguards to protect your personal contact details from unauthorized use or disclosure.</p>
+                <h4>Managing Your Preferences</h4>
+                <p>You may opt out of marketing communications at any time by replying STOP or Unsubscribe, or by contacting us at info@oceanpublications.com.</p>
+                <h4>Sharing</h4>
+                <p>We never sell, lease, or distribute your contact information to third parties unless required by law or with your explicit consent.</p>
 
-                <h2>Access to Registered Accounts</h2>
-                <p>Clients can access their registered accounts by signing in on our homepage, where they can view and
-                    update their submitted information.</p>
+                <h2>Your Rights</h2>
+                <p>You have the right to:</p>
+                <ul>
+                    <li>Request a copy of the information we hold about you</li>
+                    <li>Ask for corrections or updates to your personal details</li>
+                    <li>Withdraw consent for certain uses of your information</li>
+                </ul>
 
-                <h2>Changing & Deleting/Unsubscribing Accounts</h2>
-                <p>Clients can request account cancellation or deletion of their personal information by email. This
-                    prevents further email communications about any online orders. Information is retained as needed to
-                    provide services, comply with our legal obligations, resolve disputes, and enforce agreements.</p>
+                <p>To exercise these rights, please contact us at info@oceanpublications.com.</p>
 
-                <h2>Cookies and Their Use</h2>
-                <p>Cookies are identifiers transferred to clients' browsers for site feature enhancement, like storage
-                    of items in Shopping Carts. Information on managing cookies is available in the browser help
-                    sections. We recommend allowing cookies for the best site experience. We also track IP addresses and
-                    browser details to manage our website and gather demographic information.</p>
-
-                <h2>Clear GIFs (Web Beacons/Web Bugs)</h2>
-                <p>We use clear gifs to manage content effectively by identifying what is effective. Unlike cookies
-                    stored on hard drives, clear gifs are embedded invisibly on pages and track user movements. They are
-                    not tied to personal information.</p>
-
-                <h2>Testimonials</h2>
-                <p>With consent, we may display testimonials with client names. These can be removed upon request.</p>
-
-                <h2>Links to Other Websites</h2>
-                <p>Our website contains links to other websites with different privacy practices. We encourage reading
-                    their privacy statements as submitting personal information to those sites is governed by their
-                    policies.</p>
-
-                <h2>Notification of Changes in Privacy Policy</h2>
-                <p>Changes to our privacy policy will be posted on our privacy statement, homepage, and other
-                    appropriate locations. We encourage frequent review of our privacy policy. Material changes will be
-                    communicated through the website, email, or homepage notification.</p>
-
-                <h2>Legal Disclaimer</h2>
-                <p>We may disclose personal information as required by law to protect our rights and comply with
-                    judicial proceedings, court orders, or legal processes.</p>
+                <h2>Policy Updates</h2>
+                <p>Ocean Publications may update this policy from time to time. Any changes will be posted on this page, and we encourage you to review it regularly to stay informed.</p>
+                
             </div>
 
         </div>

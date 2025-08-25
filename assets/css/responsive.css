@@ -1,6 +1,20 @@
 @media only screen and (max-width: 1400px) {
   .subheading {
-    font-size: 12px;
+    font-size: 12px !important;
+  }
+
+  .hidebar .wheel {
+    width: 350px;
+    height: 350px;
+    top: 30%;
+  }
+
+  section {
+    padding: 15px 0px;
+  }
+
+  .disc-box .disc-main {
+    height: 130px;
   }
 
   .portfolio-slider .swiper-slide {
@@ -25,17 +39,21 @@
 
   p,
   .nav-item,
-  li {
+  .nav-link li,
+  .form-control,
+  select,
+  .option,
+  label {
     font-size: 12px !important;
   }
 
   .btn {
-    font-size: 14px !important;
+    font-size: 12px !important;
+    padding: 10px 15px !important;
   }
 
-  .btn-primary {
-    padding: 10px 15px !important;
-
+  .btn-dark {
+    padding: 8px 11px !important;
   }
 
   .home-hero:after,
@@ -50,15 +68,96 @@
   .chart-section .awards img {
     width: 100px;
   }
-  
-  .awards > img {
-    width: 80px !important;
 
+  .awards > img,
+  .review-awards img {
+    width: 80px !important;
   }
- 
+
+  .story-hero .float-image {
+    top: 10px;
+    right: 100px;
+  }
+
+  .story-hero .float-image img {
+    width: 500px;
+  }
+
+  .faq-section .accordion-button,
+  .faq-section .accordion-body {
+    font-size: 14px !important;
+  }
+
+  .review-awards img {
+    width: 100px;
+  }
+
+  .reviewSwiper .swiper-slide {
+    height: 400px;
+  }
+
+  .navbar .container {
+    max-width: 100%;
+  }
+
+  .subheading {
+    font-size: 18px !important;
+  }
+
+  .counter-section {
+    padding: 0px;
+  }
+
+  .counter-section h3 {
+    font-size: 22px !important;
+  }
+
+  .portfolioSwiper .swiper-slide {
+    height: auto;
+  }
+
+  .portfolio-banner {
+    font-size: 32px;
+    left: 30px !important;
+  }
 }
 
 @media only screen and (max-width: 1250px) {
+  .footer .f-logo {
+    width: 100px !important;
+  }
+
+  .newsletter .inp {
+    padding: 8px 10px !important;
+    font-size: 12px;
+  }
+
+  .newsletter .btn {
+    font-size: 8px !important;
+  }
+
+  .footer a {
+    font-size: 8px !important;
+  }
+
+  .social-box .icon {
+    padding: 4px;
+    width: auto !important;
+    height: auto !important;
+    border-radius: 50px !important;
+  }
+
+  .reviewSwiper .swiper-slide {
+    height: 300px;
+  }
+
+  .social-box .icon i {
+    font-size: 8px !important;
+  }
+
+  .disc-box .disc-main {
+    width: 250px;
+  }
 }
 
 @media only screen and (max-width: 992px) {
@@ -69,8 +168,259 @@
   .navbar .container {
     border: none !important;
   }
+
+  .navbar-brand img {
+    width: 70px !important;
+  }
+
+  .home-hero,
+  .review-hero {
+    min-height: auto !important;
+    height: auto !important;
+  }
+
+  .home-hero::after {
+    width: 150px !important;
+    top: 100px;
+    right: 50px !important;
+  }
+  .home-hero::before {
+    width: 150px !important;
+    top: 100px;
+    left: 50px !important;
+  }
+
+  .home-hero > .row {
+    position: relative;
+    z-index: 2;
+    backdrop-filter: blur(5px);
+  }
+
+  .awards img {
+    width: 60px !important;
+  }
+
+  .chart-section {
+    min-height: auto !important;
+  }
+
+  .vertical-swiper {
+    height: 500px !important;
+  }
+
+  .feedback-box {
+    display: none;
+  }
+
+  .services-section .col-2 {
+    height: auto !important;
+  }
+
+  .genre-section {
+    background: none !important;
+  }
+
+  .step-header .heading-1 {
+    font-size: 80px !important;
+    line-height: 100px !important;
+  }
+
+  .story-hero {
+    min-height: 60svh !important;
+  }
+
+  .about-us-sp h2 {
+    font-size: 40px !important;
+  }
+
+  .about-us-sp .box-1 {
+    height: auto;
+    max-width: 100% !important;
+    padding: 1.5rem !important;
+  }
+
+
 }
 
-@media (max-width: 768px) {}
+@media (max-width: 768px) {
+  .service-box {
+    padding: 15px 20px !important;
+    height: 170px !important;
+  }
 
-@media (max-width: 480px) {}
+  .review-hero {
+    position: relative;
+  }
+
+  .review-hero > .white {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(255, 255, 255, 0.582);
+    width: 100% !important;
+    height: 100%;
+  }
+
+  .review-hero > nav {
+    position: relative;
+    z-index: 2;
+  }
+
+  .review-hero > .flex-center {
+    position: relative;
+    z-index: 2;
+  }
+
+  nav a,
+  nav .accordion-button {
+    font-size: 14px !important;
+  }
+
+  .footer .f-logo {
+    width: 60px !important;
+  }
+
+  .subheading {
+    font-size: 12px !important;
+  }
+
+  .section {
+    padding: 20px 0px;
+  }
+
+  .portfolio-slider .swiper-slide {
+    width: 250px !important;
+  }
+
+  h1 {
+    font-size: 28px !important;
+  }
+
+  h2 {
+    font-size: 20px !important;
+  }
+
+  h3 {
+    font-size: 18px !important;
+  }
+
+  h4 {
+    font-size: 14px !important;
+  }
+
+  p,
+  .nav-item,
+  .nav-link li,
+  ul,
+  .form-control,
+  select,
+  .option,
+  label {
+    font-size: 10px !important;
+  }
+
+  .faq-section .accordion-button {
+    font-size: 12px !important;
+  }
+
+  .faq-section .accordion-body {
+    font-size: 12px !important;
+  }
+
+  .para {
+    font-size: 10px !important;
+  }
+
+  .btn {
+    font-size: 10px !important;
+  }
+
+  .counter-section h3 {
+    font-size: 16px !important;
+  }
+
+  .counter-section p {
+    font-size: 8px !important;
+  }
+
+  .book-lovers .heading {
+    font-size: 14px;
+  }
+
+  .book-lovers img {
+    width: 40px;
+  }
+
+  .book-lovers p {
+    font-size: 10px !important;
+  }
+  .step-header .heading-1 {
+    font-size: 60px !important;
+    line-height: 120px !important;
+  }
+
+  .screenplay-hero .hero-main {
+    min-height: 500px !important;
+    position: relative;
+  }
+
+  .screenplay-hero h1 {
+    margin-top: 150px;
+  }
+
+  .hidebar {
+    width: 100%;
+    height: 100px; 
+    
+  }
+
+  .sp-slider {
+    background-size: cover;
+    height: auto;
+    padding: 20px;
+  } 
+
+  .hidebar .wheel {
+    width: 150px;
+    height: 150px;
+    top: 50px;
+    left: 30%;
+    padding: 10px;
+  }
+
+  .disc-box .disc-main {
+    height: 10px;
+  }
+
+  .disc-box .disc-main {
+    width: 150px;
+    bottom: -100px;
+  }
+
+  .disc-box {
+    height: auto !important;
+    margin-bottom: 120px ;
+  }
+
+  .disc-section {
+    margin-top: 80px !important;
+  }
+
+  .newsletter-2 {
+    height: auto;
+  }
+
+  .footer-contact .tel-img {
+    position: static !important;
+  }
+  
+}
+
+@media only screen and (max-width: 576px) {
+  .service-box {
+    height: auto !important;
+  }
+}
+
+@media (max-width: 480px) {
+}

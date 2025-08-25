@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cover Copy Polish</title>
+    <title>Book Binding Options and Formats</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,9 +16,8 @@
 
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
-            <h1 class="heading-service col-9 mb-3">Cover Copy Polish</h1>
-            <p>Before the readers read what's written inside, they will read what's on the outside. So let's make sure it's epic enough to grab their attention.
-            </p>
+            <h1 class="heading-service col-9 mb-3">Book Binding Options and Formats</h1>
+            <p>Gain Professional Insights and Publishing Advice from Leading Big-5 Executives and Acquisitions Editors</p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
                     <i class="fa-solid fa-comment-dots"></i> Let's Discuss
@@ -37,42 +36,163 @@
 
 
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include "../includes/counter.php" ?>
 
     <section class="service-detail">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Beauty is on the Outside</h2>
-                    <p class="mt-5">
-                        No matter how much you hear people say, 'Don't judge a book by its cover', people will always judge a book by its cover. Metaphorically and literally. So you better ensure you bring your A-game. That's where our cover copywriting experts come in.
+                    <h2>Book Binding Styles and Formats</h2>
+                    <p class="text-muted mb-3">
+                        At <strong>Ocean Publications</strong>, we know that the way your book is bound is just as important as the words within it. Binding not only protects your story but also gives readers their very first impression of your work. That’s why we provide professional, bookstore-quality binding options designed to make your book look and feel exceptional.
                     </p>
-                    <p>Using their years of experience in the book industry and closely studying the reader audience, they have discovered a few tips and tricks to use for book cover text creation. One that grabs the viewer's attention without fail and ensures they open the book at the very least. And once it's open, your amazing story hiding inside will do the rest!</p>
-                </div>
 
+                    <div class="alert alert-secondary small mb-4" role="alert">
+                        <strong>Note:</strong> Binding and paper options are included within our publishing services and are not offered separately.
+                    </div>
+
+                    <div class="mb-4">
+                        <h5 class="mb-2">Softcover Binding (Perfect-Bound)</h5>
+                        <p class="mb-0">
+                            Our softcover books are produced in <strong>perfect-bound</strong> format—the industry standard for most trade books. A strong adhesive securely attaches pages to the spine, creating a sleek, durable finish that balances quality with affordability.
+                        </p>
+                    </div>
+
+                    <h5 class="mt-2 p-3 bg-black rounded-3 shadow-sm text-center">Hardcover Binding Options</h5>
+                    <div class="row mt-2">
+                        <div class="col-md-6">
+                            <div class="p-3">
+                                <h5 class="mb-2">Black &amp; White Hardcover</h5>
+                                <ul class="list-unstyled coaching-ul">
+                                    <li class="mb-1">Sturdy cloth binding</li>
+                                    <li class="mb-1">Elegant foil-stamped spine</li>
+                                    <li class="mb-1">Full-color dust jacket with inner flaps</li>
+                                    <li class="mb-0">Space for book blurb &amp; author biography</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="p-3">
+                                <h5 class="mb-2">Full-Color Hardcover</h5>
+                                <ul class="list-unstyled coaching-ul">
+                                    <li class="mb-1">Rich, vibrant color printing</li>
+                                    <li class="mb-1">Glossy, case-laminated cover</li>
+                                    <li class="mb-0">High-end look with durable finish</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="p-3">
+                        <h5 class="mb-2">Professional Standards</h5>
+                        <p class="text-muted mb-0">
+                            To maintain professional publishing standards, we do not offer wire-o, plastic comb, three-ring, or spiral binding formats. We focus exclusively on binding styles that align with the expectations of bookstores, libraries, and discerning readers.
+                        </p>
+                    </div>
+
+                    <h2 class="mb-4">Binding and Paper Options at Ocean Publications</h2>
+                    <p class="mb-5">
+                        At Ocean Publications, we provide a range of high-quality binding and paper choices to give your book the professional finish it deserves. Explore the available options below:
+                    </p>
+
+                    <!-- Black & White Print Options -->
+                    <h3 class="mb-3">Black &amp; White Print Options</h3>
+                    <div class="table-responsive mb-5">
+                        <table class="table table-bordered">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Trim Size</th>
+                                    <th>Cover</th>
+                                    <th>Minimum Page #</th>
+                                    <th>Maximum Page #</th>
+                                    <th>Paper Specifications</th>
+                                    <th>Paper Color</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>5" x 8"</td>
+                                    <td>Softcover</td>
+                                    <td class="text-danger">48</td>
+                                    <td class="text-danger">900</td>
+                                    <td>50 lb, acid-free</td>
+                                    <td>White or Crème</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <!-- Color Print Options -->
+                    <h3 class="mb-3">Color Print Options</h3>
+                    <div class="table-responsive mb-5">
+                        <table class="table table-bordered">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Trim Size</th>
+                                    <th>Cover</th>
+                                    <th>Minimum Page #</th>
+                                    <th>Maximum Page #</th>
+                                    <th>Paper Specifications</th>
+                                    <th>Paper Color</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>8.5" x 8.5"</td>
+                                    <td>Softcover</td>
+                                    <td class="text-danger">24</td>
+                                    <td class="text-danger">480</td>
+                                    <td>50 lb, acid-free</td>
+                                    <td>White</td>
+                                </tr>
+                                <tr>
+                                    <td>8.5" x 11"</td>
+                                    <td>Softcover</td>
+                                    <td class="text-danger">24</td>
+                                    <td class="text-danger">480</td>
+                                    <td>50 lb, acid-free</td>
+                                    <td>White</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <!-- Color Hardcover Options -->
+                    <h3 class="mb-3">Color Hardcover Options</h3>
+                    <div class="table-responsive">
+                        <table class="table table-bordered">
+                            <thead class="table-light">
+                                <tr>
+                                    <th>Trim Size</th>
+                                    <th>Cover</th>
+                                    <th>Minimum Page #</th>
+                                    <th>Maximum Page #</th>
+                                    <th>Paper Specifications</th>
+                                    <th>Paper Color</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>5" x 8"</td>
+                                    <td>Hardcover</td>
+                                    <td class="text-danger">48</td>
+                                    <td class="text-danger">900</td>
+                                    <td>50 lb, acid-free</td>
+                                    <td>White or Crème</td>
+                                </tr>
+                                <tr>
+                                    <td>6" x 9"</td>
+                                    <td>Hardcover</td>
+                                    <td class="text-danger">48</td>
+                                    <td class="text-danger">900</td>
+                                    <td>50 lb, acid-free</td>
+                                    <td>White or Crème</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
             </div>
-        </div>
 
     </section>
 
@@ -91,7 +211,7 @@
                 </div>
                 <div class="col-6">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/call.png" alt="Development Editing">
+                        <img class="img-fluid" src="/assets/images/dbidding.png" alt="Development Editing">
                     </div>
                 </div>
             </div>
@@ -100,40 +220,86 @@
 
 
 
+    <?php include "../includes/inner-img.php" ?>
+    <section class="faq-section py-5 follow">
+        <div class="container">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What kinds of books do you edit?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    We work across all genres—fiction, non-fiction, academic, and business. Each project is approached with care, ensuring the editing style matches the unique needs of your manuscript.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How long does the editing process usually take?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Timelines vary depending on the length of your manuscript and the level of editing required. On average, editing can take anywhere from a few weeks to a couple of months.
+                                </div>
+                            </div>
+                        </div>
 
-    <section class="img-work-section">
-        <div class="container-fluid py-5">
-            <h2 class="text-center mb-5" style="font-family: 'Georgia', serif;">Our Work</h2>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Can I decide which type of editing my book gets?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Of course! During our initial consultation, we’ll go over your book’s specific needs and recommend the best type of editing. However, the final decision is always in your hands.
+                                </div>
+                            </div>
+                        </div>
 
-            <div class="row text-center justify-content-center">
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/action.webp" alt="Check Point" class="book-img">
-                    <div class="book-caption">#1 Bestselling Author.<br>Millions Of Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/comics.webp" alt="Angel Rescue" class="book-img">
-                    <div class="book-caption">#1 National & WSJ Bestseller</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/childrens.webp" alt="Watch Me" class="book-img">
-                    <div class="book-caption">NYT Bestselling Series.<br>Million+ Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/non-fiction.webp" alt="Junie B. Jones" class="book-img">
-                    <div class="book-caption">NYT Bestseller From Producer’s<br>Of NBC’s The Office</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/adult-books.webp" alt="One Breakup Was All It Took" class="book-img">
-                    <div class="book-caption">WSJ And USA Today Bestseller</div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Will I get feedback after the editing is done?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Yes. Along with the edits, you’ll receive detailed notes and suggestions to help strengthen your manuscript’s clarity, flow, and overall quality.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Do you provide support after editing?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Absolutely. We offer post-editing support to answer your questions, make adjustments if needed, and ensure you’re completely satisfied with the final version of your book.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-
         </div>
-
     </section>
-
-
-    <?php include "../includes/faq.php" ?>
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>

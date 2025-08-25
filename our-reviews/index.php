@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brand | Reviews</title>
+    <title>Ocean Publications | Reviews</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -13,12 +13,12 @@
 
     <section class="review-hero pt-0">
         <?php include "../includes/header.php" ?>
+        <div class="white"></div>
         <div class="flex-center h-100">
             <div class="row justify-content-center align-items-center">
                 <div class="col-8 text-center h-100">
-                    <h1 class="mb-4">These Folks Love Us</h1>
-                    <p class="mb-4">They’re real words from people like you who had big ideas and needed a little help
-                        and we’re lucky to be a part of it. Check out what they’re saying about working with us!</p>
+                    <h1 class="mb-4">Why Authors Can’t Stop Raving About Us</h1>
+                    <p class="mb-4">Big dreams deserve big support—and that’s where we come in. These are the genuine words of writers who had stories to tell and trusted us to help bring them to life. We’re honored to be part of their journeys—take a look at what they’re saying!</p>
                     <div class="d-flex justify-content-center gap-3">
                         <img src="/assets/images/award-two.png" alt="award-1">
                         <img src="/assets/images/award-one.png" alt="award-2">
@@ -29,14 +29,14 @@
         </div>
     </section>
 
-    <section class="reviews-section">
+    <!-- <section class="reviews-section">
         <div class="container">
             <div class="swiper reviewSwiper">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="">
                             <div class="d-flex justify-content-between position-relative z-2">
-                                <h5 class="fw-normal">Emree Web</h5>
+                                <h5 class="fw-normal">Amelia Grant</h5>
                                 <div class="position-relative">
                                     <img src="/assets/images/verified-image.png" class="object-fit-contain"
                                         alt="verified">
@@ -132,21 +132,17 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <?php include "../includes/counter.php" ?>
 
     <section class="review-fb-section px-5">
         <div class="row justify-content-center">
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>Jacky Leon</h4>
-                        <p>Collaborating with Fawcett Publications on Oath Sworn was an experience I’ll always
-                            treasure. Their editorial team brought a level of insight and understanding that
-                            deepened both the characters and the world I had created. Their support wasn’t just
-                            professional. They allowed the story to flourish and resonate in ways I hadn’t imagined.
-                            I’m beyond grateful for their guidance.</p>
+                        <h4>Amelia Grant</h4>
+                        <p>Working with Ocean Publications on Oath Sworn was nothing short of transformative. Their editorial insight didn’t just polish my manuscript—it breathed new life into the characters and deepened the entire world I’d built. They nurtured the heart of the story while elevating its impact. I’ll forever be grateful for their vision and support.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
@@ -170,11 +166,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>Kayla Edwards</h4>
-                        <p>Working with Fawcett Publications on City of Gods and Monsters was an amazing experience. They got what I was trying to do on a deeper level. Their feedback made Angelthene feel even more alive, and their support every step of the way meant so much. I couldn’t have asked for a better team to bring this book to life.</p>
+                        <h4>Daniel Cross</h4>
+                        <p>Creating City of Gods and Monsters alongside Ocean Publications was a dream. They didn’t just “get” my story—they understood it on a soul-deep level. Their feedback gave Angelthene a pulse, making it more vivid and alive than I imagined. Having them in my corner made this journey unforgettable.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
@@ -198,11 +194,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>Ruby Dixon</h4>
-                        <p>These guys at Fawcett handled Bound to the Battle God completely and my word, what a smooth and rewarding process! Their team had a great eye for detail and helped refine the story without losing its heart. They understood the characters, the world, and the tone I was going for, which made all the difference.</p>
+                        <h4>Sophia Rivers</h4>
+                        <p>Publishing Bound to the Battle God with Ocean Publications was an effortless and rewarding adventure. Their sharp eye for detail and commitment to preserving the heart of the story made all the difference. They grasped the tone, the world, and the characters perfectly, turning the process into something I’ll always cherish.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
@@ -226,11 +222,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>Ormstunga Saga</h4>
-                        <p>Digging into my father’s words, his notes, his dreams of the unknown - it was deeply personal! Fawcett Publications understood that. They didn’t just edit a manuscript. They helped honor a legacy. Every conversation, every careful decision, felt like a step deeper into his world. I’m grateful beyond words for their dedication in bringing this journey to life.</p>
+                        <h4>Elias Stone</h4>
+                        <p>The Ormstunga Saga was more than a manuscript—it was my father’s legacy. Ocean Publications treated it with the care and reverence it deserved. They didn’t just edit words; they honored a vision, guiding me step by step with patience and respect. I can’t thank them enough for helping preserve such a personal journey.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
@@ -254,11 +250,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>Andrew Rowe</h4>
-                        <p>Writing A Brief History of Chronomancy was an adventure in itself, but working with Fawcett Publications made it even more exciting. They understood the intricacies of time travel, paradoxes, and magic systems just as deeply as I did, pushing me to refine every detail. Their commitment to both clarity and creativity helped shape this book into something I’m truly proud of.</p>
+                        <h4>Olivia Hayes</h4>
+                        <p>Writing A Brief History of Chronomancy was an adventure filled with paradoxes and time-twists. Partnering with Ocean Publications made the experience even richer. Their deep understanding of intricate systems and their push for clarity sharpened my ideas while keeping the magic intact. The result is a book I’m truly proud to share.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
@@ -282,11 +278,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>Rob J. Hayes</h4>
-                        <p>Penning It Takes a Thief to Catch a Sunrise was a wild, intricate process, and Fawcett was there for every twist and turn. They got the vibe of the story right away - sharp, stylish, full of intrigue - and their feedback made it even better. Honestly, I couldn’t have asked for a better team to help bring this world to life.</p>
+                        <h4>Marcus Lane</h4>
+                        <p>Penning It Takes a Thief to Catch a Sunrise was a whirlwind of intrigue, but Ocean Publications made it seamless. They caught the story’s sharp, stylish tone instantly and elevated it with their keen insights. From start to finish, they felt like true creative partners who believed in the world I’d built.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
@@ -310,11 +306,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>Hayley Anderton</h4>
-                        <p>Bringing Among Thorns to life was both exciting and nerve-wracking, but Fawcett Publications made the entire process feel seamless. The emotions, the folklore, the slow-burning tension, they truly understood the layers of the story and helped shape it into something even more powerful. Working with them felt like having a team that genuinely cared, and that made all the difference.</p>
+                        <h4>Clara Mitchell</h4>
+                        <p>Bringing Among Thorns to life was a rollercoaster of emotion, folklore, and slow-burning suspense. Ocean Publications understood every layer, every nuance, and helped amplify the story’s depth. Working with them wasn’t just professional—it felt like working with people who genuinely cared. That made all the difference.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
@@ -338,11 +334,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>John E. Hudson</h4>
-                        <p>I was looking for someone to help me format my audiobook, and these guys crushed it. They worked fast, answered all my annoying questions, and didn’t make me feel dumb for not knowing the technical stuff. The final product is clean and sounds amazing.</p>
+                        <h4>Noah Bennett</h4>
+                        <p>I needed someone to handle my audiobook formatting, and Ocean Publications delivered flawlessly. They worked quickly, explained everything clearly, and made the entire process painless. The finished product is polished, professional, and exactly what I hoped for. Couldn’t have asked for better support.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
@@ -366,11 +362,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 mb-5">
+            <div class="col-xl-4 col-md-6 col-12 mb-5">
                 <div class="review-fb-box row justify-content-between">
                     <div class="col-7 py-4 ps-4">
-                        <h4>Ashley White</h4>
-                        <p>Book marketing felt overwhelming until I worked with the right team. Their strategy wasn’t just about ads—it was about real audience engagement. From targeted promotions to consistent visibility, every step made an impact. Thanks to their expertise, my book didn’t just launch; it reached the right readers and gained real traction.</p>
+                        <h4>Harper James</h4>
+                        <p>Marketing my book felt overwhelming until I teamed up with Ocean Publications. They went beyond ads—building real audience engagement that lasted. With targeted campaigns and a strategy tailored for visibility, my book didn’t just launch; it reached the right readers and kept growing. Their expertise turned stress into success.</p>
                         <div class="d-flex gap-2">
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>
                             <i class="fa-solid fa-star" style="color: #FFD43B;"></i>

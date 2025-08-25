@@ -16,8 +16,8 @@
 
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
-            <h1 class="heading-service col-9 mb-3">From Rough to Finished Book</h1>
-            <p>Is your manuscript under 5000 words? Perfect! Send the draft over to us and have our in-house book geniuses professionally review and edit it, ready for publishing!
+            <h1 class="heading-service col-9 mb-3">From Draft to Done in Style</h1>
+            <p>Got a short manuscript under 5,000 words? That’s our sweet spot! Hand it over to our in-house book wizards, and we’ll give it the professional review and polish it deserves—transforming it from a rough draft into a ready-to-publish masterpiece.
             </p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
@@ -32,28 +32,7 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include "../includes/counter.php" ?>
 
 
 
@@ -61,16 +40,16 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Because Even the Best Make Mistakes</h2>
+                    <h2>Because Even Legends Need a Second Set of Eyes</h2>
                     <p class="mt-5">
-                        There's not a single big-time writer in history who didn't rely on professional book editors and reviewers to perfect their hard work before publishing. It's a known fact that it's impossible for the author to pick out all the grammatical and plot-related mistakes in the manuscript.
-                    <p>But why the worry? You have our battle-tested book editors to count on! We have helped countless authors turn their diamonds in the rough into polished invaluable gems.</p>
-                    <p>Here's What We Do:</p>
+                        Every great author—from literary icons to bestselling novelists—has relied on skilled editors to elevate their work before it hits the shelves. Why? Because no matter how brilliant you are, it’s nearly impossible to catch every grammar slip, pacing hiccup, or plot gap in your own writing.
+                    <p>That’s where we come in. Our battle-hardened editorial team has helped countless authors transform raw brilliance into page-turning perfection—turning rough drafts into unforgettable reads.</p>
+                    <p>Here’s How We Make Your Story Shine:</p>
                     <ul class="list-unstyled coaching-ul">
-                        <li>Content Editing : We refine your manuscript's structure, style, and clarity, ensuring every word and idea effectively communicates your story's essence.</li>
-                        <li>Narrative Editing : Our experts analyze your plot’s flow and consistency, enhancing pacing, tension, and coherence to create a compelling, immersive narrative.</li>
-                        <li>Loophole Editing : We strictly identify and fix any plot holes or inconsistencies, ensuring your story is logical, believable, and engaging throughout.</li>
-                        <li>Proofreading : Our professional proofreading service catches and corrects grammar, spelling, and punctuation errors, ensuring your manuscript is polished and error-free.</li>
+                        <li>Content Editing – We fine-tune your manuscript’s structure, style, and clarity so every word delivers impact and your story’s essence shines through.</li>
+                        <li>Narrative Editing – We smooth your plot’s flow, sharpen pacing, and heighten tension to keep readers hooked from start to finish.</li>
+                        <li>Loophole Editing – We hunt down and fix plot holes, contradictions, and loose ends, making your story airtight and believable.</li>
+                        <li>Proofreading – We sweep away grammar, spelling, and punctuation errors so your manuscript is clean, professional, and ready to impress.</li>
                     </ul>
                 </div>
 
@@ -84,17 +63,98 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-6 py-5">
-                    <h2 class="fw-light">Pro Polishing for a Fine Shine</h2>
-                    <p class="py-3">Relying on average-level book editors is like working 2 years on a manuscript and intentionally lighting fire to the pages. Don't do that. If you want to maximize the chances of your book making it big, then you better work with the best in the industry! In other words, us.</p>
+                    <h2 class="fw-light">Elite Polishing for Unforgettable Brilliance</h2>
+                    <p class="py-3">Spending years crafting your manuscript only to hand it over to a mediocre editor? That’s like building a masterpiece… and then tossing it into the shredder. Don’t sabotage your own success. If you’re aiming for bestseller potential, you need industry-leading experts who know exactly how to make your words shine.</p>
                     <div class="d-flex gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-md-6 col-5">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/boy-call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/boy-call.png" alt="Development Editing">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<?php include "../includes/inner-img.php" ?>
+    <section class="faq-section py-5 follow">
+        <div class="container">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                   What’s Included in Your Book Editing Service?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    We go beyond fixing typos. Our service covers content refinement, plot enhancement, loophole detection, and meticulous proofreading. We fine-tune your manuscript’s clarity, flow, and logic—while scrubbing away every grammatical hiccup and inconsistency.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How Long Will the Editing Take?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    For manuscripts under 5,000 words, we typically deliver a polished version in just 3–5 business days. Every edit is done with precision and care to make sure your book shines.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Can I Request Changes After the First Edit?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Absolutely! You get one round of revisions included—because your vision matters. We’ll work closely with you to ensure the final manuscript is exactly what you envisioned.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Do You Provide Feedback on the Whole Story?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Yes! You’ll receive in-depth, constructive feedback on plot structure, character arcs, pacing, and overall impact—giving you the tools to make your story unforgettable.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Is My Manuscript Safe With You?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                  Always. We follow strict confidentiality protocols, handling your work with complete discretion so your ideas stay protected and secure.
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -102,39 +162,6 @@
     </section>
 
 
-    <section class="img-work-section">
-        <div class="container-fluid py-5">
-            <h2 class="text-center mb-5" style="font-family: 'Georgia', serif;">Our Work</h2>
-
-            <div class="row text-center justify-content-center">
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/action.webp" alt="Check Point" class="book-img">
-                    <div class="book-caption">#1 Bestselling Author.<br>Millions Of Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/comics.webp" alt="Angel Rescue" class="book-img">
-                    <div class="book-caption">#1 National & WSJ Bestseller</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/childrens.webp" alt="Watch Me" class="book-img">
-                    <div class="book-caption">NYT Bestselling Series.<br>Million+ Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/non-fiction.webp" alt="Junie B. Jones" class="book-img">
-                    <div class="book-caption">NYT Bestseller From Producer’s<br>Of NBC’s The Office</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/adult-books.webp" alt="One Breakup Was All It Took" class="book-img">
-                    <div class="book-caption">WSJ And USA Today Bestseller</div>
-                </div>
-            </div>
-
-        </div>
-
-    </section>
-
-
-    <?php include "../includes/faq.php" ?>
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>

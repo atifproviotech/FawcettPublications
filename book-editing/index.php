@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>USA Top Book Writing</title>
+    <title>USA Top Book Editing</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -18,8 +18,8 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-lg-6 col-md-10 col-12">
-                    <h1 class="mb-2 fw-light follow heading-service">Book Writing Wizards - Your Ideas, Our Words</h1>
-                    <p class="para-service mb-5 follow">Partner up with our talented word smiths who specialize in taking your genius and converting it into entertaining and top-selling reading experiences.!</p>
+                    <h1 class="mb-2 fw-light follow heading-service">Your Book – Our Canvas, Your Masterpiece</h1>
+                    <p class="para-service mb-5 follow">Every great book deserves more than just words on a page—it deserves refinement, precision, and the keen eye of a dedicated editor. As passionate readers and experienced writers, we understand that even the most meticulous author can miss subtle inconsistencies, overlooked details, or hidden opportunities to make their story shine. That’s where we come in. We are your second expert perspective—the fresh set of eyes that transforms good writing into unforgettable storytelling. </p>
                     <ul class="d-flex items-center ser-hero-img mb-lg-5">
                         <li><img src="/assets/images/badge-gray1.png" alt="badge" class="w-24"></li>
                         <li><img src="/assets/images/badge-gray2.png" alt="badge" class="w-24"></li>
@@ -37,65 +37,56 @@
     </section>
 
 
-    <section class="services-section bg-dark follow">
-        <video src="/assets/images/service-video.mp4" autoplay muted loop></video>
+    <section class="services-section bg-dark follow p-md-auto pt-3 p-0">
+        <video class="d-none d-md-block" src="/assets/images/service-video.mp4" autoplay muted loop></video>
         <div class="row flex-column justify-content-between align-items-center">
-            <div class="col-8 center-flex">
+            <div class="col-8 text-center mb-xl-5">
                 <div class="d-flex gap-2 justify-content-center text-center align-items-center mb-4">
-                    <h3>It's Time You Finished Your Book</h3>
+                    <h3>Our Book Editing Expertise Services</h3>
                     <img width="100" src="/assets/images/services.webp" alt="services">
                 </div>
-                <p class="col-12 col-lg-6">Don't you think your book has waited long enough?
-                    Let's work together and give your book the ending it deserves.</p>
+                <p class="col-12 col-lg-6">No matter where you are in your writing journey, you’ll find Ocean Publications’ editing services perfectly suited for every stage and situation.</p>
             </div>
 
             <div class="col-12">
                 <div class="row service-box-main justify-content-center align-items-center">
-                    <div class="col-2 d-lg-inline-block d-none">
+                    <div class="col-2 d-xxl-flex d-none">
                         <div class="service-box-dis"></div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
                         <div class="service-box">
-                            <h4 class="mb-4">Book Writing</h4>
-                            <p class="mb-4">Can't get a clever book idea out of your head but also can't find the time
-                                to pen it
-                                down on paper? We got you covered.
+                            <h4 class="mb-4">Developmental Editing</h4>
+                            <p class="mb-4">Struggling with the “big picture” elements of your manuscript—structure, pacing, character arcs, plot flow, or thematic clarity? Our editorial masterminds are here to guide your story to its fullest potential.
                             </p>
-                            <a class="btn btn-secondary" href="/book-writing"><i
+                            <a class="btn btn-dark rounded-circle" href="/book-writing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
                         <div class="service-box">
-                            <h4 class="mb-4">Book Publishing</h4>
-                            <p class="mb-4">Have a rough manuscript at hand? Don't worry, our in-house pros will polish
-                                it up and
-                                publish it in all the right places.</p>
+                            <h4 class="mb-4">Copy Editing</h4>
+                            <p class="mb-4">Our copy editors dive deep into your manuscript, correcting grammar, spelling, punctuation, and syntax while ensuring consistency in style, formatting, and factual details—because accuracy matters as much as artistry.</p>
                             <a class="btn btn-secondary" href="/book-publishing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
                         <div class="service-box">
-                            <h4 class="mb-4">Book Cover Design</h4>
-                            <p class="mb-4">Nobody will be turning the pages if your book can't turn their heads. Hire
-                                our book
-                                cover designers and they won't be able to resist!</p>
+                            <h4 class="mb-4">Line Editing</h4>
+                            <p class="mb-4">From sharpening sentence flow to elevating word choice and removing redundancy, our line editors fine-tune every line so your writing reads smoothly, engages effortlessly, and leaves a lasting impression.</p>
                             <a class="btn btn-secondary" href="/book-cover-design"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-5">
+                    <div class="col-2 col-xxl-2 col-xl-3 col-sm-5 col-12">
                         <div class="service-box">
-                            <h4 class="mb-4">Book Marketing</h4>
-                            <p class="mb-4">Is your book's release date nearby or is it sitting in a corner collecting
-                                dust? Our
-                                book marketing can turn things around.</p>
+                            <h4 class="mb-4">Proofreading</h4>
+                            <p class="mb-4">As the final polish before publication, proofreading catches every last typo, misspelling, and minor grammatical hiccup—ensuring your book steps onto the big stage flawless and reader-ready.</p>
                             <a class="btn btn-secondary" href="/book-marketing"><i
                                     class="fa-solid fa-arrow-right"></i></a>
                         </div>
                     </div>
-                    <div class="col-2 d-lg-inline-block d-none">
+                    <div class="col-2 d-xxl-flex d-none">
                         <div class="service-box-dis"></div>
                     </div>
 
@@ -109,11 +100,11 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-6">
-                    <h2 class="fw-light">Fawcett Publications -
-                        The Premium Book Writing Experience</h2>
-                    <p class="mb-5 para-service">At Fawcett Publications, we specialize in crafting compelling stories that captivate and connect with audiences. Whether you're stuck halfway or just starting out, our team of expert writers is here to help you cross the finish line. We understand your vision and translate it into words that engage, entertain, and inspire your readers. With us helping you out with your book, nothing is stopping it from making a buzz around the world and putting your name in the spotlight!</p>
+                    <h2 class="fw-light">Polishing the Gem You’ve Created</h2>
+                    <p class="mb-5 para-service">Completing a manuscript—no matter how rough—is an extraordinary achievement, one that demands dedication, creativity, and countless hours of work. We recognize and honor that effort. That’s why, when you place your work in our hands, our mission isn’t to rewrite your voice or reshape your story into something unrecognizable.</p>
+                    <p class="mb-5 para-service">At Ocean Publications, we believe your vision is sacred. We protect the heart of your book—its plot, tone, style, characters, and the unique personal touch only you can give. Our role is to refine, not reinvent. We smooth out grammatical bumps, seal up plot gaps, and ensure the final read flows seamlessly, delivering a captivating experience that lets your story shine exactly as you intended.</p>
 
-                    <div class="d-flex gap-3">
+                    <div class="d-flex justify-content-center justify-content-md-start gap-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
@@ -128,183 +119,8 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include "../includes/counter.php" ?>
 
-    <section class="chart-section mb-5">
-        <div class="pattern-bg"></div>
-        <div class="container ">
-            <div class="chert-slider-box">
-                <div class="swiper verticalSwiper">
-                    <div class="swiper-wrapper">
-                        <div class="swiper-slide">
-                            <div class="row justify-content-between">
-                                <div class="col-lg-6 d-flex flex-column justify-content-evenly">
-                                    <h1 class="subheading">Chart Topper</h1>
-                                    <h2 class="fw-light">What's So Special About Fawcett Publications?</h2>
-                                    <p class="mb-5">Being strongly inspired by the high writing and printing standards
-                                        set by Wilford Hamilton, Fawcett Publication s aims to not just maintain the
-                                        premium quality set by Captain Billy, but improve upon it. We all have a dream
-                                        and we all deserve a fair chance to achieve them. That's exactly what we are
-                                        offering. A fair and solid chance for an aspiring author to take the first step
-                                        and make their mark in the book industry all around the globe. If you have a
-                                        genius story idea in your head, then this is the right place to make it all
-                                        happen!
-                                    </p>
-                                    <div class="d-flex gap-3">
-                                        <img src="/assets/images/award-one.png" alt="award-one">
-                                        <img src="/assets/images/award-two.png" alt="award-two">
-                                        <img src="/assets/images/award-three.png" alt="award-three">
-                                    </div>
-                                </div>
-                                <div class="col-lg-5 books">
-                                    <img src="/assets/images/charttopperbook-one.png" class="w-100" alt="book-1">
-                                    <div class="feedback-box row">
-                                        <div class="col-2"><img class="w-100"
-                                                src="/assets/images/reviewprofileimg-one.png" alt="rp-1"></div>
-                                        <div class="col-8">
-                                            <h6>– James Patterson</h6>
-                                            <div class="mt-3 d-flex gap-1">
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                            </div>
-                                        </div>
-                                        <div class="col-10">
-                                            <p>Fawcett Publication s was a game-changer for my writing career. The team
-                                                was supportive and incredibly professional. My book's quality surpassed
-                                                my expectations, and the sales followed!</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row">
-                                <div class="col-lg-6 d-flex flex-column justify-content-evenly">
-                                    <h1 class="subheading">Chart Topper</h1>
-                                    <h2 class="fw-light">Industry <br> Experience</h2>
-                                    <p class="mb-5">At Fawcett Publication s, our extensive history in book publishing
-                                        sets
-                                        us apart. We
-                                        blend traditional craftsmanship with modern innovation to bring stories to life.
-                                        Our
-                                        dedication to quality has made us a trusted name, with decades of delivering
-                                        outstanding books that captivate and inspire audiences.
-                                    </p>
-                                    <div class="d-flex gap-3">
-                                        <img src="/assets/images/award-one.png" alt="award-one">
-                                        <img src="/assets/images/award-two.png" alt="award-two">
-                                        <img src="/assets/images/award-three.png" alt="award-three">
-                                    </div>
-                                </div>
-                                <div class="col-lg-5 books">
-                                    <img src="/assets/images/charttopperbook-two.png" class="w-100" alt="book-2">
-                                    <div class="feedback-box row">
-                                        <div class="col-2"><img class="w-100"
-                                                src="/assets/images/reviewprofileimg-two.png" alt="rp-2"></div>
-                                        <div class="col-8">
-                                            <h6>- Sarah Johnson</h6>
-                                            <div class="mt-3 d-flex gap-1">
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                            </div>
-                                        </div>
-                                        <div class="col-10">
-                                            <p>The attention to detail by Fawcett's team from editing to publication was
-                                                phenomenal. They made my dream of becoming a published author a reality.
-                                                Their process is transparent and highly effective.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="row">
-                                <div class="col-lg-6 d-flex flex-column justify-content-evenly">
-                                    <h1 class="subheading">Chart Topper</h1>
-                                    <h2 class="fw-light">Industry <br> Network</h2>
-                                    <p class="mb-5">Our vast network within the publishing industry opens doors for our
-                                        authors. Fawcett Publication s collaborates with leading distributors,
-                                        retailers, and marketers to ensure maximum exposure for each book. This
-                                        extensive reach helps us place your work in the hands of eager readers
-                                        worldwide.
-                                    </p>
-                                    <div class="d-flex gap-3">
-                                        <img src="/assets/images/award-one.png" alt="award-one">
-                                        <img src="/assets/images/award-two.png" alt="award-two">
-                                        <img src="/assets/images/award-three.png" alt="award-three">
-                                    </div>
-                                </div>
-                                <div class="col-lg-5 books">
-                                    <img class="w-100" src="/assets/images/charttopperbook-three.png" alt="book-3">
-                                    <div class="feedback-box row">
-                                        <div class="col-2"><img class="w-100"
-                                                src="/assets/images/reviewprofileimg-three.png" alt="rp-3"></div>
-                                        <div class="col-8">
-                                            <h6>– Michael Thompson</h6>
-                                            <div class="mt-3 d-flex gap-1">
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                                <i class="fa-sharp fa-solid fa-star" style="color: #FFD43B;"></i>
-                                            </div>
-                                        </div>
-                                        <div class="col-10">
-                                            <p>I was amazed by how Fawcett Publication s managed every aspect of the
-                                                publishing process with such care and expertise. They truly made my book
-                                                shine in a crowded market.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="swiper-pagination"></div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-    <section class="call-section">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-lg-10 col-12">
-                    <h2>We Add Wings to Your Book So That Your Journey Becomes A Breeze!</h2>
-                </div>
-                <div class="col-lg-2 col-12">
-                    <a class="btn btn-primary px-5" href="tel:">Call Now</a>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <section class="consultation-section bg-black">
         <div class="logo-float"></div>
@@ -312,25 +128,23 @@
         <div class="container position-relative z-2 text-white">
             <div class="row align-items-center justify-content-center h-100">
                 <div class="col-lg-6">
-                    <h2 class="fw-normal">Book a Free Consultation With Our Experts</h2>
-                    <p class="text-white cons-para">Fawcett Publications is the only name you need to remember for your author
-                        journey. Once you partner up with us, we will take care of the rest!</p>
+                    <h2 class="fw-normal">Schedule Your Free Consultation with Our Experts</h2>
+                    <p class="text-white cons-para">At Ocean Publications, we’re more than a publishing service—we’re your creative partner from the first spark of an idea to the final printed page. Once you team up with us, we’ll handle the heavy lifting so you can focus on your story.</p>
                     <h4 class="subheading">
-                        What to expect ?
+                        Here’s what you can expect:
                     </h4>
                     <ul class="custom-list mt-3">
                         <li>
-                            <strong>30 minutes</strong> of a one-to-one meeting to get your idea validated & clear all your doubts
+                            <strong>A 30-minute, </strong>one-on-one session to validate your idea, refine your vision, and answer all your questions.
                         </li>
                         <li>
-                            Detailed consultation regarding your <strong>project brief</strong> & complete roadmap till execution
+                            In-depth project consultation with a clear, <strong>step-by-step roadmap </strong>from concept to completion.
                         </li>
                         <li>
-                            Personalized solution as per your needs and estimated quote to bring your <strong>Book idea</strong> to life
+                            A tailored strategy and quote designed to bring your book to life in the most effective way possible.
                         </li>
                         <li>
-                            We’re all about results, but they come with an investment.
-                            If that’s not in the cards right now, no worries—let’s save the call for when you’re ready to turn the page.
+                            We believe in delivering real, measurable results—and great results require an investment. If now isn’t the right time, no problem. We’ll be here when you’re ready to turn the page and start your author journey.
                         </li>
                     </ul>
                 </div>
@@ -340,60 +154,86 @@
             </div>
         </div>
     </section>
-
+    
     <section class="portfolio-section bg-black">
+        <?php include "../includes/portfolio.php" ?>
+    </section>
+
+    <?php include "../includes/steps.php" ?>
+
+
+    <section class="faq-section py-5 follow">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-6">
-                    <div class="mb-5">
-                        <h1 class="heading-1">Our Portfolio</h1>
-                        <p>The books we have written for our clients so far speak for themselves. Have a look at what we
-                            can
-                            do and then let's talk business!
-                        </p>
-                    </div>
-                    <div class="portfolio-des mb-5">
-                        <h4 class="subheading" id="portfolio-heading"></h4>
-                        <p id="portfolio-para"></p>
-                    </div>
-                    <div>
-                        <div class="swiper-button-next position-static d-inline-block">
-                            <div class="d-flex next-img align-items-center gap-2">
-                                <h4 class="text-black">Next</h4>
-                                <img src="/assets/images/arrow.png" alt="arrow">
-                                <div class="d-flex align-items-center gap-2">
-                                    <img src="/assets/images/flow-th.png" alt="pagination">
-                                    <img src="/assets/images/superfunfacts-th.png" alt="pagination">
-                                    <img src="/assets/images/palmetto-th.png" alt="pagination">
-                                    <img src="/assets/images/blacktides-th.png" alt="pagination">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What kinds of books do you work on?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    We edit across the full literary spectrum—fiction, nonfiction, academic works, business titles, and more—adapting our approach to the unique demands of each genre.
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="col-lg-5 col-6">
-                    <img src="/assets/images/ourportfolio.png" class="portfolio-circle" alt="our-portfolio">
-                    <div class="swiper portfolioSwiper">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide" id="flow">
-                                <img class="w-100 position-relative z-3" src="/assets/images/flow.png"
-                                    alt="portfolio-1">
-                                <div class="portfolio-banner">Flow</div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How long will the editing take?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    The timeline depends on your manuscript’s length and the level of editing required. On average, the process can take anywhere from a few weeks to a couple of months.
+                                </div>
                             </div>
-                            <div class="swiper-slide" id="superfunfacts">
-                                <img class="w-100 position-relative z-3" src="/assets/images/superfunfacts.png"
-                                    alt="portfolio-2">
-                                <div class="portfolio-banner">Kidding Me</div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Can I decide which editing service to use?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Definitely! During our initial consultation, we’ll assess your manuscript and suggest the most effective editing approach—but the final decision is always yours.
+                                </div>
                             </div>
-                            <div class="swiper-slide" id="palmetto">
-                                <img class="w-100 position-relative z-3" src="/assets/images/palmetto.png"
-                                    alt="portfolio-3">
-                                <div class="portfolio-banner">Palmetto</div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Will I receive feedback after the edit?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Yes. Along with the completed edits, you’ll get a detailed editorial report outlining changes made and offering additional suggestions to further elevate your manuscript.
+                                </div>
                             </div>
-                            <div class="swiper-slide" id="blacktides">
-                                <img class="w-100 position-relative z-3" src="/assets/images/blacktides.png"
-                                    alt="portfolio-4">
-                                <div class="portfolio-banner">Black Tides</div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    Do you offer support after editing is complete?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Absolutely. Our post-editing support ensures any questions are answered and that you’re 100% confident and satisfied with your final manuscript.
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -402,7 +242,7 @@
         </div>
     </section>
 
-    <?php include "../includes/faq.php" ?>
+
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>

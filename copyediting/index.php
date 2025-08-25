@@ -16,8 +16,8 @@
 
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
-            <h1 class="heading-service col-9 mb-3">End-To-End Book Polishing</h1>
-            <p>No matter how good of a writer you are, a second expert perspective will always give a much-needed boost to your writing that maximizes the chances of your book becoming a best-seller.</p>
+            <h1 class="heading-service col-9 mb-3">Copy Editing: The Final Touch Your Book Deserves</h1>
+            <p>Even the most brilliant writers need a fresh set of expert eyes. A skilled copy edit doesn’t just fix typos—it elevates your writing, sharpens your voice, and ensures every sentence flows seamlessly. It’s the boost that can transform a great manuscript into a potential best-seller.</p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
                     <i class="fa-solid fa-comment-dots"></i> Let's Discuss
@@ -31,37 +31,16 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include "../includes/counter.php" ?>
 
     <section class="service-detail">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Convert Your Good into the Bestz</h2>
+                    <h2>Turn Your Good into Unforgettable</h2>
                     <p class="mt-5">
-                        Taking a vision, converting it into a detailed idea, and then writing a book around it is no easy task. And if you have completed your manuscript then you have every right to be proud of your hard work. But ask yourself, is it ready for your readers? Or could it be further polished and enhanced by industry professionals to maximize the reading experience it offers? If your answer is the latter, you have come to the right place!</p>
-                    <p>Fawcett Publications houses some of the best book industry veterans who have fully immersed themselves in the art of editing and polishing manuscripts. Through their vast experience and honed skills, they can easily turn your hard work into a finished book that delivers the punch you need to put your author's name on the map!</p>
+                        Crafting a book from a single spark of an idea is no small feat. If you’ve reached the finish line with a complete manuscript, you’ve already accomplished something remarkable—and you should be proud. But here’s the real question: is it truly ready to captivate your readers? Or could it shine even brighter with the expert touch of seasoned industry professionals?</p>
+                    <p>If your heart says it can be even better, you’re in the right place. At Fawcett Publications, our team of publishing veterans lives and breathes the art of refining manuscripts. With years of experience and razor-sharp editorial skills, we transform your hard work into a polished, powerhouse book—one that grabs attention, holds it tight, and firmly plants your name on the literary map.</p>
                 </div>
 
             </div>
@@ -74,17 +53,17 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-6 py-5">
-                    <h2 class="fw-light">Let's Get Editing!</h2>
-                    <p class="py-3">It's a well-known fact that manuscripts don't edit themselves into finished books. So, what are you waiting for? Dial our number today and our book editing experts will take care of the rest.</p>
+                    <h2 class="fw-light">Ready to Transform Your Manuscript?</h2>
+                    <p class="py-3">Great books don’t just happen—they’re crafted, refined, and perfected. So why let your manuscript sit another day? Call us now, and our expert editors will turn your draft into a masterpiece.</p>
                     <div class="d-flex gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                         </a>
                     </div>
                 </div>
-                <div class="col-6">
+                <div class="col-md-6 col-5">
                     <div class="text-end pt-5">
-                        <img class="img-fluid" src="/assets/images/boy-call.png" alt="Development Editing">
+                        <img class="img-fluid w-100" src="/assets/images/boy-call.png" alt="Development Editing">
                     </div>
                 </div>
             </div>
@@ -93,41 +72,87 @@
 
 
 
+<?php include "../includes/inner-img.php" ?>
+    <section class="faq-section py-5 follow">
+        <div class="container">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What’s included in your copy-editing service?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Our copy-editing goes beyond just fixing typos. We polish grammar, punctuation, spelling, and sentence structure while ensuring your tone, style, and formatting stay consistent. The goal? To make your manuscript crystal clear, highly readable, and flawlessly flowing—without losing your unique voice.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How do you protect my writing style while editing?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                   Your voice is your signature, and we make sure it stays intact. Our editors fine-tune your work to improve clarity and flow, but never at the expense of your tone or style. You’ll still sound like you—only sharper and more polished.
+                                </div>
+                            </div>
+                        </div>
 
-    <section class="img-work-section">
-        <div class="container-fluid py-5">
-            <h2 class="text-center mb-5" style="font-family: 'Georgia', serif;">Our Work</h2>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    How long does copy-editing take?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                   Most projects are completed within 5–7 business days, depending on length and complexity. We take the time to deliver a thoroughly refined manuscript that’s ready to shine in the publishing world.
+                                </div>
+                            </div>
+                        </div>
 
-            <div class="row text-center justify-content-center">
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/action.webp" alt="Check Point" class="book-img">
-                    <div class="book-caption">#1 Bestselling Author.<br>Millions Of Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/comics.webp" alt="Angel Rescue" class="book-img">
-                    <div class="book-caption">#1 National & WSJ Bestseller</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/childrens.webp" alt="Watch Me" class="book-img">
-                    <div class="book-caption">NYT Bestselling Series.<br>Million+ Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/non-fiction.webp" alt="Junie B. Jones" class="book-img">
-                    <div class="book-caption">NYT Bestseller From Producer’s<br>Of NBC’s The Office</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/adult-books.webp" alt="One Breakup Was All It Took" class="book-img">
-                    <div class="book-caption">WSJ And USA Today Bestseller</div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    Will more than one editor review my book?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Absolutely. We use a multi-layered review process—after the first copy-edit, a second set of eyes goes over your manuscript to catch anything that might have slipped through, ensuring total consistency and quality.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    What if I’m not happy with the edit?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    No worries—we include one free round of revisions. Your feedback matters, and we’ll work with you until your manuscript is exactly how you want it.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-
         </div>
-
     </section>
 
-
-
-    <?php include "../includes/faq.php" ?>
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>

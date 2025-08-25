@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brand | Contact</title>
+    <title>Ocean Publications | Contact</title>
     <?php include "../includes/meta.php" ?>
 
 </head>
@@ -71,10 +71,10 @@
 
         <!-- Footer -->
 
-        <footer class="footer">
+        <footer class="footer footer-contact">
             <div class="container">
                 <div class="row justify-content-between border-bottom">
-                    <div class="col-6 py-md-5 py-3 border-end">
+                    <div class="col-md-6 col-12 py-md-5 py-3 border-end">
 
                         <div class="">
                             <h1 class="fw-normal">Let's Talk</h1>
@@ -83,14 +83,14 @@
                         </div>
 
                     </div>
-                    <div class="col-5 py-md-5 py-3 ps-4 border-start">
+                    <div class="col-5 d-md-inline-block d-none py-md-5 py-3 ps-4 border-start">
                         <div>
 
                         </div>
                     </div>
                 </div>
                 <div class="row justify-content-between border-bottom">
-                    <div class="col-6 py-5 border-end">
+                    <div class="col-md-6 col-12 py-5 border-end">
                         <div class="w-100 h-100 row">
                             <div class="col-4">
                                 <h4 class="mb-2">Address</h4>
@@ -128,15 +128,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-5 border-start position-relative">
+                    <div class="col-md-5 col-6  border-start position-relative">
 
-                        <img src="/assets/images/contact.png" class="position-absolute top-0" alt="contact">
+                        <img src="/assets/images/contact.png" class="position-absolute tel-img img-fluid top-0" alt="contact">
 
 
                     </div>
                 </div>
                 <div class="row justify-content-between border-bottom">
-                    <div class="col-6 py-3 border-end flex-wrap">
+                    <div class="col-md-6 col-12 py-3 border-end flex-wrap">
                         <div class="row  newsletter-2 align-items-center">
                             <div class="col-lg-6">
                                 <h4 class="mb-3">Join Us Through Email</h4>
@@ -149,7 +149,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-5 border-start text-end d-flex justify-content-end align-items-center">
+                    <div class="col-md-5 d-md-inline-block d-none col-12 border-start text-end d-flex justify-content-end align-items-center">
 
                     </div>
                 </div>

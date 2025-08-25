@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Developmental Editing</title>
+    <title>Spotlight Publicity Campaigns | Ocean Publications</title>
 
     <?php include "../includes/meta.php" ?>
 </head>
@@ -16,8 +16,8 @@
 
     <section class="book-coaching-section text-center">
         <div class="container center-flex">
-            <h1 class="heading-service col-9 mb-3">Developmental Editing</h1>
-            <p>We're the caffeine shot your manuscript needs and our editors can definitely take your manuscript from good to GREAT. Because... Your book deserves a serious upgrade. Let's make it happen.
+            <h1 class="heading-service col-9 mb-3">Spotlight Publicity Campaigns</h1>
+            <p>Be seen. Be heard. Be remembered. Our publicity pros know exactly how to put your book in the limelight. From securing media features to generating buzzworthy conversations, we design campaigns that spark attention and keep readers—and reviewers—talking. This isn’t just hype, it’s visibility that sells.
             </p>
             <div class="py-4">
                 <a class="chat btn btn-primary" href="javascript:;">
@@ -32,36 +32,25 @@
         </div>
     </section>
 
-    <section class="counter-section bg-green text-center">
-        <div class="container">
-            <div class="row">
-                <div class="col-3">
-                    <h3><span data-target="19" class="counter">19</span> Books</h3>
-                    <p>Are #1 New York Times Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="19">310</span> + Books</h3>
-                    <p>Are National Bestsellers</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="1373">1373</span> + Books</h3>
-                    <p>Published With Us!</p>
-                </div>
-                <div class="col-3">
-                    <h3><span class="counter" data-target="100">100</span>M + Books</h3>
-                    <p>Sold Online And In-Stores</p>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include "../includes/counter.php" ?>
     <section class="service-detail">
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h2>Your Readers Will Thank You</h2>
+                    <h2>Make Your Book Launch Unforgettable</h2>
                     <p class="mt-5">
-                        Think your book is awesome? It probably is. But let’s be real, it could be even awesomer. Right? That’s where we come in! Our expert editors will wave their wands and transform your story into something truly special. And by "wand" we meant expert advice. Our developmental editors are seasoned pros literally waiting to get their hands on your book so that they can again, wave their wands (expert advice) that includes sculpting your plot, building stronger characters, and trimming the fat.<br>These expert EXPERTS will also help you unlock your manuscript’s full potential, find its unique voice,and finally craft a story that keeps readers hooked. Now you can get rid of writer's block and endless revisions since you got us.
+                        Why settle for ordinary when your book deserves extraordinary? At Fawcett Publications, we don’t just launch books—we ignite them, keeping the buzz alive long after release day.
                     </p>
+                    <h3>Press Release Power</h3>
+                    <p>We craft introductions that pack a punch. Our press releases are so compelling, editors won’t just glance—they’ll stop, read, and want more. Your story deserves headlines, and we make sure it gets them.</p>
+                    <h3>Press Release Plus</h3>
+                    <p>Think of this as the deluxe edition. More exposure, more reach, more momentum—this package sets the stage for a book launch that feels larger than life. It’s not just promotion, it’s a statement.</p>
+                    <h3>Social Media Spark</h3>
+                    <p>Social media can feel like a maze, but we know the shortcuts. From building loyal fan communities to creating scroll-stopping content, we turn your book into the next online sensation.</p>
+                    <h3>Publicity Campaign</h3>
+                    <p>Ready to play big? Our tailored publicity campaigns are designed to put your book where it belongs—front and center. With strategic outreach, media buzz, and reader engagement, we help your book rise to the top.</p>
+                    <h3>Publicity Plus</h3>
+                    <p>When “big” just isn’t big enough. Our extended campaigns go the extra mile—more exposure, more time, and more impact. We’re here to transform your book from a hidden gem into a household name.</p>
                 </div>
 
             </div>
@@ -73,8 +62,8 @@
         <div class="container">
             <div class="row align-items-center justify-content-between">
                 <div class="col-6 py-5">
-                    <h2 class="fw-light">Don't Settle For Mediocre</h2>
-                    <p class="py-3">Your book deserves better. We're on a mission to help awesome authors like you create epic stories. Let's team up and create something truly epic. Don't wait another minute. Hit us up & get started like now-now.</p>
+                    <h2 class="fw-light">Turn Your Book into a Buzzworthy Sensation</h2>
+                    <p class="py-3">Your story isn’t meant to stay quiet—it’s meant to be talked about. Together, we’ll design a publicity campaign that gets people noticing, sharing, and celebrating your work. We don’t just promise results—we deliver them, day after day. Ready to make it happen? Hit that contact button and let’s bring your book into the spotlight.</p>
                     <div class="d-flex gap-3 pt-3">
                         <a class="chat btn btn-primary" href="javascript:;">
                             <i class="fa-solid fa-comment-dots"></i> Let's Discuss
@@ -90,39 +79,90 @@
         </div>
     </section>
 
+    <?php include "../includes/inner-img.php" ?>
 
-    <section class="img-work-section">
-        <div class="container-fluid py-5">
-            <h2 class="text-center mb-5" style="font-family: 'Georgia', serif;">Our Work</h2>
 
-            <div class="row text-center justify-content-center">
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/action.webp" alt="Check Point" class="book-img">
-                    <div class="book-caption">#1 Bestselling Author.<br>Millions Of Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/comics.webp" alt="Angel Rescue" class="book-img">
-                    <div class="book-caption">#1 National & WSJ Bestseller</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/childrens.webp" alt="Watch Me" class="book-img">
-                    <div class="book-caption">NYT Bestselling Series.<br>Million+ Copies Sold</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/non-fiction.webp" alt="Junie B. Jones" class="book-img">
-                    <div class="book-caption">NYT Bestseller From Producer’s<br>Of NBC’s The Office</div>
-                </div>
-                <div class="col-6 col-sm-4 col-md-3 col-lg-2 book-card">
-                    <img src="/assets/images/adult-books.webp" alt="One Breakup Was All It Took" class="book-img">
-                    <div class="book-caption">WSJ And USA Today Bestseller</div>
+    <section class="faq-section py-5 follow">
+        <div class="container">
+            <h1 class="fw-normal text-center mb-4">FAQs</h1>
+            <div class="row justify-content-center">
+                <div class="col-12">
+                    <div class="accordion" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    What if my book covers a very niche subject?
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse show"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    No worries—every book has its ideal audience. Our expertise lies in uncovering the right platforms, communities, and influencers who resonate with your topic, no matter how specific. We’ll help your book find its tribe and connect with them in meaningful ways.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    How do you decide which media outlets to pitch to?
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    We take a strategic approach. First, we analyze your target readers and the kind of content they engage with. Then, we build a tailored media list of outlets, blogs, podcasts, and influencers that align perfectly with your book. This ensures maximum visibility where it truly matters.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    What’s the difference between Publicity and Publicity Plus?
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Think of Publicity as your launchpad—it gets your book noticed with essential media outreach. Publicity Plus is the upgrade: extended coverage, broader connections, and more intensive targeting. In short, it adds extra momentum—like putting your book’s launch into overdrive
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    How involved do I need to be during the campaign?
+                                </button>
+                            </h2>
+                            <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    We manage the bulk of the work so you can stay focused on writing and engaging with readers. That said, your voice matters. We’ll invite your feedback at key points to make sure the campaign reflects your vision. It’s truly a partnership.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    What kind of results can I expect?
+                                </button>
+                            </h2>
+                            <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Results vary depending on your book and audience, but our publicity campaigns are designed to boost book sales, expand your author presence, and strengthen your credibility in the publishing world. We’ll set realistic goals together and track progress every step of the way.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
-
         </div>
-
     </section>
 
-    <?php include "../includes/faq.php" ?>
+    
     <?php include "../includes/footer.php" ?>
     <?php include "../includes/scripts.php" ?>
 </body>
