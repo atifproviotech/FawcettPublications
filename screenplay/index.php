@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Brnad | Screenplay</title>
+    <title>Screenplay | Ocean Publications</title>
     <?php include "../includes/meta.php" ?>
 </head>
 
@@ -21,7 +21,7 @@
         <nav class="navbar navbar-expand-lg px-4">
             <div class="container-fluid w-100">
                 <a class="navbar-brand " href="/">
-                    <img src="/assets/images/logo-or.png" alt="logo">
+                    <img src="/assets/images/logo-2.png" alt="logo">
                 </a>
 
                 <a class="chat btn btn-secondary" href="javascript:;">
@@ -399,7 +399,7 @@
                     <div class="w-100">
                         <h1 class="fw-normal text-primary">Let's Talk</h1>
                         <h3 class="text-secondary"><a
-                                href="/mailto:info@fawcettpublication.com">info@fawcettpublication.com</a></h3>
+                                href="/mailto:info@oceanpublications.com">info@oceanpublications.com</a></h3>
                     </div>
                 </div>
                 <div class="col-md-5 col-12 text-md-start text-center py-md-5 py-3 ps-4 border-start">
@@ -482,7 +482,7 @@
                 </div>
             </div>
             <div class="py-md-5 py-3 text-center">
-                <p>Disclaimer: Fawcett Publications heavily draws its inspiration from Wilford Fawcett but is,
+                <p>Disclaimer: Ocean Publications heavily draws its inspiration from Wilford Ocean Publications but is,
                     regardless,
                     an independent entity.</p>
             </div>

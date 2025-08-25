@@ -7,7 +7,7 @@
 <nav class="navbar navbar-expand-lg">
   <div class="container">
     <a class="navbar-brand d-lg-none" href="/">
-      <img src="/assets/images/logo-or.png" alt="logo">
+      <img src="/assets/images/logo-2.png" alt="logo">
     </a>
 
     <a class="d-lg-none d-inline-block" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"

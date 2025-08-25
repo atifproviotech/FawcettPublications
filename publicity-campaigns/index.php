@@ -39,7 +39,7 @@
                 <div class="col-12">
                     <h2>Make Your Book Launch Unforgettable</h2>
                     <p class="mt-5">
-                        Why settle for ordinary when your book deserves extraordinary? At Fawcett Publications, we don’t just launch books—we ignite them, keeping the buzz alive long after release day.
+                        Why settle for ordinary when your book deserves extraordinary? At Ocean Publications, we don’t just launch books—we ignite them, keeping the buzz alive long after release day.
                     </p>
                     <h3>Press Release Power</h3>
                     <p>We craft introductions that pack a punch. Our press releases are so compelling, editors won’t just glance—they’ll stop, read, and want more. Your story deserves headlines, and we make sure it gets them.</p>

@@ -5,7 +5,7 @@
         <div class="row align-items-center justify-content-center h-100">
             <div class="col-lg-5">
                 <h2 class="fw-normal">Book a Free Consultation With Our Experts</h2>
-                <p class="text-white">Fawcett Publications is the only name you need to remember for your author
+                <p class="text-white"> Publications is the only name you need to remember for your author
                     journey. Once you partner up with us, we will take care of the rest!</p>
                 <h4 class="subheading">
                     What to expect ?

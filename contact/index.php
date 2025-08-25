@@ -22,7 +22,7 @@
         <nav class="navbar navbar-expand-lg mb-5">
             <div class="container">
                 <a class="navbar-brand d-lg-none" href="/">
-                    <img src="/assets/images/logo-or.png" alt="logo">
+                    <img src="/assets/images/logo-2.png" alt="logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -79,7 +79,7 @@
                         <div class="">
                             <h1 class="fw-normal">Let's Talk</h1>
                             <h3 class="text-secondary"><a
-                                    href="/mailto:info@fawcettpublication.com">info@fawcettpublication.com</a></h3>
+                                    href="/mailto:info@oceanpublications.com">info@oceanpublications.com</a></h3>
                         </div>
 
                     </div>
@@ -154,7 +154,7 @@
                     </div>
                 </div>
                 <div class="py-5">
-                    Disclaimer: Fawcett Publications heavily draws its inspiration from Wilford Fawcett but is,
+                    Disclaimer:  Publications heavily draws its inspiration from Wilford Ocean Publications but is,
                     regardless, an independent entity.
                 </div>
             </div>
