@@ -14,9 +14,9 @@ $service = isset($_POST['service']) ? htmlspecialchars(trim($_POST['service']), 
 $budget = isset($_POST['budget']) ? htmlspecialchars(trim($_POST['budget']), ENT_QUOTES, 'UTF-8') : '';
 
 // Email configuration
-$to = "atifproviotech@gmail.com,info@oceanpublications.com";
+$to = "atifproviotech@gmail.com,info@oceanapublications.com";
 $subject = "Contact Form Submission with Attachment";
-$from = "noreply@oceanpublications.com";
+$from = "noreply@oceanapublications.com";
 $boundary = md5(uniqid());
 $eol = "\r\n";
 $headers = "From: $from" . $eol;
