@@ -29,7 +29,7 @@
     </section>
 
     <section class="video-section p-0">
-         <video src="/assets/images/oceanapublications-video.mp4" autoplay muted loop></video>
+        <img src="/assets/images/book-bg.jpg" class="img-fluid" alt="book-bg">
     </section>
 
     <!-- Chart-section -->
@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-xxl-6 col-lg-5 col-4 text-center container-3d">
                     <div class="card-3d">
-                        <img class="w-100" src="/assets/images/home-about.png" alt="home-about">
+                        <img class="w-100" src="/assets/images/home-about.webp" alt="home-about">
                     </div>
                 </div>
             </div>
@@ -191,7 +191,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <h2 data-aos="fade-up" data-aos-duration="1000" class="">Fiction</h2>
-                                <img class="img-fluid" src="/assets/images/fiction.png"
+                                <img class="img-fluid" src="/assets/images/fiction.webp"
                                     alt="fiction">
                             </div>
                             <div class="swiper-slide">
