@@ -20,9 +20,9 @@
                     <h1 class="mb-4">Why Authors Can’t Stop Raving About Us</h1>
                     <p class="mb-4">Big dreams deserve big support—and that’s where we come in. These are the genuine words of writers who had stories to tell and trusted us to help bring them to life. We’re honored to be part of their journeys—take a look at what they’re saying!</p>
                     <div class="d-flex justify-content-center gap-3 review-awards">
-                        <img src="/assets/images/award-two.png" alt="award-1">
-                        <img src="/assets/images/award-one.png" alt="award-2">
-                        <img src="/assets/images/award-three.png" alt="award-3">
+                        <img src="/assets/images/award-two.webp" alt="award-1">
+                        <img src="/assets/images/award-one.webp" alt="award-2">
+                        <img src="/assets/images/award-three.webp" alt="award-3">
                     </div>
                 </div>
             </div>

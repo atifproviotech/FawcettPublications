@@ -26,9 +26,9 @@
                 </a>
             </div>
             <div class="awards mt-4">
-                <img src="/assets/images/award-one.png" alt="Elite Book Club Award" class="img-fluid">
-                <img src="/assets/images/award-two (1).png" alt="Readers' Choice Award" class="img-fluid">
-                <img src="/assets/images/award-three.png" alt="New York Times Best Seller" class="img-fluid">
+                <img src="/assets/images/award-one.webp" alt="Elite Book Club Award" class="img-fluid">
+                <img src="/assets/images/award-two.webp" alt="Readers' Choice Award" class="img-fluid">
+                <img src="/assets/images/award-three.webp" alt="New York Times Best Seller" class="img-fluid">
             </div>
         </div>
     </section>

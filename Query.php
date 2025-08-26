@@ -24,7 +24,7 @@ $headers .= "MIME-Version: 1.0" . $eol;
 $headers .= "Content-Type: multipart/mixed; boundary=\"$boundary\"" . $eol;
 
 // Start building HTML email body
-$logo_url = 'https://www.blackstonepublishers.com/assets/images/logo-new.png'; // 🔁 Replace with actual logo URL
+$logo_url = 'https://oceanapublications.com/assets/images/logo.png'; // 🔁 Replace with actual logo URL
 
 $body = "--$boundary" . $eol;
 $body .= "Content-Type: text/html; charset=UTF-8" . $eol;

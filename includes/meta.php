@@ -2,7 +2,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.5/font/bootstrap-icons.min.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 <link rel="icon" href="/assets/images/oceanapublications-fav-icon.png" type="image/x-icon">
-<!-- <link rel="icon" href="/assets/images/fav.png" type="image/png"> -->
 <link
     rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />

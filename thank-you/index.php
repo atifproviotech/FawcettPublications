@@ -13,9 +13,6 @@
     
     
     <div class="thank-hero">
-        <section class="video-section p-0">
-           <video src="/assets/images/thank-you-video.mp4" autoplay muted loop></video>
-       </section>
         <div class="container position-relative z-3 text-white h-100">
             <div class="row justify-content-center align-items-center text-center h-100">
                 

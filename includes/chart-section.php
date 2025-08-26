@@ -14,13 +14,13 @@
                                 
                                 
                                 <div class="d-flex gap-3 awards mx-lg-0 mx-auto">
-                                    <img src="/assets/images/award-one.png" class="img-fluid" alt="award-one">
-                                    <img src="/assets/images/award-two.png" class="img-fluid" alt="award-two">
-                                    <img src="/assets/images/award-three.png" class="img-fluid" alt="award-three">
+                                    <img src="/assets/images/award-one.webp" class="img-fluid" alt="award-one">
+                                    <img src="/assets/images/award-two.webp" class="img-fluid" alt="award-two">
+                                    <img src="/assets/images/award-three.webp" class="img-fluid" alt="award-three">
                                 </div>
                             </div>
                             <div class="col-xxl-5 col-lg-4 col-3 mx-lg-0 mx-auto books">
-                                <img src="/assets/images/charttopperbook-one.png" class="w-100" alt="book-1">
+                                <img src="/assets/images/charttopperbook-one.webp" class="w-100" alt="book-1">
                                 <div class="feedback-box row">
                                     <div class="col-2"><img class="w-100" src="/assets/images/reviewprofileimg-one.png"
                                             alt="rp-1"></div>
@@ -50,13 +50,13 @@
                                 <p class="mb-xl-5 mb-2">At Oceana Publications, we believe every book has the potential to leave a lasting impression. What sets us apart is not only our experience in the publishing world, but our ability to merge creativity with precision. From the first draft to the final print, our team ensures that each step reflects excellence. By uniting time-honored publishing practices with innovative strategies, we’ve built a reputation for producing books that readers cherish and authors are proud to call their own.
                                 </p>
                                 <div class="d-flex gap-3 awards mx-lg-0 mx-auto">
-                                    <img src="/assets/images/award-one.png" alt="award-one">
-                                    <img src="/assets/images/award-two.png" alt="award-two">
-                                    <img src="/assets/images/award-three.png" alt="award-three">
+                                    <img src="/assets/images/award-one.webp" alt="award-one">
+                                    <img src="/assets/images/award-two.webp" alt="award-two">
+                                    <img src="/assets/images/award-three.webp" alt="award-three">
                                 </div>
                             </div>
                             <div class="col-xxl-5 col-lg-4 col-3 mx-lg-0 mx-auto books">
-                                <img src="/assets/images/charttopperbook-two.png" class="w-100" alt="book-2">
+                                <img src="/assets/images/charttopperbook-two.webp" class="w-100" alt="book-2">
                                 <div class="feedback-box row">
                                     <div class="col-2"><img class="w-100" src="/assets/images/reviewprofileimg-two.png"
                                             alt="rp-2"></div>
@@ -85,13 +85,13 @@
                                 <p class="mb-xl-5 mb-2">At Oceana Publications, we understand that a great book deserves to be seen. That’s why we’ve built strong connections across the publishing world—partnering with top distributors, retailers, and marketing platforms. This powerful network ensures our authors’ books gain visibility, reach global audiences, and stand out in an ever-growing marketplace. With Oceana Publications, your story doesn’t just get published—it gets discovered.
                                 </p>
                                 <div class="d-flex gap-3 awards mx-lg-start mx-auto">
-                                    <img src="/assets/images/award-one.png" alt="award-one">
-                                    <img src="/assets/images/award-two.png" alt="award-two">
-                                    <img src="/assets/images/award-three.png" alt="award-three">
+                                    <img src="/assets/images/award-one.webp" alt="award-one">
+                                    <img src="/assets/images/award-two.webp" alt="award-two">
+                                    <img src="/assets/images/award-three.webp" alt="award-three">
                                 </div>
                             </div>
                             <div class="col-xxl-5 col-lg-4 col-3 mx-lg-0 mx-auto books">
-                                <img class="w-100" src="/assets/images/charttopperbook-three.png" alt="book-3">
+                                <img class="w-100" src="/assets/images/charttopperbook-three.webp" alt="book-3">
                                 <div class="feedback-box row">
                                     <div class="col-2"><img class="w-100"
                                             src="/assets/images/reviewprofileimg-three.png" alt="rp-3"></div>
@@ -120,9 +120,9 @@
                                 <p class="mb-xl-5 mb-2">At Oceana Publications, expertise runs deep. Our team brings together accomplished editors, innovative designers, and strategic marketing professionals—all united by a passion for storytelling. We work side by side with every author, offering personalized guidance to refine, shape, and elevate their work. With Oceana Publications, you don’t just publish a book—you craft a literary experience that resonates with readers worldwide.
                                 </p>
                                 <div class="d-flex gap-3 awards mx-lg-start mx-auto">
-                                    <img src="/assets/images/award-one.png" alt="award-one">
-                                    <img src="/assets/images/award-two.png" alt="award-two">
-                                    <img src="/assets/images/award-three.png" alt="award-three">
+                                    <img src="/assets/images/award-one.webp" alt="award-one">
+                                    <img src="/assets/images/award-two.webp" alt="award-two">
+                                    <img src="/assets/images/award-three.webp" alt="award-three">
                                 </div>
                             </div>
                             <div class="col-xxl-5 col-lg-4 col-3 mx-lg-0 mx-auto books">
