@@ -20,15 +20,28 @@
             <div class="row h-100 justify-content-start gap-3 align-items-center">
                 <div class="col-sm-6 col-12 text-xl-start text-sm-start text-center">
                     <h1 class="heading mb-3 follow">
-                        Our Story – Honoring the Past, Shaping the Future
+                        About Us – Oceana Publications
                     </h1>
-                    <p class="mb-3">In the early 20th century, publishing pioneer Wilford Hamilton—better known as Captain Billy—set a standard of creativity and boldness that forever changed the industry. His trailblazing work opened doors for countless writers and captured the imagination of readers around the world. At Oceana Publications, we embrace that same spirit of innovation while charting our own course forward. We believe every author has a story worth telling, and our mission is to bring those stories to life with passion, creativity, and excellence. Just as Captain Billy sparked a publishing revolution, we are committed to helping today’s authors make their mark and inspire the next generation of readers.
+                    <p class="mb-3">Founded in 1945 by Philip F. Cohen, Oceana Publications built a global reputation as
+                        a trusted name in publishing, especially in the fields of law, international relations, and
+                        academia. For decades, Oceana stood for credibility, scholarship, and timeless publishing
+                        standards.
                     </p>
+                    <p>Today, the legacy continues. Revived by the founder’s family, Oceana Publications enters a new
+                        era, expanding far beyond legal works to embrace all genres and all voices. From groundbreaking
+                        research and business thought-leadership to fiction, memoirs, and poetry, Oceana is now a home
+                        for authors worldwide.
+                    </p>
+                    <p>We combine heritage and innovation:</p>
+                    <p>Heritage – Over 75 years of publishing history and credibility.</p>
+                    <p>Innovation – A modern, digital-first publishing approach with global distribution, eBooks, audiobooks, and tailored marketing strategies.</p>
+                    <p>At Oceana, we believe every story matters. Whether you’re an emerging voice or an established expert, our mission is to bring your ideas to the world with the care, quality, and reach you deserve.</p>
+                    <p>Oceana Publications — A legacy reborn. A future rewritten.</p>
                     <a class="chat btn btn-primary" href="javascript:;">
                         <i class="fa-solid fa-comment-dots"></i> Let's Discuss
                     </a>
                 </div>
-                <div class="col-xxl-6 col-3 d-sm-flex d-none  float-image">
+                <div class="col-xxl-6 col-3 d-sm-flex d-none float-image">
                     <img src="/assets/images/aboutus.png" alt="about">
                 </div>
             </div>
@@ -42,10 +55,18 @@
                     <h1 class="heading mb-3">
                         What OP Stands For
                     </h1>
-                    <p class="mb-4">At Oceana Publications, our guiding principle is clear: to deliver stories that inspire, entertain, and leave a lasting impact. We believe that books are more than just words on a page—they are vessels that carry imagination, knowledge, and emotion across generations.
+                    <p class="mb-4">At Oceana Publications, our guiding principle is clear: to deliver stories that
+                        inspire, entertain, and leave a lasting impact. We believe that books are more than just words
+                        on a page—they are vessels that carry imagination, knowledge, and emotion across generations.
                     </p>
-                    <p>Our mission is to support authors in sharing their voices with the world, whether through thought-provoking nonfiction, imaginative fiction, or visually stunning illustrated works. Like the vast and ever-changing oceana, we embrace creativity without limits, venturing into new genres and storytelling mediums while staying true to our promise of quality and authenticity.</p>
-                    <p>Through innovation, dedication, and a deep respect for the power of stories, Oceana Publications has become a name readers and writers alike can trust—a home where meaningful storytelling finds its horizon.</p>
+                    <p>Our mission is to support authors in sharing their voices with the world, whether through
+                        thought-provoking nonfiction, imaginative fiction, or visually stunning illustrated works. Like
+                        the vast and ever-changing oceana, we embrace creativity without limits, venturing into new
+                        genres and storytelling mediums while staying true to our promise of quality and authenticity.
+                    </p>
+                    <p>Through innovation, dedication, and a deep respect for the power of stories, Oceana Publications
+                        has become a name readers and writers alike can trust—a home where meaningful storytelling finds
+                        its horizon.</p>
                     <div class="d-flex gap-3 align-items-center">
                         <img src="/assets/images/status.jpeg" width="70px" height="70px"
                             class="rounded-circle object-fit-cover" alt="status">
@@ -73,7 +94,7 @@
                     </h2>
                 </div>
                 <div class="col-lg-2 col-12">
-                    <a class="btn btn-primary px-5" href="tel:">Call Now</a>
+                    <a class="btn btn-primary px-5" href="tel:(281) 545-7748">Call Now</a>
                 </div>
             </div>
         </div>
@@ -81,7 +102,7 @@
 
 
     <section class="portfolio-section">
-       <?php include "../includes/portfolio.php" ?>
+        <?php include "../includes/portfolio.php" ?>
     </section>
 
     <?php include "../includes/footer.php" ?>

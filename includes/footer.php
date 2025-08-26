@@ -21,14 +21,12 @@
                 <div class="w-100 h-100 row mx-auto">
                     <div class="col-4">
                         <h4 class="mb-2">Address</h4>
-                        <p class="mb-2"><span class="text-danger">Regional Office:</span> 318 1st Avenue SW, 1st Floor,
-                            Rochester, Minnesota, 55902, USA</p>
-                        <p class="mb-2"><span class="text-danger">Regional Office:</span> 5250 Old Orchard Rd, Suite 300
-                            Skokie, IL 60077, USA</p>
+                        <p class="mb-2"><span class="text-danger">Regional Office:</span> 1785 Groveline RD Saint Cloud, FL 34771</p>
+                        
                     </div>
                     <div class="col-4">
                         <h4>Phone Number</h4>
-                        <p>+1-(408)-384-8609</p>
+                        <p>(281) 545-7748</p>
                     </div>
                     <div class="social-box col-4">
                         <h4>Socials</h4>
@@ -125,7 +123,7 @@
         </div>
         <div class="py-5">
             <strong>Disclaimer:</strong>
-            Oceana Publications is inspired by the legacy of Wilford Oceana Publications but operates entirely as an independent entity.
+            Oceana Publications is an independent publishing entity and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Wilford Oceana Publications or any of its subsidiaries or affiliates. Any references to names, trademarks, or other institutions are used strictly for descriptive purposes only.
             <br>
            Copyright © 2025 Oceana Publications. All rights reserved.
         </div>
