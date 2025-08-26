@@ -29,7 +29,7 @@
     </section>
 
     <section class="video-section p-0">
-        <img src="/assets/images/book-bg.jpg" class="img-fluid w-100 h-100" alt="">
+         <video src="/assets/images/oceanapublications-video.mp4" autoplay muted loop></video>
     </section>
 
     <!-- Chart-section -->
@@ -159,7 +159,7 @@
                     <h2>We Give Your Book Wings, So Your Publishing Journey Soars Effortlessly!</h2>
                 </div>
                 <div class="col-md-2 col-sm-3 col-12 text-sm-start text-center">
-                    <a class="btn btn-primary px-5" href="tel:">Call Now</a>
+                    <a class="btn btn-primary px-5" href="tel:(281) 545-7748">Call Now</a>
                 </div>
             </div>
         </div>
@@ -173,67 +173,67 @@
     </section>
 
     <section class="genre-section">
-        <div class="container">
+        
             <h1 class="text-center">Genres</h1>
-            <div class="row justify-content-center h-100 pb-3 text-center align-items-center">
+            <div class="row justify-content-center h-100 pb-3 text-center align-items-center genre-bg">
                 <div class="col-xl-3 col-sm-4 col-7 text-center d-flex align-items-center">
                     <div class="swiper genreSwiper w-100 ">
                         <div class="swiper-wrapper d-flex align-items-end">
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Action</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/action.webp"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Action</h2>
+                                <img class="img-fluid" src="/assets/images/action.webp"
                                     alt="action">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Comics</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/comics.webp"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Comics</h2>
+                                <img class="img-fluid" src="/assets/images/comics.webp"
                                     alt="comics">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Fiction</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/fiction.png"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Fiction</h2>
+                                <img class="img-fluid" src="/assets/images/fiction.png"
                                     alt="fiction">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Children</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/childrens.webp"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Children</h2>
+                                <img class="img-fluid" src="/assets/images/childrens.webp"
                                     alt="children">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Romance</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/romance.png"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Romance</h2>
+                                <img class="img-fluid" src="/assets/images/romance.png"
                                     alt="romance">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Sci-Fi</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/sci-fi.png"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Sci-Fi</h2>
+                                <img class="img-fluid" src="/assets/images/sci-fi.png"
                                     alt="sci-fi">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Mystery</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/mystery.png"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Mystery</h2>
+                                <img class="img-fluid" src="/assets/images/mystery.png"
                                     alt="mystery">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Thriller</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/thriller.png"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Thriller</h2>
+                                <img class="img-fluid" src="/assets/images/thriller.png"
                                     alt="thriller">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Non-fiction</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/non-fiction.webp"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Non-fiction</h2>
+                                <img class="img-fluid" src="/assets/images/non-fiction.webp"
                                     alt="non-fiction">
                             </div>
                             <div class="swiper-slide">
-                                <h3 data-aos="fade-up" data-aos-duration="1000" class="heading-1">Adult Books</h3>
-                                <img class="w-100 object-fit-contain img-fluid" src="/assets/images/adult-books.webp"
+                                <h2 data-aos="fade-up" data-aos-duration="1000" class="">Adult Books</h2>
+                                <img class="img-fluid" src="/assets/images/adult-books.webp"
                                     alt="adult-book">
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
+            
     </section>
 
 

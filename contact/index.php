@@ -94,17 +94,12 @@
                         <div class="w-100 h-100 row">
                             <div class="col-4">
                                 <h4 class="mb-2">Address</h4>
-                                <p class="mb-2"><span class="text-danger">Head Office:</span> 5250 Old Orchard Rd, Suite
-                                    300 Skokie, IL 60077</p>
-                                <p class="mb-2"><span class="text-danger">Regional Office:</span> 5250 Old Orchard Rd,
-                                    318 1st Avenue SW, 1st Floor, Rochester, Minnesota, 55902, United States of America
-                                </p>
-                                <p class="mb-2"><span class="text-danger">Regional Office:</span>  1415 W North St Unit 421 Anaheim, Ca 92801, Usa
-                                </p>
+                                <p class="mb-2"><span class="text-danger">Head Office:</span> 1785 Groveline RD Saint Cloud, FL 34771</p>
+                                
                             </div>
                             <div class="col-4">
                                 <h4>Phone Number</h4>
-                                <p>+1-(408)-384-8609</p>
+                                <p>(281) 545-7748</p>
                             </div>
                             <div class="social-box col-4">
                                 <h4>Socials</h4>

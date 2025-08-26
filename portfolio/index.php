@@ -45,74 +45,62 @@
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/1.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">Whiz Comics</h5>
+                        <img src="/assets/images/hall-of-fame/1.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/2.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">The Marvel Family Comics</h5>
+                        <img src="/assets/images/hall-of-fame/2.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/3.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">Captain Marvel Adventures</h5>
+                        <img src="/assets/images/hall-of-fame/3.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/4.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">The Marvel Family </h5>
+                        <img src="/assets/images/hall-of-fame/4.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/5.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">Capt Billy's Whiz Bang</h5>
+                        <img src="/assets/images/hall-of-fame/5.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/6.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">Jagua Nana</h5>
+                        <img src="/assets/images/hall-of-fame/6.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/7.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">The Alpine Legacy - An Emma Lord Mystery</h5>
+                        <img src="/assets/images/hall-of-fame/7.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/8.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">The Clairvoyant Countess</h5>
+                        <img src="/assets/images/hall-of-fame/8.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/9.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">Malice in London</h5>
+                        <img src="/assets/images/hall-of-fame/9.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/10.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">The Amazing Mrs. Pollifax</h5>
+                        <img src="/assets/images/hall-of-fame/10.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/11.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">The Unexpected Mrs. Pollifax</h5>
+                        <img src="/assets/images/hall-of-fame/11.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/hall-of-fame/12.webp" class="img-fluid" alt="hall-of-fame">
-                        <h5 class="">The Real True Beatles</h5>
+                        <img src="/assets/images/hall-of-fame/12.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
             </div>
@@ -155,62 +143,62 @@
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-1.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/13.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-2.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/14.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-3.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/15.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-4.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/16.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-5.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/17.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-6.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/18.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-7.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/19.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-8.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/20.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-9.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/21.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-10.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/22.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-11.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/23.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
                 <div class="col-md-3 col-5">
                     <div class="p-books">
-                        <img src="/assets/images/port-12.webp" class="img-fluid" alt="hall-of-fame">
+                        <img src="/assets/images/hall-of-fame/24.jfif" class="img-fluid" alt="hall-of-fame">
                     </div>
                 </div>
             </div>
